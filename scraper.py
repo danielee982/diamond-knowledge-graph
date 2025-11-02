@@ -145,12 +145,17 @@ all_coaches_data = []
 if __name__ == '__main__':
     all_players_data = []
     all_coaches_data = []
+    high_schools = set()
 
     for school_name, url in SCHOOLS.items():
         print(f'\nScraping {school_name.upper()}...')
         players, coaches = scrape_school(school_name, url)
         all_players_data.extend(players)
         all_coaches_data.extend(coaches)
+
+        for player in players:
+            if player["High School"] != 'N/A':
+                high_schools.add(player["High School"])
 
     # Write players data to CSV
     write_to_csv('players.csv', all_players_data, ['School', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'Batting', 'Throwing', 'High School'])
@@ -159,3 +164,17 @@ if __name__ == '__main__':
     # Write coaches data to CSV
     write_to_csv('coaches.csv', all_coaches_data, ['School', 'Name', 'Title'])
     print(f'{len(all_coaches_data)} total coach records written to coaches.csv')
+
+    # Write schools data to CSV
+    with open('schools.csv', 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['name', 'school type'])  # Header
+        
+        # Write universities
+        for school_name in SCHOOLS.keys():
+            writer.writerow([school_name, 'university'])
+        
+        # Write high schools
+        for hs in sorted(high_schools):
+            writer.writerow([hs, 'high school'])
+    print(f'{len(high_schools)} total high schools written to schools.csv')
