@@ -3,13 +3,35 @@ import requests
 import csv
 
 def scrape_school(school_name, url):
+    players, coaches = [], []
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+            'Accept-Language': 'en-US,en;q=0.9',
+        }
+        html = requests.get(url, headers=headers, timeout=15).text
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # 1️⃣ Detect structure automatically
+        if soup.find('div', class_='s-person-card__content'):
+            print(f"Detected Sidearm layout for {school_name}")
+            players, coaches = parse_sidearm(school_name, soup)
+        elif soup.find('div', class_='table--roster'):
+            print(f"Detected Table layout for {school_name}")
+            players, coaches = parse_table_roster(school_name, soup)
+        else:
+            print(f"Unknown structure for {school_name}, skipping.")
+
+    except Exception as e:
+        print(f"*** Error scraping {school_name}: {e}")
+
+    return players, coaches
+
+def parse_sidearm(school_name, soup):
     players = []
     coaches = []
     
     try:
-        html = requests.get(url).text
-        soup = BeautifulSoup(html, 'html.parser')
-        
         all_people = soup.find_all('div', attrs={'class': 's-person-card__content'})
         
         for person in all_people:
@@ -126,17 +148,91 @@ def scrape_school(school_name, url):
         print(f'*** Error scraping {school_name.upper()}: {str(e)}')
         return [], []
     
+def parse_table_roster(school_name, soup):
+    players, coaches = [], []
+
+    # Find all roster tables (covers both players and coaches)
+    tables = soup.find_all("div", class_="table--roster")
+    for table in tables:
+        tbody = table.find("tbody")
+        if not tbody:
+            continue
+
+        for row in tbody.find_all("tr"):
+            # Extract all cells (both td and th)
+            cells = row.find_all(["td", "th"])
+            if not cells:
+                continue
+            
+            # Extract plain text from each cell
+            cols = []
+            for cell in cells:
+                a = cell.find("a")
+                text = a.get_text(strip=True) if a else cell.get_text(strip=True)
+                cols.append(text)
+            
+            # --- COACH rows ---
+            if len(cols) <= 2:
+                name = cols[0] if len(cols) >= 1 else "N/A"
+                title = cols[1] if len(cols) >= 2 else "N/A"
+                coaches.append({
+                    "School": school_name,
+                    "Name": name,
+                    "Title": title
+                })
+                continue
+
+            # --- PLAYER row ---
+            # Expected structure:
+            # [#, Name, Class, Pos, Height, Weight, B/T, Hometown, High School, ...]
+            jersey = cols[0] if len(cols) > 0 else "N/A"
+            name = cols[1] if len(cols) > 1 else "N/A"
+            class_year = cols[2] if len(cols) > 2 else "N/A"
+            position = cols[3] if len(cols) > 3 else "N/A"
+            height = cols[4] if len(cols) > 4 else "N/A"
+            weight = cols[5] if len(cols) > 5 else "N/A"
+            bt = cols[6] if len(cols) > 6 else "N/A"
+            highschool = cols[8] if len(cols) > 8 else "N/A"
+
+            # Split Bat/Throw if formatted as "R/R"
+            batting, throwing = "N/A", "N/A"
+            if "/" in bt:
+                parts = bt.split("/")
+                batting = parts[0].strip()
+                throwing = parts[1].strip() if len(parts) > 1 else "N/A"
+
+            players.append({
+                "School": school_name,
+                "Name": name,
+                "Jersey": jersey,
+                "Class Year": class_year,
+                "Position": position,
+                "Height": height,
+                "Weight": weight,
+                "Batting": batting,
+                "Throwing": throwing,
+                "High School": highschool,
+            })
+
+    return players, coaches
+
 def write_to_csv(filename, data, fieldnames):
     with open(filename, 'w', newline='', encoding='utf-8') as file:
         writer = csv.DictWriter(file, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(data)
 
-# Define schools to scrape
+# Schools to scrape
 SCHOOLS = {
     'University of Florida': 'https://floridagators.com/sports/baseball/roster',
     'University of Missouri': 'https://mutigers.com/sports/baseball/roster',
-    'University of Oklahoma': 'https://soonersports.com/sports/baseball/roster'
+    'University of Oklahoma': 'https://soonersports.com/sports/baseball/roster',
+    'University of Alabama': 'https://rolltide.com/sports/baseball/roster/2025',
+    'University of Washington': 'https://gohuskies.com/sports/baseball/roster/2025',
+    'Northwestern University': 'https://nusports.com/sports/baseball/roster',
+
+    'Purdue University': 'https://purduesports.com/sports/baseball/roster',
+    'University of Nebraska': 'https://huskers.com/sports/baseball/roster/season/2025',
 }
 
 all_players_data = []
