@@ -8,11 +8,13 @@ def scrape_school(school_name, url):
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept-Language': 'en-US,en;q=0.9',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
         }
         html = requests.get(url, headers=headers, timeout=15).text
         soup = BeautifulSoup(html, 'html.parser')
 
-        # 1️⃣ Detect structure automatically
+        # Detect structure automatically
         if soup.find('div', class_='s-person-card__content'):
             print(f"Detected Sidearm layout for {school_name}")
             players, coaches = parse_sidearm(school_name, soup)
@@ -94,15 +96,15 @@ def parse_sidearm(school_name, soup):
                 else:
                     weight = 'N/A'
                 
-                bt_elem = bio_items[4] if len(bio_items) > 4 else None
-                if bt_elem:
-                    bt_wrapper = bt_elem.find('span', attrs={'data-html-wrapper': ''})
-                    batting_throwing = bt_wrapper.text.strip() if bt_wrapper else 'N/A'
-                else:
-                    batting_throwing = 'N/A'
+                # bt_elem = bio_items[4] if len(bio_items) > 4 else None
+                # if bt_elem:
+                #     bt_wrapper = bt_elem.find('span', attrs={'data-html-wrapper': ''})
+                #     batting_throwing = bt_wrapper.text.strip() if bt_wrapper else 'N/A'
+                # else:
+                #     batting_throwing = 'N/A'
                 
-                batting = batting_throwing.split('/')[0].strip() if '/' in batting_throwing else 'N/A'
-                throwing = batting_throwing.split('/')[1].strip() if '/' in batting_throwing else 'N/A'
+                # batting = batting_throwing.split('/')[0].strip() if '/' in batting_throwing else 'N/A'
+                # throwing = batting_throwing.split('/')[1].strip() if '/' in batting_throwing else 'N/A'
                 
                 highschool_elem = person.find('span', attrs={'data-test-id': 's-person-card-list__content-location-person-high-school'})
                 if highschool_elem:
@@ -121,8 +123,8 @@ def parse_sidearm(school_name, soup):
                     'Class Year': class_year,
                     'Height': height,
                     'Weight': weight,
-                    'Batting': batting,
-                    'Throwing': throwing,
+                    # 'Batting': batting,
+                    # 'Throwing': throwing,
                     'High School': highschool
                 })
             
@@ -183,7 +185,6 @@ def parse_table_roster(school_name, soup):
                 continue
 
             # --- PLAYER row ---
-            # Expected structure:
             # [#, Name, Class, Pos, Height, Weight, B/T, Hometown, High School, ...]
             jersey = cols[0] if len(cols) > 0 else "N/A"
             name = cols[1] if len(cols) > 1 else "N/A"
@@ -191,15 +192,15 @@ def parse_table_roster(school_name, soup):
             position = cols[3] if len(cols) > 3 else "N/A"
             height = cols[4] if len(cols) > 4 else "N/A"
             weight = cols[5] if len(cols) > 5 else "N/A"
-            bt = cols[6] if len(cols) > 6 else "N/A"
+            # bt = cols[6] if len(cols) > 6 else "N/A"
             highschool = cols[8] if len(cols) > 8 else "N/A"
 
             # Split Bat/Throw if formatted as "R/R"
-            batting, throwing = "N/A", "N/A"
-            if "/" in bt:
-                parts = bt.split("/")
-                batting = parts[0].strip()
-                throwing = parts[1].strip() if len(parts) > 1 else "N/A"
+            # batting, throwing = "N/A", "N/A"
+            # if "/" in bt:
+            #     parts = bt.split("/")
+            #     batting = parts[0].strip()
+            #     throwing = parts[1].strip() if len(parts) > 1 else "N/A"
 
             players.append({
                 "School": school_name,
@@ -209,11 +210,11 @@ def parse_table_roster(school_name, soup):
                 "Position": position,
                 "Height": height,
                 "Weight": weight,
-                "Batting": batting,
-                "Throwing": throwing,
+                # "Batting": batting,
+                # "Throwing": throwing,
                 "High School": highschool,
             })
-
+    print(f'{school_name.upper()} scraped successfully')
     return players, coaches
 
 def write_to_csv(filename, data, fieldnames):
@@ -254,7 +255,7 @@ if __name__ == '__main__':
                 high_schools.add(player["High School"])
 
     # Write players data to CSV
-    write_to_csv('players.csv', all_players_data, ['School', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'Batting', 'Throwing', 'High School'])
+    write_to_csv('players.csv', all_players_data, ['School', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'High School'])
     print(f'{len(all_players_data)} total player records written to players.csv')
 
     # Write coaches data to CSV
