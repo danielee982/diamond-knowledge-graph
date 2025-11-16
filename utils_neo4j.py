@@ -1,5 +1,4 @@
 from neo4j import GraphDatabase
-import pandas as pd
 
 NEO4J_URI="neo4j+s://b9043243.databases.neo4j.io"
 NEO4J_USERNAME="neo4j"
@@ -153,15 +152,10 @@ class GraphDBManager:
 
         print("Coaches loaded successfully.")
 
-def main():
-    graph_db = GraphDBManager(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
-    graph_db.create_constraints()
-    graph_db.load_conferences()
-    graph_db.load_schools()
-    graph_db.load_teams()
-    graph_db.load_players()
-    graph_db.load_coaches()
-    graph_db.close()
-
-if __name__ == "__main__":
-    main()
+    def load_all(self):
+        self.create_constraints()
+        self.load_conferences()
+        self.load_schools()
+        self.load_teams()
+        self.load_players()
+        self.load_coaches()

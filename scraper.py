@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+from utils_neo4j import NEO4J_PASSWORD, NEO4J_URI, NEO4J_USERNAME, GraphDBManager
 
 def scrape_school(school_name, url):
     players, coaches = [], []
@@ -275,3 +276,12 @@ if __name__ == '__main__':
         for hs in sorted(high_schools):
             writer.writerow([hs, 'high school'])
     print(f'{len(high_schools)} total high schools written to schools.csv')
+
+    # Load data into Neo4j
+    load_to_neo4j = input("\nLoad data into Neo4j database? (y/n): ").strip().lower()
+    if load_to_neo4j == 'y':
+        db_manager = GraphDBManager(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
+        db_manager.load_all()
+        print("Data loaded into Neo4j successfully.")
+    else:
+        print("Data loading skipped.")
