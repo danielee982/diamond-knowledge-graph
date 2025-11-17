@@ -1,7 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
-from utils_neo4j import NEO4J_PASSWORD, NEO4J_URI, NEO4J_USERNAME, GraphDBManager
+import time
+from funcs_neo4j import GraphDBManager
 
 def scrape_school(school_name, url):
     players, coaches = [], []
@@ -245,8 +246,13 @@ if __name__ == '__main__':
     all_coaches_data = []
     high_schools = set()
 
-    for school_name, url in SCHOOLS.items():
+    for i, (school_name, url) in enumerate(SCHOOLS.items()):
         print(f'\nScraping {school_name.upper()}...')
+
+        if i > 0:
+            print(f"*** Waiting 3 second before next request to avoid rate limiting...")
+            time.sleep(3)
+
         players, coaches = scrape_school(school_name, url)
         all_players_data.extend(players)
         all_coaches_data.extend(coaches)
@@ -280,7 +286,7 @@ if __name__ == '__main__':
     # Load data into Neo4j
     load_to_neo4j = input("\nLoad data into Neo4j database? (y/n): ").strip().lower()
     if load_to_neo4j == 'y':
-        db_manager = GraphDBManager(NEO4J_URI, NEO4J_USERNAME, NEO4J_PASSWORD)
+        db_manager = GraphDBManager()
         db_manager.load_all()
         print("Data loaded into Neo4j successfully.")
     else:
