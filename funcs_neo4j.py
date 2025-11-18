@@ -2,7 +2,7 @@ from neo4j import GraphDatabase
 import dotenv
 import os
 
-RAW_BASE = "https://raw.githubusercontent.com/danielee982/diamond-knowledge-graph/main"
+RAW_BASE = "https://raw.githubusercontent.com/danielee982/diamond-knowledge-graph/main/data/processed"
 
 class GraphDBManager:
     def __init__(self):

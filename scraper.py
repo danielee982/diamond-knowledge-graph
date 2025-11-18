@@ -2,7 +2,9 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 import time
+import pandas as pd
 from funcs_neo4j import GraphDBManager
+from process_data import dedup_coaches, dedup_high_schools
 
 def scrape_school(school_name, url):
     players, coaches = [], []
@@ -345,15 +347,15 @@ if __name__ == '__main__':
                 high_schools.add(player["High School"])
 
     # Write players data to CSV
-    write_to_csv('players.csv', all_players_data, ['School', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'High School'])
+    write_to_csv('data/raw/players.csv', all_players_data, ['School', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'High School'])
     print(f'{len(all_players_data)} total player records written to players.csv')
 
     # Write coaches data to CSV
-    write_to_csv('coaches.csv', all_coaches_data, ['School', 'Name', 'Title'])
+    write_to_csv('data/raw/coaches.csv', all_coaches_data, ['School', 'Name', 'Title'])
     print(f'{len(all_coaches_data)} total coach records written to coaches.csv')
 
     # Write schools data to CSV
-    with open('schools.csv', 'w', newline='', encoding='utf-8') as file:
+    with open('data/raw/schools.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['name', 'school type'])  # Header
         
@@ -365,3 +367,14 @@ if __name__ == '__main__':
         for hs in sorted(high_schools):
             writer.writerow([hs, 'high school'])
     print(f'{len(high_schools)} total high schools written to schools.csv')
+
+    players_df = pd.read_csv('data/raw/players.csv')
+    schools_df = pd.read_csv('data/raw/schools.csv')
+    coaches_df = pd.read_csv('data/raw/coaches.csv')
+
+    coaches_df = dedup_coaches(coaches_df)
+    players_df, schools_df = dedup_high_schools(players_df, schools_df)
+
+    players_df.to_csv('data/processed/players.csv', index=False)
+    schools_df.to_csv('data/processed/schools.csv', index=False)
+    coaches_df.to_csv('data/processed/coaches.csv', index=False)
