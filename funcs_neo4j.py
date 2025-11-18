@@ -161,3 +161,7 @@ class GraphDBManager:
         self.add_team_relationships()
         self.add_coach_relationships()
         self.close()
+
+if __name__ == "__main__":
+    manager = GraphDBManager()
+    manager.load_all()
