@@ -23,6 +23,9 @@ def scrape_school(school_name, url):
         elif soup.find('div', class_='table--roster'):
             print(f"Detected Table layout for {school_name}")
             players, coaches = parse_table_roster(school_name, soup)
+        elif soup.find('li', class_='sidearm-roster-player'):
+            print(f"Detected Classic Sidearm layout for {school_name}")
+            players, coaches = parse_sidearm_classic(school_name, soup)
         else:
             print(f"Unknown structure for {school_name}, skipping.")
 
@@ -152,6 +155,82 @@ def parse_sidearm(school_name, soup):
         print(f'*** Error scraping {school_name.upper()}: {str(e)}')
         return [], []
     
+def parse_sidearm_classic(school_name, soup):
+    """
+    Parse the older/classic Sidearm Sports roster layout.
+    Extracts players and coaches in the SAME FORMAT as existing CSV output.
+    """
+    players = []
+    coaches = []
+
+    # parse players
+    player_items = soup.find_all("li", class_="sidearm-roster-player")
+    for item in player_items:
+        try:
+            name_tag = item.find("h3")
+            name = name_tag.get_text(strip=True) if name_tag else "N/A"
+
+            # Jersey #
+            jersey_tag = item.find("span", class_="sidearm-roster-player-jersey-number")
+            jersey = jersey_tag.get_text(strip=True) if jersey_tag else "N/A"
+
+            # Position
+            pos_tag = item.find("span", class_="sidearm-roster-player-position-long-short")
+            position = pos_tag.get_text(strip=True) if pos_tag else "N/A"
+
+            # Height / Weight
+            height_tag = item.find("span", class_="sidearm-roster-player-height")
+            height = height_tag.get_text(strip=True) if height_tag else "N/A"
+
+            weight_tag = item.find("span", class_="sidearm-roster-player-weight")
+            weight = weight_tag.get_text(strip=True) if weight_tag else "N/A"
+
+            # High School
+            hs_tag = item.find("span", class_="sidearm-roster-player-highschool")
+            highschool = hs_tag.get_text(strip=True) if hs_tag else "N/A"
+
+            # Class year
+            class_tag = item.find("span", class_="sidearm-roster-player-academic-year")
+            class_year = class_tag.get_text(strip=True) if class_tag else "N/A"
+
+            players.append({
+                "School": school_name,
+                "Name": name,
+                "Jersey": jersey,
+                "Position": position,
+                "Class Year": class_year,
+                "Height": height,
+                "Weight": weight,
+                "High School": highschool,
+            })
+
+        except Exception as e:
+            print(f"Error parsing player in {school_name}: {e}")
+            continue
+
+    # parse coaches
+    coach_items = soup.find_all("li", class_="sidearm-roster-coach")
+    for item in coach_items:
+        try:
+            name_tag = item.find("p")
+            name = name_tag.get_text(strip=True) if name_tag else "N/A"
+
+            title_tag = item.find("div", class_="sidearm-roster-coach-title")
+            title = title_tag.get_text(strip=True) if title_tag else "N/A"
+
+            coaches.append({
+                "School": school_name,
+                "Name": name,
+                "Title": title,
+            })
+
+        except Exception as e:
+            print(f"Error parsing coach in {school_name}: {e}")
+            continue
+
+    print(f"{school_name.upper()} (classic layout) scraped successfully")
+    return players, coaches
+    
 def parse_table_roster(school_name, soup):
     players, coaches = [], []
 
@@ -232,10 +311,14 @@ SCHOOLS = {
     'University of Oklahoma': 'https://soonersports.com/sports/baseball/roster',
     'University of Alabama': 'https://rolltide.com/sports/baseball/roster/2025',
     'University of Washington': 'https://gohuskies.com/sports/baseball/roster/2025',
-    'Northwestern University': 'https://nusports.com/sports/baseball/roster',
+    'University of Oregon': 'https://goducks.com/sports/baseball/roster/2025',
+    'University of Indiana': 'https://iuhoosiers.com/sports/baseball/roster/2025',
+    'University of Minnesota': 'https://gophersports.com/sports/baseball/roster/2025',
+    'Texas A&M University': 'https://12thman.com/sports/baseball/roster/2025',
+    'University of Mississippi': 'https://olemisssports.com/sports/baseball/roster/2025',
 
-    'Purdue University': 'https://purduesports.com/sports/baseball/roster',
-    'University of Nebraska': 'https://huskers.com/sports/baseball/roster/season/2025',
+    'University of Maryland': 'https://umterps.com/sports/baseball/roster/2025',
+    'Rutgers University': 'https://scarletknights.com/sports/baseball/roster/2025',
 }
 
 all_players_data = []
@@ -282,12 +365,3 @@ if __name__ == '__main__':
         for hs in sorted(high_schools):
             writer.writerow([hs, 'high school'])
     print(f'{len(high_schools)} total high schools written to schools.csv')
-
-    # Load data into Neo4j
-    load_to_neo4j = input("\nLoad data into Neo4j database? (y/n): ").strip().lower()
-    if load_to_neo4j == 'y':
-        db_manager = GraphDBManager()
-        db_manager.load_all()
-        print("Data loaded into Neo4j successfully.")
-    else:
-        print("Data loading skipped.")
