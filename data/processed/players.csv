@@ -1,0 +1,492 @@
+School,Name,Jersey,Position,Class Year,Height,Weight,High School
+University Of Florida,Justin Nadeau,1,INF/OF,Jr.,6' 0'',195 lbs,Bartram Trail (Jacksonville)
+University Of Florida,Ty Evans,2,OF,Sr.,6' 2'',215 lbs,Lakeland Christian
+University Of Florida,Kyle Jones,3,OF,So.,6' 3'',185 lbs,North Oconee (Stetson)
+University Of Florida,Cade Kurland,4,INF,Jr.,5' 11'',190 lbs,Berkeley Prep
+University Of Florida,Blake Cyr,5,OF/INF,Jr.,5' 11'',190 lbs,Windermere (Miami)
+University Of Florida,Bobby Boser,6,INF/OF,Sr.,6' 1'',215 lbs,Wiregrass Ranch (USF)
+University Of Florida,Christian Rodriguez,8,RHP,R-Fr.,6' 0'',210 lbs,Marjory Stoneman Douglas
+University Of Florida,Luke McNeillie,9,RHP,So.,6' 3'',190 lbs,Milton
+University Of Florida,Colby Shelton,10,INF,Jr.,6' 0'',205 lbs,Bloomingdale (Alabama)
+University Of Florida,Brendan Lawson,11,INF,Fr.,6' 3'',215 lbs,P27 Academy
+University Of Florida,Liam Peterson,12,RHP,So.,6' 5'',220 lbs,Calvary Christian
+University Of Florida,Landon Stripling,13,INF,So.,6' 0'',200 lbs,Parkview (Texas Tech)
+University Of Florida,Joshua Whritenour,15,RHP,Fr.,6' 2'',195 lbs,A3 Academy
+University Of Florida,Hayden Yost,16,OF,So.,6' 1'',195 lbs,Sickles
+University Of Florida,Jacob Gomberg,17,LHP,So.,5' 10'',180 lbs,Marjory Stoneman Douglas
+University Of Florida,Pierce Coppola,18,LHP,R-Jr.,6' 8'',245 lbs,Verona
+University Of Florida,Jake Clemente,20,RHP,R-So.,6' 3'',225 lbs,Marjory Stoneman Douglas
+University Of Florida,Caden McDonald,21,RHP/1B,R-Fr.,6' 3'',200 lbs,Sickles
+University Of Florida,Jackson Barberi,22,RHP,Fr.,6' 4'',180 lbs,Brookwood
+University Of Florida,Billy Barlow,23,RHP,R-Jr.,6' 2'',220 lbs,North Myrtle Beach (Clemson)
+University Of Florida,Blake Brookins,24,OF,So.,6' 5'',225 lbs,Miami Palmetto
+University Of Florida,Kolt Myers,25,INF,Fr.,6' 2'',190 lbs,St. John's Country Day
+University Of Florida,Niko Janssens,26,LHP,Fr.,6' 4'',200 lbs,A3 Academy
+University Of Florida,Blaine Rowland,27,RHP,Fr.,6' 3'',220 lbs,Durant
+University Of Florida,Luke Heyman,28,C,Jr.,6' 4'',220 lbs,Lake Brantley
+University Of Florida,Brody Donay,29,C,Jr.,6' 5'',235 lbs,Lakeland Christian
+University Of Florida,Ashton Wilson,30,OF/INF,Jr.,6' 0'',200 lbs,TNXL Academy
+University Of Florida,Frank Menendez,31,LHP,So.,6' 1'',215 lbs,Doral Academy Charter
+University Of Florida,McCall Biemiller,33,LHP,Fr.,6' 2'',180 lbs,Tampa Jesuit
+University Of Florida,Alex Philpott,34,RHP,So.,6' 6'',200 lbs,Strawberry Crest
+University Of Florida,Brock Clayton,35,C/OF,Fr.,6' 3'',210 lbs,Pensacola Catholic
+University Of Florida,Matthew Jenkins,37,RHP,So.,6' 6'',195 lbs,Lafayette (Santa Fe College)
+University Of Florida,Mason Laurito,38,LHP,So.,6' 0'',175 lbs,Forest (Gulf Coast CC)
+University Of Florida,Cole Bullen,40,C,R-Jr.,5' 9'',175 lbs,Villages Charter (College of Central Florida)
+University Of Florida,Felix Ong,44,RHP,Fr.,6' 4'',220 lbs,Key West
+University Of Florida,Schuyler Sandford,45,RHP,Fr.,6' 6'',215 lbs,St. John's Country Day
+University Of Florida,Aidan King,47,RHP,Fr.,6' 2'',195 lbs,Bishop John J. Snyder
+University Of Florida,Carson Montsdeoca,99,RHP,Fr.,6' 3'',205 lbs,Fort Meade
+University Of Missouri,Cameron Benson,1,INF/OF,Jr.,6' 3'',185 lbs,Southfield HS for the Arts & Technology
+University Of Missouri,Brock Daniels,2,INF/OF,Jr.,6' 1'',195 lbs,St. John Vianney HS
+University Of Missouri,Peyton Basler,3,INF,Jr.,6' 0'',195 lbs,Lansing HS
+University Of Missouri,Jedier Hernandez,4,C,Sr.,6' 0'',200 lbs,Trenton Catholic Academy
+University Of Missouri,Pierre Seals,5,OF,Sr.,6' 0'',210 lbs,Houston HS
+University Of Missouri,Kaden Peer,7,OF/INF,So.,6' 2'',185 lbs,CBC HS
+University Of Missouri,Gehrig Goldbeck,10,INF,Jr.,6' 1'',175 lbs,Tonganoxie HS
+University Of Missouri,Austin Henry,11,RHP,So.,6' 5'',220 lbs,Dell Rapids HS
+University Of Missouri,Tyler Macon,12,INF,R-Fr.,5' 11'',175 lbs,Kirkwood HS
+University Of Missouri,Brady Picarelli,13,OF,Fr.,6' 2'',200 lbs,Eureka HS
+University Of Missouri,Isaiah Frost,14,OF,Sr.,5' 11'',197 lbs,Blue Springs South HS
+University Of Missouri,Chris Patterson,17,INF,Fr.,6' 3'',190 lbs,Prestonwood Academy
+University Of Missouri,Jackson Lovich,18,INF,Jr.,6' 4'',192 lbs,Blue Valley West HS
+University Of Missouri,Keegan Knutson,19,INF,Jr.,5' 10'',195 lbs,Combine Academy
+University Of Missouri,Trey Lawrence,20,INF/RHP,Fr.,6' 3'',180 lbs,Palmetto HS
+University Of Missouri,Sam Horn,21,RHP,So.,6' 4'',217 lbs,Collins Hill
+University Of Missouri,Kadden Drew,22,LHP,Jr.,6' 2'',210 lbs,Notre Dame Prep
+University Of Missouri,Ian Lohse,23,LHP,Gr.,6' 0'',199 lbs,Marquette HS
+University Of Missouri,Trey Callaway,24,UTIL,Fr.,6' 1'',215 lbs,Dutchtown HS
+University Of Missouri,Brock Lucas,25,RHP,Jr.,6' 3'',229 lbs,St. Elizabeth HS
+University Of Missouri,Victor Christal,26,RHP,Fr.,6' 0'',190 lbs,Bishop Miege HS
+University Of Missouri,PJ Green,27,OF/RHP,Fr.,6' 2'',195 lbs,Sandy Creek HS
+University Of Missouri,Josh Kirchhoff,28,RHP,Jr.,6' 3'',210 lbs,Concordia Academy-Roseville
+University Of Missouri,James Vaughn,29,RHP,Gr.,6' 5'',240 lbs,Collegiate School
+University Of Missouri,Wil Libbert,30,LHP,R-Fr.,6' 1'',205 lbs,Blair Oaks HS
+University Of Missouri,Kaden Jacobi,32,RHP,Sr.,6' 3'',220 lbs,Liberty
+University Of Missouri,Daniel Wissler,35,LHP,Jr.,6' 2'',185 lbs,Fort Zumwalt West HS
+University Of Missouri,Aeneas Clark,36,RHP,Jr.,6' 3'',205 lbs,Northwest Christian HS
+University Of Missouri,Aden Malpass,37,OF,Fr.,6' 0'',175 lbs,Catholic HS
+University Of Missouri,Blake Simpson,38,INF,Jr.,6' 2'',185 lbs,Pickering HS
+University Of Missouri,Charlie Miller,39,RHP,So.,6' 3'',185 lbs,Russellville HS
+University Of Missouri,Brady Kehlenbrink,40,LHP,Fr.,6' 2'',205 lbs,Parkway South HS
+University Of Missouri,Nic Smith,41,LHP,Jr.,6' 3'',198 lbs,Alvin C. York Institute
+University Of Missouri,Javyn Pimental,43,LHP,Sr.,6' 3'',213 lbs,Kamehameha HS
+University Of Missouri,Xavier Lovett,44,RHP,Gr.,6' 0'',190 lbs,Westfield HS
+University Of Missouri,Cayden Nicoletto,48,OF,Sr.,6' 0'',190 lbs,Baldivis Secondary College
+University Of Missouri,Tony Neubeck,49,LHP,Jr.,6' 2'',237 lbs,Mahtomedi HS
+University Of Missouri,Ben Smith,50,RHP,So.,6' 2'',195 lbs,Catholic HS
+University Of Missouri,Jaylen Merchant,51,RHP,So.,6' 0'',180 lbs,Grayson HS
+University Of Missouri,Josh McDevitt,54,RHP,So.,6' 2'',195 lbs,Effingham HS
+University Of Missouri,Seth McCartney,58,RHP,Jr.,6' 0'',200 lbs,Brandon
+University Of Missouri,Mateo Serna,88,C,So.,6' 0'',195 lbs,American Heritage HS
+University Of Oklahoma,Jason Walk,1,OF,Jr.,5' 10'',166 lbs,Harrison HS
+University Of Oklahoma,Myles Davis,2,INF,So.,6' 0'',213 lbs,Marion HS
+University Of Oklahoma,Cayden Brumbaugh,3,UTL,Sr.,5' 9'',182 lbs,Edmond Santa Fe HS
+University Of Oklahoma,Alec Blair,4,OF,Fr.,6' 6'',195 lbs,De La Salle
+University Of Oklahoma,Nolan Stevens,5,OF/LHP,Jr.,6' 2'',216 lbs,Franklin
+University Of Oklahoma,Kyle Branch,6,INF,So.,5' 11'',182 lbs,Lovejoy HS
+University Of Oklahoma,Jaxon Willits,7,INF,Jr.,6' 0'',203 lbs,Fort Cobb-Broxton HS
+University Of Oklahoma,Uriah Walters,8,INF,Jr.,6' 2'',193 lbs,Weatherford JC
+University Of Oklahoma,Camden Johnson,9,UTL,Jr.,6' 0'',176 lbs,Boerne HS
+University Of Oklahoma,Brendan Brock,10,C/OF,Jr.,6' 3'',200 lbs,Mascoutah HS
+University Of Oklahoma,Gerardo Prado,11,OF,Jr.,6' 3'',190 lbs,Puerto Rico Baseball Academy HS
+University Of Oklahoma,Kadyn Leon,12,RHP,So.,6' 0'',182 lbs,McLennan CC
+University Of Oklahoma,Connor Larkin,13,UTL,Fr.,6' 3'',194 lbs,Cherry Creek HS
+University Of Oklahoma,Cooper Smith,14,1B,Jr.,6' 0'',197 lbs,Marlow HS
+University Of Oklahoma,Dayton Tockey,16,INF,Sr.,6' 1'',230 lbs,Weatherford HS
+University Of Oklahoma,Dasan Harris,17,OF,Jr.,6' 1'',181 lbs,Plano East HS
+University Of Oklahoma,Gavyn Jones,18,LHP/OF,Jr.,6' 1'',206 lbs,White Oak HS
+University Of Oklahoma,Jaxon Grossman,19,RHP,Jr.,6' 4'',227 lbs,Makawoo HS
+University Of Oklahoma,Trey Gambill,20,OF,Sr.,5' 11'',200 lbs,Lone Peak HS
+University Of Oklahoma,Drew Dickerson,21,OF,So.,6' 4'',210 lbs,Lee's Summit West HS
+University Of Oklahoma,LJ Mercurius,22,RHP,Jr.,6' 2'',175 lbs,Faith Lutheran HS
+University Of Oklahoma,Xander Mercurius,23,RHP,Fr.,5' 10'',186 lbs,Durango HS
+University Of Oklahoma,Mason Bixby,25,RHP,Jr.,6' 7'',239 lbs,Lady Bird Johnson HS
+University Of Oklahoma,Drew Rerick,27,RHP,So.,6' 4'',243 lbs,Fargo Davies HS
+University Of Oklahoma,Cole Leach,28,C/INF,Fr.,6' 3'',218 lbs,Hilldale HS
+University Of Oklahoma,Jaden Barfield,29,LHP,So.,6' 0'',216 lbs,Pearl
+University Of Oklahoma,Michael Catalano,30,RHP,So.,6' 0'',200 lbs,Frisco HS
+University Of Oklahoma,Cameron Johnson,31,LHP,Jr.,6' 6'',256 lbs,IMG Academy
+University Of Oklahoma,Brisco Smith,32,RHP,Fr.,6' 1'',169 lbs,Duncan HS
+University Of Oklahoma,Isaac Williams,33,RHP,Jr.,6' 1'',200 lbs,Fleming Island HS
+University Of Oklahoma,Joey McMannis,34,RHP,Jr.,6' 4'',228 lbs,Catocin HS
+University Of Oklahoma,Jason Bodin,35,RHP,Jr.,6' 3'',193 lbs,Orangefield HS
+University Of Oklahoma,Nick Wesloski,37,RHP,Fr.,6' 3'',219 lbs,McKinney Boyd HS
+University Of Oklahoma,Trent Collier,39,LHP,So.,6' 2'',241 lbs,"Weatherford, JC"
+University Of Oklahoma,Aidan Tomlinson,40,RHP,Fr.,6' 4'',214 lbs,Dewar HS
+University Of Oklahoma,Gunnar Dillard,41,C,Fr.,6' 0'',200 lbs,Wall HS
+University Of Oklahoma,Reid Hensley,42,RHP,Gr.,6' 0'',214 lbs,Lufkin HS
+University Of Oklahoma,Jordan Stribling,45,LHP,So.,6' 5'',219 lbs,Highland Park HS
+University Of Oklahoma,Deiten Lachance,48,C,Jr.,6' 5'',231 lbs,McLennan CC
+University Of Oklahoma,Jackson Cleveland,49,RHP,Sr.,6' 2'',206 lbs,Deer Park HS
+University Of Oklahoma,Jackson Kornylo,52,RHP,Fr.,6' 5'',192 lbs,TNXL Academy
+University Of Oklahoma,Nate Smithburg,54,LHP,R-So.,6' 2'',257 lbs,Fairfield HS
+University Of Oklahoma,Vaughn Neckar,55,RHP,Fr.,6' 3'',257 lbs,Vista Murrieta HS
+University Of Oklahoma,Cord Rager,99,LHP/INF,Fr.,6' 6'',237 lbs,Maypearl HS
+University Of Alabama,Justin Lebron,1,INF,So.,6' 2'',180 lbs,Archbishop Edward McCarthy
+University Of Alabama,Kade Snell,3,OF Is Captain (C),R-Sr.,6' 1'',210 lbs,Wicksburg
+University Of Alabama,Riley Quick,4,RHP,R-So.,6' 6'',245 lbs,Hewitt-Trussville
+University Of Alabama,Richie Bonomolo Jr.,5,OF,Jr.,5' 11'',200 lbs,Cardinal Hayes
+University Of Alabama,Beau Bryans,6,LHP,Jr.,6' 0'',195 lbs,Madison Central
+University Of Alabama,Matthew Heiberger,7,LHP,So.,6' 3'',210 lbs,Oak Mountain
+University Of Alabama,Tyler Fay,8,RHP,R-So.,6' 5'',215 lbs,Grand Island Senior
+University Of Alabama,Bryce Fowler,9,OF,R-Jr.,6' 2'',190 lbs,Germantown
+University Of Alabama,Brady Neal,10,C/INF,Jr.,5' 10'',190 lbs,IMG Academy
+University Of Alabama,Coulson Buchanan,11,RHP,Sr.,5' 10'',185 lbs,North Gwinnett
+University Of Alabama,JT Blackwood,12,RHP,Jr.,6' 2'',210 lbs,Hartselle
+University Of Alabama,Luke Vaughn,13,C,So.,6' 2'',200 lbs,Elder
+University Of Alabama,Carson Ozmer,14,RHP,Gr.,6' 2'',210 lbs,John H. Guyer
+University Of Alabama,Coleman Mizell,15,OF,So.,6' 3'',230 lbs,Hartselle
+University Of Alabama,Jonathan Stevens,16,RHP,So.,6' 1'',215 lbs,Briarwood Christian
+University Of Alabama,Will Plattner,17,C,Jr.,6' 1'',205 lbs,Glenwood
+University Of Alabama,Will Hodo,18,INF/OF,Sr.,6' 3'',225 lbs,Wayne Academy
+University Of Alabama,Aeden Finateri,19,RHP,Sr.,6' 0'',235 lbs,Avon Old Farms
+University Of Alabama,Zane Adams,20,LHP,So.,6' 4'',195 lbs,Porter
+University Of Alabama,Brennen Norton,21,INF,Sr.,5' 9'',195 lbs,Cullman
+University Of Alabama,Braylon Myers,22,RHP,Sr.,6' 2'',205 lbs,Oak Grove
+University Of Alabama,Aidan Moza,23,RHP,Sr.,6' 1'',195 lbs,North Cobb Christian
+University Of Alabama,Tate Robertson,24,LHP,Sr.,6' 0'',170 lbs,Northridge
+University Of Alabama,Peyton Steele,26,OF,Fr.,6' 1'',195 lbs,Hartselle
+University Of Alabama,Garrett Staton,27,INF,R-Sr.,6' 0'',195 lbs,North Forsyth
+University Of Alabama,Danny Heintz,29,RHP,R-Sr.,6' 6'',235 lbs,Green Hope
+University Of Alabama,Anthony Pesci,30,RHP,Fr.,6' 4'',205 lbs,Orchard Lake Saint Mary's Prep
+University Of Alabama,Jon Young Jr.,31,INF,Fr.,6' 1'',190 lbs,Cherry Hill West
+University Of Alabama,Jason Torres,32,INF,Jr.,6' 1'',230 lbs,Miami Springs
+University Of Alabama,Ariston Veasey,33,RHP/UTL,So.,6' 1'',190 lbs,Starr's Mill
+University Of Alabama,Hagan Banks,36,RHP,R-Jr.,6' 4'',215 lbs,Calhoun
+University Of Alabama,Andre Modugno,37,INF/RHP,Fr.,6' 5'',220 lbs,IMG Academy
+University Of Alabama,Zach Kittrell,38,RHP,Jr.,6' 0'',195 lbs,Bayside Academy
+University Of Alabama,Sam Mitchell,39,RHP,So.,6' 7'',235 lbs,Bob Jones
+University Of Alabama,Sean Griggs,40,INF,Fr.,6' 2'',195 lbs,Red Bank Catholic
+University Of Alabama,Connor Ball,41,LHP,R-Jr.,6' 0'',180 lbs,Chelsea
+University Of Alabama,Ahmaad Duff,42,OF,Fr.,5' 7'',155 lbs,Lawrence Central
+University Of Alabama,Jack Ketchum,43,RHP,Fr.,6' 3'',210 lbs,Heritage Academy
+University Of Alabama,Packy Bradley-Cooney,44,RHP,Sr.,6' 2'',210 lbs,Arlington Catholic
+University Of Alabama,Jackson Hunter,45,RHP,Fr.,6' 3'',190 lbs,Hazel Green
+University Of Alabama,Carson Kuehne,46,LHP,Fr.,6' 5'',195 lbs,IMG Academy
+University Of Alabama,JoJo Williamson,47,INF,Fr.,5' 8'',175 lbs,Hartselle
+University Of Alabama,Bobby Alcock,48,RHP,R-Sr.,6' 5'',230 lbs,The Winchendon School
+University Of Alabama,Nash Wagner,49,RHP,Fr.,6' 5'',225 lbs,Zionsville Community
+University Of Alabama,Connor Lehman,50,LHP,Fr.,6' 2'',210 lbs,Stewart County
+University Of Alabama,Ashton Alston,52,RHP,Fr.,6' 6'',205 lbs,Christian Community Schools
+University Of Alabama,Egan Lowery,67,RHP,So.,6' 1'',184 lbs,McAdory
+University Of Alabama,Austin Morris,99,RHP,R-So.,6' 4'',210 lbs,Mortimer Jordan
+University Of Washington,Isaac Yeager,0,RHP,Jr.,6' 6'',215 lbs,Bishop Blanchet
+University Of Washington,AJ Guerrero,1,OF,Sr.,6' 0'',210 lbs,Fife
+University Of Washington,Colton Bower,2,C,R-So.,6' 0'',210 lbs,North Kitsap
+University Of Washington,Reeve Boyd,3,INF,R-Fr.,6' 1'',190 lbs,Seattle Prep
+University Of Washington,Sawyer Parkin,4,RHP,Sr.,5' 11'',195 lbs,Columbia
+University Of Washington,Julian Sanders,5,OF,Gr.,6' 2'',210 lbs,Lakeside
+University Of Washington,Carson Crawford,6,INF,Sr.,6' 2'',200 lbs,Cardinal Newman
+University Of Washington,Blake Wilson,7,INF,So.,5' 10'',175 lbs,Santa Margarita Catholic
+University Of Washington,Cooper Whitton,9,OF,Jr.,6' 3'',200 lbs,Santa Fe Christian
+University Of Washington,Braeden Terry,10,OF,Sr.,6' 0'',200 lbs,Newport
+University Of Washington,Jase Evangelista,11,RHP,So.,6' 2'',195 lbs,Martin Luther King
+University Of Washington,Casen Taggart,12,INF/OF,Sr.,6' 5'',225 lbs,Everett
+University Of Washington,Micah Bujacich,13,RHP,Fr.,6' 3'',190 lbs,Steilacoom
+University Of Washington,Will Woodward,15,LHP,R-So.,6' 7'',225 lbs,Eastlake
+University Of Washington,Trevor Kole,16,INF,Gr.,6' 0'',200 lbs,Gibbons
+University Of Washington,Matthew Henning,17,RHP/OF,Fr.,6' 1'',200 lbs,West Seattle
+University Of Washington,Boston Warkentin,18,RHP,R-So.,6' 2'',205 lbs,Foothills Composite
+University Of Washington,Jackson Hotchkiss,19,OF,Fr.,6' 3'',190 lbs,Battle Ground
+University Of Washington,Easton O'Neal,20,C,Fr.,6' 1'',205 lbs,West Valley
+University Of Washington,Lane Simonsen,21,RHP,Fr.,6' 2'',195 lbs,Lynden
+University Of Washington,Max Banks,22,RHP,Sr.,6' 4'',225 lbs,Stuart Hall
+University Of Washington,Colin Blanchard,23,C,R-Jr.,6' 1'',195 lbs,JSerra Catholic
+University Of Washington,Malakhi Knight,24,OF,Sr.,6' 3'',205 lbs,Marysville Getchell
+University Of Washington,Reilly McAdams,25,RHP,R-Sr.,6' 6'',235 lbs,Ingraham
+University Of Washington,Charlie Denomme,26,RHP,So.,6' 4'',225 lbs,Thayer Academy
+University Of Washington,Justin Tims,27,RHP/INF,Fr.,6' 3'',195 lbs,Villa Park
+University Of Washington,Gunnar Nichols,31,RHP,Jr.,6' 4'',185 lbs,John Burroughs
+University Of Washington,Josh Emanuels,32,RHP,R-Sr.,6' 3'',210 lbs,Interlake
+University Of Washington,Jack Sand,33,LHP,So.,5' 10'',195 lbs,Crean Lutheran
+University Of Washington,Noah Sorensen,34,RHP,Fr.,6' 2'',210 lbs,North Kitsap
+University Of Washington,Peysen Sweeney,35,RHP,R-Jr.,6' 5'',235 lbs,Liberty
+University Of Washington,Bradley Gilbert,37,RHP,Fr.,6' 0'',195 lbs,Aquinas
+University Of Washington,Jackson Thomas,39,RHP,Sr.,6' 3'',200 lbs,Mountain View
+University Of Washington,Tommy Curran,40,LHP,Fr.,6' 2'',180 lbs,De La Salle
+University Of Washington,Carston Pearson,41,OF,So.,6' 0'',200 lbs,Dublin
+University Of Washington,Luke Klooster,43,C,Fr.,5' 10'',190 lbs,O'Dea
+University Of Washington,Grady Woodward,44,OF,Fr.,6' 2'',205 lbs,Eastlake
+University Of Washington,Jaxson Gore,45,RHP,So.,6' 0'',190 lbs,North Kitsap
+University Of Washington,Sam DeCarlo,51,INF,Jr.,5' 9'',190 lbs,Millikan
+University Of Washington,Tommy Brandenburg,55,RHP,R-Jr.,5' 11'',195 lbs,Kalama
+University Of Washington,Nic Bronzini,95,LHP,R-So.,6' 4'',250 lbs,California
+University Of Washington,Logan Anderson,99,RHP,R-Fr.,6' 4'',210 lbs,Shorewood
+University Of Oregon,Tyler Jones,1,RHP,Fr.,6' 3'',200 lbs,Woodinville HS
+University Of Oregon,Grayson Grinsell,2,LHP,Jr.,6' 1'',195 lbs,Reno HS
+University Of Oregon,Carter Garate,3,INF,Jr.,6' 2'',185 lbs,Murrieta Mesa HS
+University Of Oregon,Toby Twist,4,LHP,So.,6' 1'',205 lbs,Bakersfield Christian HS
+University Of Oregon,Burke-Lee Mabeus,5,C,Fr.,6' 4'',215 lbs,Bishop Gorman HS
+University Of Oregon,Jack Brooks,6,UTL,So.,5' 10'',190 lbs,Vanden HS
+University Of Oregon,Hunter Hyatt,7,LHP,R-Fr.,6' 3'',210 lbs,Bellevue HS
+University Of Oregon,Maddox Molony,9,INF,So.,6' 2'',210 lbs,Thurston HS
+University Of Oregon,Collin Clarke,10,RHP,So.,6' 3'',205 lbs,Catholic HS
+University Of Oregon,Ryan Cooney,12,INF,So.,6' 0'',200 lbs,Jesuit HS
+University Of Oregon,Coen Niclai,13,C,Fr.,6' 2'',215 lbs,Service HS
+University Of Oregon,Jaxon Jordan,15,RHP,Sr.,6' 5'',210 lbs,Oak Park HS
+University Of Oregon,Cole Fisher,16,RHP,Jr.,6' 2'',210 lbs,Hatboro-Horsham HS
+University Of Oregon,Drew Smith,17,INF/OF,Jr.,6' 2'',205 lbs,Buchanan
+University Of Oregon,Jax Gimenez,19,INF/OF,Fr.,6' 2'',200 lbs,Whitney HS
+University Of Oregon,Parker Stinson,20,OF,Sr.,6' 0'',210 lbs,Yorktown HS
+University Of Oregon,Michael Meckna,21,RHP,Fr.,6' 3'',200 lbs,Elkhorn South HS
+University Of Oregon,Julien Hernandez,22,RHP,Sr.,6' 1'',200 lbs,Menlo School
+University Of Oregon,Kellan Knox,23,RHP,Fr.,6' 2'',210 lbs,Tenino HS
+University Of Oregon,Ian Umlandt,24,LHP,Jr.,6' 0'',210 lbs,Sherwood
+University Of Oregon,Jacob Walsh,25,1B,Sr.,6' 4'',225 lbs,Desert Oasis HS
+University Of Oregon,Mason Neville,26,OF,Jr.,6' 3'',210 lbs,Basic HS
+University Of Oregon,Chase Meggers,27,C,Jr.,6' 0'',205 lbs,Rocklin HS
+University Of Oregon,Will Sanford,28,RHP,Fr.,6' 0'',200 lbs,Point Loma HS
+University Of Oregon,Seth Mattox,31,RHP,Sr.,6' 3'',190 lbs,Xavier College Prep
+University Of Oregon,Jason Reitz,33,RHP,Jr.,6' 11'',215 lbs,Pioneer HS
+University Of Oregon,Santiago Garcia,34,LHP,So.,6' 0'',180 lbs,Centennial
+University Of Oregon,Jeffery Heard,35,OF,Sr.,6' 2'',215 lbs,Valley Christian HS
+University Of Oregon,Sam Boyle,37,LHP,Jr.,6' 2'',200 lbs,Columbia
+University Of Oregon,Gabe Howard,38,RHP,Fr.,6' 3'',200 lbs,West Linn HS
+University Of Oregon,Kayle Pisano,40,1B,Fr.,6' 3'',225 lbs,Clackamas HS
+University Of Oregon,Tanner Bradley,41,RHP,Fr.,6' 1'',185 lbs,Cardinal Newman
+University Of Oregon,Dominic Hellman,45,INF,Jr.,6' 6'',250 lbs,Henry M. Jackson HS
+University Of Oregon,Ryan Featherston,46,RHP,So.,6' 2'',225 lbs,Stockdale HS
+University Of Oregon,Blake Crawford,50,LHP,Fr.,6' 4'',215 lbs,West Linn HS
+University Of Oregon,Nate Christman,51,RHP,Fr.,6' 3'',220 lbs,Aquinas
+University Of Oregon,Alex Umland,52,RHP,Fr.,6' 4'',225 lbs,Winward School
+University Of Oregon,Isaac Evaniew,53,RHP,Jr.,6' 2'',260 lbs,Churchill HS
+University Of Oregon,Cole Stokes,55,RHP,So.,6' 6'',230 lbs,Redondo Union HS
+University Of Oregon,Zach Justice,66,C,R-Fr.,6' 1'',210 lbs,Summit HS
+University Of Oregon,Anson Aroz,77,C,Jr.,5' 11'',195 lbs,Placer HS
+University Of Indiana,Jasen Oliver,2,INF,So.,5' 11'',185 lbs,Orchard Lake St. Mary's Prep
+University Of Indiana,Tyler DeMartino,3,OF,Gr.,6' 0'',205 lbs,Walt Whitman
+University Of Indiana,Devin Taylor,5,OF,Jr.,6' 1'',215 lbs,LaSalle
+University Of Indiana,T.J. Schuyler,6,C,So.,6' 2'',220 lbs,Antioch
+University Of Indiana,Tyler Cerny,8,INF,Jr.,6' 2'',205 lbs,Center Grove
+University Of Indiana,Jake Stadler,9,C,R-Sr.,6' 1'',215 lbs,Mount Vernon
+University Of Indiana,Josh Pyne,10,INF,Sr.,6' 0'',195 lbs,Linton-Stockton
+University Of Indiana,Will Moore,11,INF,Fr.,5' 9'',170 lbs,Paris District
+University Of Indiana,Hogan Denny,12,C/OF,Fr.,6' 0'',215 lbs,Mooresville
+University Of Indiana,Andrew Wiggins,13,OF,So.,6' 4'',225 lbs,Heritage Christian
+University Of Indiana,Brayton Thomas,14,LHP,Fr.,6' 5'',220 lbs,Bishop Dwenger
+University Of Indiana,Cooper Malamazian,15,INF,Fr.,6' 2'',185 lbs,Nazareth Academy
+University Of Indiana,Anthony Gubitosi,16,LHP,Jr.,5' 11'',192 lbs,Colts Neck
+University Of Indiana,Ben Grable,17,RHP,Gr.,6' 4'',215 lbs,Flintridge Prep
+University Of Indiana,Grant Holderfield,18,LHP,R-Jr.,6' 3'',220 lbs,Oak Park & River Forest
+University Of Indiana,Cole Decker,19,OF,Fr.,5' 11'',185 lbs,Evansville North
+University Of Indiana,Korbyn Dickerson,20,OF,R-So.,6' 1'',205 lbs,Trinity (Ky.)
+University Of Indiana,Jacob Vogel,21,RHP,R-So.,6' 7'',250 lbs,Jennings County
+University Of Indiana,Joey Brenczewski,23,INF,R-So.,6' 3'',195 lbs,Fishers
+University Of Indiana,Drew Buhr,24,RHP,Gr.+,6' 1'',205 lbs,Austin
+University Of Indiana,Seth Benes,26,RHP,So.,6' 2'',210 lbs,Liberty
+University Of Indiana,Clayton Weisheit,27,RHP,So.,6' 6'',235 lbs,Forest Park
+University Of Indiana,Matthew Bohnert,28,LHP,R-Sr.,5' 8'',187 lbs,Cactus Shadows
+University Of Indiana,Ryan Kraft,29,LHP,Sr.,6' 4'',220 lbs,Lincoln-Way Central
+University Of Indiana,Ryan Rushing,30,LHP,So.,5' 10'',190 lbs,IMG Academy
+University Of Indiana,Henry Brummel,31,RHP,Fr.,6' 5'',210 lbs,Pontiac
+University Of Indiana,Cole Gilley,32,RHP,R-Sr.,6' 1'',205 lbs,Columbus East
+University Of Indiana,Trey Telfer,33,RHP,Fr.,6' 1'',185 lbs,Cathedral Catholic
+University Of Indiana,Jake Hanley,34,INF,Fr.,6' 6'',235 lbs,Mason
+University Of Indiana,Evan O'Neill,35,RHP,R-Fr.,6' 4'',220 lbs,Blessed Trinity Catholic
+University Of Indiana,Micah Vessely,36,RHP,Fr.,6' 1'',185 lbs,Greenwood
+University Of Indiana,Ryan Gilbert,37,OF,R-So.,6' 5'',235 lbs,Kenston
+University Of Indiana,Jackson Yarberry,38,RHP,So.,6' 3'',225 lbs,Timberland
+University Of Indiana,Michael Lorenzetti,39,RHP,Jr.,6' 8'',225 lbs,Taft School
+University Of Indiana,Gavin Seebold,40,RHP,R-Sr.,6' 2'',205 lbs,Jeffersonville
+University Of Indiana,Deron Swanson,41,LHP,Sr.,6' 3'',195 lbs,Snider
+University Of Indiana,Brayden Ricketts,42,C,Fr.,6' 2'',205 lbs,Jean Augustine Secondary
+University Of Indiana,Caleb Koskie,43,LHP/OF,Fr.,6' 0'',185 lbs,Benilde-St.Margaret's
+University Of Indiana,Will Eldridge,44,RHP,Jr.,6' 4'',210 lbs,Carroll (Flora)
+University Of Indiana,Pete Haas,51,RHP,R-Jr.,6' 0'',195 lbs,Keene
+University Of Indiana,Aydan Decker-Petty,55,RHP,Jr.,6' 5'',205 lbs,New Castle
+University Of Minnesota,Jake Larson,1,INF,Sr.,6' 0'',200 lbs,Kentlake
+University Of Minnesota,Easton Richter,2,INF/RHP,Jr.,6' 2'',L/R,Rosemount
+University Of Minnesota,Preston Leon,3,OF,R-Jr.,5' 11'',S/R,Dakota High School (Macomb)
+University Of Minnesota,Jack Mosh,4,INF,Jr.,5' 10'',180 lbs,St. Pius X
+University Of Minnesota,Kris Hokenson,6,OF/LHP,Jr.,6' 0'',180 lbs,St. Louis Park
+University Of Minnesota,Jack Spanier,7,INF,So.,6' 0'',180 lbs,Rocori
+University Of Minnesota,Jameson Martin,8,INF,Fr.,5' 11'',180 lbs,St. Lawrence
+University Of Minnesota,Parker Knoll,9,OF,Sr.,6' 0'',220 lbs,Fox Valley Lutheran
+University Of Minnesota,Sam Hunt,10,C,R-Jr.,6' 2'',205 lbs,IMG Academy
+University Of Minnesota,Landen Lozier,12,INF,So.,5' 10'',170 lbs,Notre Dame Academy
+University Of Minnesota,Cole Selvig,13,RHP,So.,6' 0'',205 lbs,Regis Catholic
+University Of Minnesota,Drew Berkland,15,OF/C,Jr.,6' 0'',190 lbs,Wayzata
+University Of Minnesota,Josh Fitzgerald,16,OF,R-Sr.,6' 0'',190 lbs,Newman Catholic
+University Of Minnesota,Luke Ryerse,17,RHP,Fr.,6' 1'',218 lbs,East Ridge
+University Of Minnesota,Jack Taxdahl,19,C,So.,5' 10'',190 lbs,Cretin-Derham Hall
+University Of Minnesota,Kyle Remington,20,RHP/INF,So.,6' 0'',165 lbs,Grand Rapids Christian
+University Of Minnesota,Jonathan Dobis,21,RHP/OF,Fr.,6' 0'',180 lbs,St. Thomas Academy
+University Of Minnesota,Weber Neels,22,C/INF,Jr.,6' 1'',210 lbs,East Ridge
+University Of Minnesota,Jake Quinn,23,OF,Fr.,6' 3'',190 lbs,Cretin Derham-Hall
+University Of Minnesota,Jake Perry,27,INF,Sr.,6' 4'',205 lbs,Hopkins
+University Of Minnesota,Caden Capomaccio,28,RHP,Jr.,6' 1'',185 lbs,Notre Dame Academy
+University Of Minnesota,Brayden Hellum,29,OF,So.,5' 8'',190 lbs,Stillwater
+University Of Minnesota,Seth Clausen,30,RHP,Sr.,6' 1'',210 lbs,Pleasant Valley
+University Of Minnesota,Joe Sperry,33,RHP/DH,Jr.,6' 2'',R/R,Rochester Lourdes
+University Of Minnesota,Jake Elbeery,35,INF,Sr.,6' 4'',225 lbs,Austin
+University Of Minnesota,Parker Lewin,37,RHP/OF,So.,6' 1'',175 lbs,Orono
+University Of Minnesota,Adam Urban,38,RHP,Fr.,6' 0'',,Wauwatosa West
+University Of Minnesota,Nick Argento,39,RHP,R-So.,6' 6'',225 lbs,Wayzata
+University Of Minnesota,Tyler Hemmesch,40,RHP,So.,6' 1'',195 lbs,Sartell
+University Of Minnesota,Charlie Sutherland,41,INF/OF,So.,6' 2'',200 lbs,Duluth East
+University Of Minnesota,Eli Sundquist,43,RHP,Gr.,6' 1'',,Utah Valley State
+University Of Minnesota,Hunter Cook,44,RHP,Fr.,6' 2'',180 lbs,North Polk
+University Of Minnesota,Noah Rooney,46,LHP,R-Jr.,6' 0'',170 lbs,Perham
+University Of Minnesota,Simon Skroch,47,LHP,Fr.,6' 1'',175 lbs,Yorkville High School
+University Of Minnesota,Justin Thorsteinson,51,LHP,R-Sr.,6' 4'',233 lbs,Langley Secondary School
+University Of Minnesota,Will Whelan,54,LHP,So.,6' 2'',195 lbs,Centennial
+Texas A&M University,Jamal George,1,UTIL,Jr.,5' 11'',185 lbs,International Baseball Academy
+Texas A&M University,Jacob Galloway,2,C,Jr.,5' 9'',180 lbs,Harvard Westlake
+Texas A&M University,Terrence Kiel II,3,INF/OF,Fr.,6' 1'',185 lbs,Pace Academy
+Texas A&M University,Gavin Kash,4,INF/OF,Sr.,6' 3'',215 lbs,Monsignor Kelly Catholic
+Texas A&M University,Sawyer Farr,5,INF,Fr.,6' 4'',190 lbs,Boswell
+Texas A&M University,Kaeden Kent,6,INF,Jr.,6' 2'',200 lbs,Lake Travis
+Texas A&M University,Wyatt Henseler,8,INF,Gr.,6' 1'',215 lbs,Emmaus
+Texas A&M University,Gavin Grahovac,9,INF/OF,So.,6' 2'',220 lbs,Villa Park
+Texas A&M University,Ben Royo,10,INF,Jr.,6' 2'',200 lbs,Veterans
+Texas A&M University,Hayden Schott,12,OF,Gr.,6' 2'',220 lbs,Culver Military Academy
+Texas A&M University,Caden Sorrell,13,OF,So.,6' 3'',205 lbs,Marcus
+Texas A&M University,Isaac Morton,14,RHP,So.,6' 3'',190 lbs,Spring Lake Park
+Texas A&M University,Matt Bergevin,15,INF,Gr.,6' 4'',250 lbs,Marcos De Niza
+Texas A&M University,Bear Harrison,16,C,So.,6' 3'',230 lbs,De La Salle
+Texas A&M University,Jace LaViolette,17,OF,Jr.,6' 6'',230 lbs,Tompkins
+Texas A&M University,Ryan Prager,18,LHP,R-Jr.,6' 3'',200 lbs,Hillcrest
+Texas A&M University,Troy Wansing,19,LHP,Sr.,6' 4'',225 lbs,Staley
+Texas A&M University,Aiden Sims,20,RHP,Fr.,6' 2'',180 lbs,Forney
+Texas A&M University,Weston Moss,21,RHP,So.,6' 4'',190 lbs,Lake Creek
+Texas A&M University,Myles Patton,23,LHP,Jr.,6' 3'',205 lbs,Millikan
+Texas A&M University,Clayton Freshcorn,25,RHP,So.,6' 0'',180 lbs,Waller
+Texas A&M University,Gavin Lyons,27,RHP,Fr.,6' 3'',200 lbs,Hamden Hall
+Texas A&M University,Caden McCoy,28,LHP,Fr.,6' 3'',220 lbs,Bloomington North
+Texas A&M University,Kaiden Wilson,30,LHP,So.,6' 2'',200 lbs,Raymore-Peculiar
+Texas A&M University,Grant Cunningham,31,RHP,Jr.,6' 3'',225 lbs,Seattle Prep
+Texas A&M University,Brad Rudis,32,RHP,Sr.,6' 0'',195 lbs,Madisonville
+Texas A&M University,Justin Lamkin,33,LHP,Jr.,6' 4'',210 lbs,Calallen
+Texas A&M University,Josh Stewart,34,RHP,Sr.,6' 2'',195 lbs,St. Dominic Savio Catholic
+Texas A&M University,Sam Erickson,35,OF,Fr.,6' 1'',215 lbs,Flower Mound
+Texas A&M University,Ty Baker,37,RHP,R-Fr.,6' 4'',230 lbs,Second Baptist Academy
+Texas A&M University,Shane Sdao,38,LHP,Jr.,6' 2'',170 lbs,Lake Creek
+Texas A&M University,Houston Tomlinson,39,RHP,Fr.,6' 1'',180 lbs,Grand Oaks
+Texas A&M University,Blayne Lyne,40,RHP,Fr.,6' 6'',205 lbs,London
+Texas A&M University,Jackson Brasseux,41,LHP,R-Fr.,6' 1'',190 lbs,North Lamar
+Texas A&M University,Luke Jackson,44,RHP,R-So.,6' 2'',190 lbs,Lake Travis
+Texas A&M University,Nathan Tobin,45,OF,Fr.,5' 11'',190 lbs,VR Eaton
+Texas A&M University,Blake Binderup,46,INF,R-So.,6' 6'',230 lbs,College Station
+Texas A&M University,Hayden Crites,47,C,Fr.,6' 0'',200 lbs,Paradise
+Texas A&M University,Marco Jones,48,INF/OF,Fr.,6' 5'',245 lbs,San Ramon Valley
+Texas A&M University,Austin Vargas,49,LHP,R-Fr.,6' 8'',235 lbs,Fulshear
+Texas A&M University,Rylan Hill,51,LHP,Fr.,6' 3'',200 lbs,Bryan
+Texas A&M University,Peyton Smith,62,RHP,Jr.,6' 4'',225 lbs,East Robertson
+Texas A&M University,Kyrin LeBlanc,99,RHP,Jr.,6' 3'',215 lbs,St. Martinville Senior
+University Of Mississippi,Brayden Randle,1,IF,So.,5' 9'',175 lbs,Rockwall
+University Of Mississippi,Riley Maddox,2,RHP,Sr.,6' 1'',210 lbs,Jackson Prep
+University Of Mississippi,Luke Cheng,3,IF,Sr.,6' 0'',185 lbs,Sherwood
+University Of Mississippi,Mitchell Sanford,4,OF,Sr.,6' 2'',210 lbs,Berwick
+University Of Mississippi,Owen Paino,6,IF,Fr.,6' 3'',225 lbs,Roy C. Ketcham
+University Of Mississippi,Luke Hill,7,IF,Jr.,6' 1'',200 lbs,Episcopal
+University Of Mississippi,Tate Sirmans,8,UT,Fr.,6' 2'',190 lbs,Lowndes
+University Of Mississippi,Hayden Federico,9,IF,Fr.,5' 11'',195 lbs,West Monroe
+University Of Mississippi,Cade Townsend,10,RHP,Fr.,6' 1'',185 lbs,Santa Margarita Catholic
+University Of Mississippi,Campbell Smithwick,12,C,So.,6' 0'',190 lbs,Oxford
+University Of Mississippi,Cooper Johnson,14,LHP/1B,Fr.,6' 4'',220 lbs,Mountain View
+University Of Mississippi,Brayden Jones,16,RHP,Jr.,6' 0'',200 lbs,Madison-Ridgeland Academy
+University Of Mississippi,Will McCausland,17,RHP,Jr.,6' 0'',190 lbs,Souderton Area
+University Of Mississippi,Ryan Moerman,18,OF,Sr.,6' 0'',210 lbs,Lockport Township
+University Of Mississippi,Walker Hooks,19,LHP,Fr.,6' 4'',265 lbs,Brandon
+University Of Mississippi,Collin Reuter,20,C/IF,Jr.,6' 2'',235 lbs,Magnolia Heights
+University Of Mississippi,Mason Morris,21,RHP,Jr.,6' 4'',225 lbs,Tupelo
+University Of Mississippi,Connor Spencer,22,RHP,Sr.,6' 2'',225 lbs,Hernando
+University Of Mississippi,Hudson Calhoun,23,RHP,So.,6' 4'',210 lbs,McCallie School
+University Of Mississippi,Austin Fawley,24,C,So.,6' 1'',205 lbs,Park Vista
+University Of Mississippi,Ethan Surowiec,25,IF,Fr.,6' 1'',220 lbs,Gulfport
+University Of Mississippi,Hunter Elliott,26,LHP,R-Jr.,6' 3'',215 lbs,Tupelo
+University Of Mississippi,Judd Utermark,27,IF,Jr.,6' 5'',250 lbs,Charlotte Christian
+University Of Mississippi,Connor Chisolm,28,OF,Sr.,5' 10'',180 lbs,Madison Central
+University Of Mississippi,Ryne Rodriguez,29,LHP,Jr.,6' 2'',190 lbs,Trinity Valley
+University Of Mississippi,Gunnar Dennis,32,LHP,Sr.,6' 3'',220 lbs,Pearl
+University Of Mississippi,Landon Waters,34,RHP,Jr.,6' 1'',210 lbs,Grenada
+University Of Mississippi,Owen Hancock,35,RHP,Fr.,6' 5'',205 lbs,Worth County
+University Of Mississippi,Will Furniss,36,IF,Jr.,6' 4'',240 lbs,Nacogdoches
+University Of Mississippi,Brett Moseley,37,OF,Fr.,6' 3'',195 lbs,Hewitt-Trussville
+University Of Mississippi,Patrick Galle,38,RHP,So.,6' 2'',215 lbs,Biloxi
+University Of Mississippi,Jackson Miller,39,OF,Fr.,6' 0'',195 lbs,Benjamin
+University Of Mississippi,JP Robertson,40,RHP,So.,6' 0'',190 lbs,Germantown
+University Of Mississippi,Cole Ketchum,43,RHP,R-So.,6' 1'',210 lbs,Heritage Academy
+University Of Mississippi,Jake Reigert,44,RHP,Fr.,6' 6'',238 lbs,East Ridge
+University Of Mississippi,Mason Nichols,45,RHP,Sr.,6' 5'',220 lbs,Jackson Prep
+University Of Mississippi,Sam Tookoian,47,RHP,Jr.,6' 5'',240 lbs,Buchanan
+University Of Mississippi,Taylor Rabe,50,RHP,R-Fr.,6' 5'',200 lbs,Greenville Senior
+University Of Mississippi,Isaac Humphrey,51,OF,Sr.,6' 2'',215 lbs,Owensboro
+University Of Mississippi,Alex Canney,55,RHP,Sr.,6' 1'',230 lbs,Durant
+University of Maryland,Colin Gibbs,0,Infielder,Fr.,"6'3""",192 lbs,St. John's College
+University of Maryland,Jacob Orr,1,Infield,Sr.,"5'9""",175 lbs,Thomas Johnson
+University of Maryland,Andrew Koshy,2,Right Handed Pitcher,So.,"6'2""",215 lbs,Kellenburg Memorial HS
+University of Maryland,Eddie Hacopian,3,Infielder,Sr.,"6'3""",195 lbs,Winston Churchill
+University of Maryland,Jordan Crosland,4,Infielder,So.,"6'0""",200 lbs,Combine Academy
+University of Maryland,Andrew Johnson,5,Left Handed Pitcher,Sr.,"6'0""",210 lbs,Glenelg
+University of Maryland,Liam Willson,6,Utility,So.,"6'1""",210 lbs,Herndon
+University of Maryland,Jake Yeager,7,Right Handed Pitcher,Fr.,"6'4""",205 lbs,Archbishop Spalding
+University of Maryland,Hollis Porter,9,Utility,R-So.,"6'4""",225 lbs,East Central
+University of Maryland,Chris Hacopian,10,Utility,So.,"6'1""",205 lbs,Winston Churchill
+University of Maryland,Elijah Lambros,11,Outfielder,Sr.,"6'2""",200 lbs,Fredericksburg Christian School
+University of Maryland,Devin Russell,12,Catcher,Jr.,"6'2""",205 lbs,Mountain Lakes
+University of Maryland,Logan Koester,13,Right Handed Pitcher,6th,"6'4""",220 lbs,Chaminade
+University of Maryland,Luke Keefer,14,Infielder,Fr.,"6'2""",190 lbs,North East
+University of Maryland,Alex Calarco,15,Catcher/Infielder,Sr.,"6'5""",250 lbs,New Trier
+University of Maryland,Omar Melendez,17,Left Handed Pitcher,Sr.,"6'6""",222 lbs,Leadership Christian Academy
+University of Maryland,Cristofer Cespedes,18,Right Handed Pitcher,Fr.,"6'4""",230 lbs,North Rockland
+University of Maryland,Evan Smith,20,Left Handed Pitcher,So.,"6'1""",215 lbs,PDG Academy
+University of Maryland,Joey McMannis,21,Right Handed Pitcher,So.,"6'5""",225 lbs,Catoctin
+University of Maryland,Kyle McCoy,22,Left Handed Pitcher,R-So.,"6'6""",205 lbs,Hunterdon School
+University of Maryland,James Gladden,24,Right Handed Pitcher,R-So.,"6'0""",205 lbs,Archbishop Curley
+University of Maryland,Ryan Bailey,25,Right Handed Pitcher,Fr.,"6'1""",195 lbs,Iona Prep
+University of Maryland,Jacob Hauk,26,Catcher,Fr.,"6'3""",220 lbs,Loyola Blakefield
+University of Maryland,Brayden Ryan,27,Right Handed Pitcher,R-So.,"6'6""",235 lbs,Lawrence Academy
+University of Maryland,Michael Iannazzo,28,Infielder,So.,"6'0""",180 lbs,Fairfield College Preparatory
+University of Maryland,EJ Hankerson,29,Outfielder,So.,"5'10""",195 lbs,Calvert Hall College
+University of Maryland,Paul Jones II,30,Infielder,Fr.,"6'0""",205 lbs,Cretin-Derham Hall
+University of Maryland,Parker Corbin,31,Infielder,Fr.,"5'9""",190 lbs,Cincinnati Country Day
+University of Maryland,Dom Moats,32,Outfielder,Fr.,"6'0""",212 lbs,Pro5 Baseball Academy
+University of Maryland,Aden Hill,33,Outfielder,Jr.,"5'10""",210 lbs,P27 Academy
+University of Maryland,Jake Morgan,34,Catcher,Fr.,"5'11""",175 lbs,IMG Academy
+University of Maryland,Ryan Van Buren,35,Right Handed Pitcher,Sr.,"6'4""",220 lbs,Abington
+University of Maryland,Logan Hastings,36,Right Handed Pitcher,Fr.,"5'10""",185 lbs,Huntingtown
+University of Maryland,Aidan Driscoll,37,Catcher,Fr.,"5'8""",198 lbs,St. John's Prep
+University of Maryland,Quinn Yellin,40,Right Handed Pitcher,Fr.,"6'1""",195 lbs,South River
+University of Maryland,Brayden Martin,42,Utility,So.,"5'10""",175 lbs,St. John's College
+University of Maryland,Devin Milberg,44,Left Handed Pitcher,Gr.,"6'1""",200 lbs,The Dalton School
+University of Maryland,Jack Wren,45,Right Handed Pitcher,Gr.,"6'5""",215 lbs,North Rockland
+Rutgers University,Jan Avila,38,INF,Jr.,"6'3""",200 lbs,PR Baseball Academy
+Rutgers University,Charles Batista,33,RHP/OF,Fr.,"6'4""",220 lbs,The Hun School
+Rutgers University,Quinn Berglin,9,RHP,Gr.,"6'2""",195 lbs,Pewaukee
+Rutgers University,Peyton Bonds,25,OF,So.,"6'5""",225 lbs,Franklin
+Rutgers University,Ryan Bradley,43,LHP,Gr.,"5'11""",200 lbs,St. John's Prep
+Rutgers University,Jared Carlucci,41,RHP,Fr.,"6'4""",220 lbs,Columbia
+Rutgers University,Yomar Carreras,12,INF,Fr.,"6'0""",190 lbs,North Brunswick Township
+Rutgers University,Matt Chatelle,28,C,Jr.,"6'4""",225 lbs,Austin
+Rutgers University,Caden Christman,46,C,Fr.,"6'1""",200 lbs,PRO5 Academy
+Rutgers University,Trevor Cohen,4,OF,Jr.,"6'1""",195 lbs,Holy Spirit
+Rutgers University,Matthew Cruz,29,RHP,Fr.,"5'11""",175 lbs,Saint Dominic
+Rutgers University,Ty Doucette,36,INF,So.,"6'2""",205 lbs,TNXL Academy
+Rutgers University,Jordan Falco,48,RHP,Sr.,"6'6""",220 lbs,Center Moriches
+Rutgers University,Luke Fithian,15,RHP,Fr.,"6'2""",240 lbs,Cumberland County Tech
+Rutgers University,Mark Gialluisi,5,C,R-Fr.,"5'10""",190 lbs,Saint Joseph [Metuchen]
+Rutgers University,Zach Gleason,39,RHP,Sr.,"6'2""",215 lbs,Timberlane Regional [N.H.]
+Rutgers University,Connor Grotyohann,27,RHP/INF,Jr.,"6'4""",230 lbs,Pope John XXIII
+Rutgers University,Hunter Hoxie,2,LHP,Fr.,"5'10""",195 lbs,Jonathan Law
+Rutgers University,Brennan Hyde,8,OF,Gr.,"5'11""",170 lbs,Chamberlain
+Rutgers University,Cameron Johnson,3,LHP,Fr.,"6'0""",190 lbs,TNXL Academy
+Rutgers University,RJ Johnson Jr.,1,OF,Sr.,"5'11""",190 lbs,Kerr-Vance Academy
+Rutgers University,JD Jones,17,C,Sr.,"6'0""",200 lbs,Fairview
+Rutgers University,Tyler Kane,16,RHP,R-So.,"5'9""",165 lbs,Manalapan
+Rutgers University,Jack Kirchner,45,RHP,R-Fr.,"6'4""",225 lbs,Bishop Eustace
+Rutgers University,Zack Konstantinovsky,19,RHP,So.,"6'2""",215 lbs,North Brunswick Township
+Rutgers University,Landon Mack,18,RHP,Fr.,"6'1""",200 lbs,Bishop Eustace
+Rutgers University,Joe Mazza,37,LHP,Sr.,"6'3""",215 lbs,Manalapan
+Rutgers University,Evan McCoach,47,OF,Fr.,"5'9""",205 lbs,Neumann Goretti
+Rutgers University,Nolan Peel,11,RHP,Fr.,"5'11""",190 lbs,The Tome School [Md.]
+Rutgers University,Preston Prince,40,LHP,Jr.,"6'5""",235 lbs,Hilton
+Rutgers University,Andrew Rondini,22,RHP,Fr.,"6'0""",195 lbs,Canterbury
+Rutgers University,Dillon Ryan,7,RHP,Gr.,"6'0""",205 lbs,Sandwich
+Rutgers University,Pablo Santos,6,RHP/INF,Jr.,"6'0""",205 lbs,Don Bosco Prep
+Rutgers University,Justin Shadek,31,RHP,R-Fr.,"6'6""",235 lbs,Seton Hall Prep
+Rutgers University,Jack Sweeney,34,OF,Fr.,"6'0""",200 lbs,Allentown
+Rutgers University,JT Thompson,14,INF,Jr.,"5'9""",160 lbs,Wylie
+Rutgers University,Mike Timberlake,20,RHP,Jr.,"6'7""",225 lbs,Allentown
+Rutgers University,Nick Tomasetto,23,INF,R-Fr.,"5'10""",195 lbs,West Deptford
