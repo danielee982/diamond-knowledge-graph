@@ -3,7 +3,6 @@ import requests
 import csv
 import time
 import pandas as pd
-from funcs_neo4j import GraphDBManager
 from process_data import dedup_coaches, dedup_high_schools
 
 def scrape_school(school_name, url):
@@ -91,6 +90,8 @@ def parse_sidearm(school_name, soup):
                     if sr_only:
                         sr_only.decompose()
                     height = height_elem.text.strip()
+                    feet, inch = height.split("'")[0], height.split("'")[1].replace('"', '')
+                    height = 12 * int(feet) + int(inch)
                 else:
                     height = 'N/A'
                 
@@ -100,6 +101,7 @@ def parse_sidearm(school_name, soup):
                     if sr_only:
                         sr_only.decompose()
                     weight = weight_elem.text.strip()
+                    weight = weight.split(' ')[0]  # Leave only the number
                 else:
                     weight = 'N/A'
                 
@@ -183,9 +185,12 @@ def parse_sidearm_classic(school_name, soup):
             # Height / Weight
             height_tag = item.find("span", class_="sidearm-roster-player-height")
             height = height_tag.get_text(strip=True) if height_tag else "N/A"
+            feet, inch = height.split("'")[0], height.split("'")[1].replace('"', '')
+            height = 12 * int(feet) + int(inch)
 
             weight_tag = item.find("span", class_="sidearm-roster-player-weight")
             weight = weight_tag.get_text(strip=True) if weight_tag else "N/A"
+            weight = weight.split(' ')[0]  # Leave only the number
 
             # High School
             hs_tag = item.find("span", class_="sidearm-roster-player-highschool")
