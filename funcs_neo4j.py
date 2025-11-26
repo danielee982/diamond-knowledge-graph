@@ -24,7 +24,7 @@ class GraphDBManager:
     def create_constraints(self):
         queries = [
             """CREATE CONSTRAINT player_identity_unique IF NOT EXISTS
-                FOR (p:Player) REQUIRE (p.name, p.schoolName) IS UNIQUE;""",
+                FOR (p:Player) REQUIRE (p.name, p.jerseyNumber, p.schoolName) IS UNIQUE;""",
             """CREATE CONSTRAINT coach_identity_unique IF NOT EXISTS
                 FOR (c:Coach) REQUIRE (c.name, c.schoolName) IS UNIQUE;""",
             """CREATE CONSTRAINT team_name_unique IF NOT EXISTS
@@ -44,13 +44,12 @@ class GraphDBManager:
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MERGE (p:Player {name: row.Name, schoolName: row.School})
-            SET p.jerseyNumber = row.Jersey,
-                p.position = row.Position,
-                p.height = row.Height,
-                p.weight = row.Weight,
+            MERGE (p:Player {name: row.Name, jerseyNumber: row.Jersey, schoolName: row.School})
+            SET p.position = CASE WHEN row.Position = 'N/A' THEN NULL ELSE row.Position END,
+                p.height = toInteger(row.Height),
+                p.weight = toInteger(row.Weight),
                 p.year = row.`Class Year`,
-                p.highSchool = row.`High School`;
+                p.highSchool = CASE WHEN row.`High School` = 'N/A' THEN NULL ELSE row.`High School` END;
         """
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
         print("Players added successfully.")
@@ -110,7 +109,7 @@ class GraphDBManager:
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MATCH (p:Player {name: row.Name, schoolName: row.School}), (t:Team {name: row.School})
+            MATCH (p:Player {name: row.Name, jerseyNumber: row.Jersey, schoolName: row.School}), (t:Team {name: row.School})
             MERGE (p)-[:PLAYS_FOR]->(t)
 
             WITH p, row
@@ -149,13 +148,19 @@ class GraphDBManager:
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
         print("Coach relationships added successfully.")
 
+    def delete_all(self):
+        query = "MATCH (n) DETACH DELETE n;"
+        self.driver.execute_query(query, database_=self.DATABASE)
+        print("All nodes and relationships deleted successfully.")
+
     def load_all(self):
+        self.delete_all()
         self.create_constraints()
+        self.add_conferences()
+        self.add_schools()
+        self.add_teams()
         self.add_players()
         self.add_coaches()
-        self.add_conferences()
-        self.add_teams()
-        self.add_schools()
 
         self.add_player_relationships()
         self.add_team_relationships()
