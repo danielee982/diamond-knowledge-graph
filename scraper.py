@@ -3,17 +3,18 @@ import requests
 import csv
 import time
 import pandas as pd
-from process_data import dedup_coaches, dedup_high_schools
+from process_data import dedup_coaches, dedup_high_schools, standardize_positions
 
 def scrape_school(school_name, url):
     players, coaches = [], []
     try:
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-            'Accept-Language': 'en-US,en;q=0.9',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                        "AppleWebKit/537.36 (KHTML, like Gecko) "
+                        "Chrome/124.0.6367.207 Safari/537.36",
+            "Accept-Language": "en-US,en;q=0.9",
         }
+
         html = requests.get(url, headers=headers, timeout=15).text
         soup = BeautifulSoup(html, 'html.parser')
 
@@ -21,9 +22,6 @@ def scrape_school(school_name, url):
         if soup.find('div', class_='s-person-card__content'):
             print(f"Detected Sidearm layout for {school_name}")
             players, coaches = parse_sidearm(school_name, soup)
-        elif soup.find('div', class_='table--roster'):
-            print(f"Detected Table layout for {school_name}")
-            players, coaches = parse_table_roster(school_name, soup)
         elif soup.find('li', class_='sidearm-roster-player'):
             print(f"Detected Classic Sidearm layout for {school_name}")
             players, coaches = parse_sidearm_classic(school_name, soup)
@@ -237,73 +235,6 @@ def parse_sidearm_classic(school_name, soup):
 
     print(f"{school_name.upper()} (classic layout) scraped successfully")
     return players, coaches
-    
-def parse_table_roster(school_name, soup):
-    players, coaches = [], []
-
-    # Find all roster tables (covers both players and coaches)
-    tables = soup.find_all("div", class_="table--roster")
-    for table in tables:
-        tbody = table.find("tbody")
-        if not tbody:
-            continue
-
-        for row in tbody.find_all("tr"):
-            # Extract all cells (both td and th)
-            cells = row.find_all(["td", "th"])
-            if not cells:
-                continue
-            
-            # Extract plain text from each cell
-            cols = []
-            for cell in cells:
-                a = cell.find("a")
-                text = a.get_text(strip=True) if a else cell.get_text(strip=True)
-                cols.append(text)
-            
-            # --- COACH rows ---
-            if len(cols) <= 2:
-                name = cols[0] if len(cols) >= 1 else "N/A"
-                title = cols[1] if len(cols) >= 2 else "N/A"
-                coaches.append({
-                    "School": school_name,
-                    "Name": name,
-                    "Title": title
-                })
-                continue
-
-            # --- PLAYER row ---
-            # [#, Name, Class, Pos, Height, Weight, B/T, Hometown, High School, ...]
-            jersey = cols[0] if len(cols) > 0 else "N/A"
-            name = cols[1] if len(cols) > 1 else "N/A"
-            class_year = cols[2] if len(cols) > 2 else "N/A"
-            position = cols[3] if len(cols) > 3 else "N/A"
-            height = cols[4] if len(cols) > 4 else "N/A"
-            weight = cols[5] if len(cols) > 5 else "N/A"
-            # bt = cols[6] if len(cols) > 6 else "N/A"
-            highschool = cols[8] if len(cols) > 8 else "N/A"
-
-            # Split Bat/Throw if formatted as "R/R"
-            # batting, throwing = "N/A", "N/A"
-            # if "/" in bt:
-            #     parts = bt.split("/")
-            #     batting = parts[0].strip()
-            #     throwing = parts[1].strip() if len(parts) > 1 else "N/A"
-
-            players.append({
-                "School": school_name,
-                "Name": name,
-                "Jersey": jersey,
-                "Class Year": class_year,
-                "Position": position,
-                "Height": height,
-                "Weight": weight,
-                # "Batting": batting,
-                # "Throwing": throwing,
-                "High School": highschool,
-            })
-    print(f'{school_name.upper()} scraped successfully')
-    return players, coaches
 
 def write_to_csv(filename, data, fieldnames):
     with open(filename, 'w', newline='', encoding='utf-8') as file:
@@ -339,9 +270,9 @@ if __name__ == '__main__':
     for i, (school_name, url) in enumerate(SCHOOLS.items()):
         print(f'\nScraping {school_name.upper()}...')
 
-        if i > 0:
-            print(f"*** Waiting 3 second before next request to avoid rate limiting...")
-            time.sleep(3)
+        # if i > 0:
+        #     print(f"*** Waiting 2 seconds before next request to avoid rate limiting...")
+        #     time.sleep(2)
 
         players, coaches = scrape_school(school_name, url)
         all_players_data.extend(players)
@@ -360,26 +291,30 @@ if __name__ == '__main__':
     print(f'{len(all_coaches_data)} total coach records written to coaches.csv')
 
     # Write schools data to CSV
-    with open('data/raw/schools.csv', 'w', newline='', encoding='utf-8') as file:
+    with open('data/raw/highschools.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['name', 'school type'])  # Header
-        
-        # Write universities
-        for school_name in SCHOOLS.keys():
-            writer.writerow([school_name, 'university'])
+        writer.writerow(['name'])  # Header
         
         # Write high schools
         for hs in sorted(high_schools):
-            writer.writerow([hs, 'high school'])
-    print(f'{len(high_schools)} total high schools written to schools.csv')
+            writer.writerow([hs])
+    print(f'{len(high_schools)} total high schools written to highschools.csv')
+
+    with open('data/processed/colleges.csv', 'w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        writer.writerow(['name'])
+
+        for univ, _ in SCHOOLS.items():
+            writer.writerow([univ])
 
     players_df = pd.read_csv('data/raw/players.csv')
-    schools_df = pd.read_csv('data/raw/schools.csv')
+    highschools_df = pd.read_csv('data/raw/highschools.csv')
     coaches_df = pd.read_csv('data/raw/coaches.csv')
 
     coaches_df = dedup_coaches(coaches_df)
-    players_df, schools_df = dedup_high_schools(players_df, schools_df)
+    players_df, highschools_df = dedup_high_schools(players_df, highschools_df)
+    players_df = standardize_positions(players_df)
 
     players_df.to_csv('data/processed/players.csv', index=False)
-    schools_df.to_csv('data/processed/schools.csv', index=False)
+    highschools_df.to_csv('data/processed/highschools.csv', index=False)
     coaches_df.to_csv('data/processed/coaches.csv', index=False)
