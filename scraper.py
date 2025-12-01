@@ -242,6 +242,26 @@ def write_to_csv(filename, data, fieldnames):
         writer.writeheader()
         writer.writerows(data)
 
+def map_team(players_df):
+    teams_mapping = {
+        'University Of Florida': 'Florida Gators',
+        'University Of Missouri': 'Missouri Tigers',
+        'University Of Oklahoma': 'Oklahoma Sooners',
+        'University Of Alabama': 'Alabama Crimson Tide',
+        'University Of Washington': 'Washington Huskies',
+        'University Of Oregon': 'Oregon Ducks',
+        'University Of Indiana': 'Indiana Hoosiers',
+        'University Of Maryland': 'Maryland Terrapins',
+        'Rutgers University': 'Rutgers Scarlet Knights',
+        'University Of Minnesota': 'Minnesota Golden Gophers',
+        'Texas A&M University': 'Texas A&M Aggies',
+        'University Of Mississippi': 'Ole Miss Rebels',
+    }
+
+    players_df['Team'] = players_df['School'].apply(lambda x: teams_mapping.get(x))
+
+    return players_df
+
 # Schools to scrape
 SCHOOLS = {
     'University of Florida': 'https://floridagators.com/sports/baseball/roster',
@@ -311,6 +331,7 @@ if __name__ == '__main__':
     highschools_df = pd.read_csv('data/raw/highschools.csv')
     coaches_df = pd.read_csv('data/raw/coaches.csv')
 
+    players_df = map_team(players_df)
     coaches_df = dedup_coaches(coaches_df)
     players_df, highschools_df = dedup_high_schools(players_df, highschools_df)
     players_df = standardize_positions(players_df)
