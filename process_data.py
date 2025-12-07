@@ -45,7 +45,7 @@ def extract_positions(pos_str, mapping):
     parts = re.split(r'[/,|]', pos_str)
     return [mapping.get(p) for p in parts if p]
 
-def standardize_positions(players_df):
+def standardize_player_positions(players_df):
     mapping = {
         "OF": "Outfielder",
         "INF": "Infielder",
@@ -69,6 +69,24 @@ def standardize_positions(players_df):
             lambda x: x[i] if i < len(x) else None
         )
 
+    return players_df
+
+def standardize_class_year(players_df):
+    mapping = {
+        'Jr.': 'Junior',
+        'Sr.': 'Senior',
+        'So.': 'Sophomore',
+        'R-Fr.': 'Redshirt Freshman',
+        'Fr.': 'Freshman',
+        'R-Jr.': 'Redshirt Junior',
+        'R-So.': 'Redshirt Sophomore',
+        'Gr.': 'Graduate',
+        'R-Sr.': 'Redshirt Senior',
+        'Gr.+': 'Graduate',
+    }
+
+    players_df['Class Year'] = players_df['Class Year'].apply(lambda x: mapping.get(x))
+    
     return players_df
 
 def map_team(players_df, coaches_df):
@@ -100,6 +118,15 @@ def map_team(players_df, coaches_df):
 
     return players_df, coaches_df
 
+def standardize_batting_throwing(players_df):
+    players_df['B/T'] = players_df['B/T'].fillna('N/A').astype(str)
+    players_df['B/T'] = players_df['B/T'].apply(lambda x: x.replace('-', '/'))
+    players_df['B/T'] = players_df['B/T'].apply(lambda x: x.replace('B', 'S')) # standaridzie both hands into switch hands
+    
+    players_df[['Batting', 'Throwing']] = players_df['B/T'].str.split('/', expand=True)
+
+    return players_df
+
 if __name__ == '__main__':
     players_df = pd.read_csv('data/raw/players.csv')
     lastschools_df = pd.read_csv('data/raw/lastschools.csv')
@@ -108,7 +135,9 @@ if __name__ == '__main__':
     players_df, coaches_df = map_team(players_df, coaches_df)
     coaches_df = dedup_coaches(coaches_df)
     players_df, lastschools_df = dedup_last_schools(players_df, lastschools_df)
-    players_df = standardize_positions(players_df)
+    players_df = standardize_player_positions(players_df)
+    players_df = standardize_batting_throwing(players_df)
+    players_df = standardize_class_year(players_df)
 
     players_df.to_csv('data/processed/players.csv', index=False)
     lastschools_df.to_csv('data/processed/lastschools.csv', index=False)
