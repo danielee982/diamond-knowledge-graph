@@ -243,8 +243,8 @@ if __name__ == '__main__':
     players_df = standardize_player_positions(players_df)
     players_df = standardize_batting_throwing(players_df)
     players_df = standardize_class_year(players_df)
-    players_df, coaches_df = map_team(players_df, coaches_df)
     coaches_df = dedup_coaches(coaches_df)
+    players_df, coaches_df = map_team(players_df, coaches_df)
     coaches_df['Role List'] = coaches_df['Title'].apply(extract_roles)
 
     players_df.to_csv('data/processed/players.csv', index=False)
