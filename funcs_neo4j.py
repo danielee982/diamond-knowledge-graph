@@ -71,7 +71,7 @@ class GraphDBManager:
             LOAD CSV WITH HEADERS FROM $url AS row
             MERGE (c:Coach {name: row.Name, schoolName: row.College})
             SET c.rawPosition = row.Title,
-            SET c.roleList = row.`Role List`;
+                c.roleList = row.`Role List`;
         """
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
         print("Coaches added successfully.")
