@@ -1,156 +1,94 @@
-School,Name,Title
-University Of Florida,Kevin O'Sullivan,Head Coach
-University Of Florida,Chuck Jeroloman,Associate Head Coach
-University Of Florida,Taylor Black,Assistant Coach
-University Of Florida,David Kopp,Pitching Coach
-University Of Florida,Michael Byrne,Student Assistant Coach
-University Of Florida,Mike Rivera,Director of Player Development
-University Of Florida,Shawn Burke,Strength and Conditioning Coordinator
-University Of Florida,Buddy Munroe,Director of Baseball Operations
-University Of Florida,Edmund Boyd,"Assistant Director, Lemerand Equipment"
-University Of Florida,Ann Hughes,"Assistant Director, Student Services"
-University Of Florida,Zach Cronin,Director of Player Personnel & Scouting
-University Of Florida,Jarrett Schweim,Athletic Trainer
-University Of Florida,Orlando Prescott,Program Assistant
-University Of Florida,Lindsay  Birchfield,Intern Athletic Trainer
-University Of Missouri,Kerrick Jackson,Head Coach
-University Of Missouri,Jabari Brown,Assistant Coach
-University Of Missouri,Tim Jamieson,Assistant Coach
-University Of Missouri,Bryson  LeBlanc,Assistant Coach
-University Of Missouri,Jose Carballo,Director of Recruiting and Operations
-University Of Missouri,Joseph Dattoli,Director of Player Development
-University Of Missouri,Anthony  Hansen,Director of Player Personnel
-University Of Missouri,Isaiah Paige,Director of Pitching Development
-University Of Missouri,Hampton Hudson,Graduate Assistant
-University Of Oklahoma,Skip Johnson,Head Coach
-University Of Oklahoma,Reggie Willits,Associate Head Coach
-University Of Oklahoma,Todd Butler,Assistant Coach
-University Of Oklahoma,Russell Raley,Assistant Coach
-University Of Oklahoma,Britt Bonneau,Director of Player Development
-University Of Oklahoma,Ryan Gaines,Chief of Staff
-University Of Oklahoma,Melissa  Hampton Lindon,Athletic Trainer (Baseball)
-University Of Oklahoma,Tyler Schwalbach,Equipment Manager (Baseball)
-University Of Oklahoma,Tim Overman,Strength & Conditioning
-University Of Oklahoma,Vince Rinaldi,Baseball Video and Analytics Coordinator
-University Of Oklahoma,Coriann MacNeill,Dietitian
-University Of Oklahoma,Jaye Rideaux,Assistant A.D. / Academic Support Services
-University Of Oklahoma,Greg Tipton,"Executive Associate A.D. / Internal Operations, Facilities & Events (Baseball Sport Administrator)"
-University Of Oklahoma,Kendall Mayer,"Associate A.D, Athletics Advancement (Secondary Baseball Sport Administrator)"
-University Of Oklahoma,Grant Stevens,Pitching Development
-University Of Oklahoma,Bryce Madron,Student Coach
-University Of Oklahoma,Scott Mudler,Student Coach
-University Of Alabama,Rob Vaughn,Head Coach
-University Of Alabama,Jason Jackson,Associate Head Coach
-University Of Alabama,Mike Morrison,Assistant Coach
-University Of Alabama,Anthony Papio,Assistant Coach
-University Of Alabama,Sean Stryker,Athletic Trainer
-University Of Alabama,Brett Price,Associate Strength and Conditioning Coach (Baseball)
-University Of Alabama,Mikey White,"Coordinator, Player Development"
-University Of Alabama,Jenny Sanders,Director of Operations
-University Of Alabama,Stephanie Godfrey,"Assistant Director, Athletics Student Services (Baseball, Softball)"
-University Of Alabama,Amanda Branson,"Director, Olympic Sport Performance Nutrition"
-University Of Alabama,Jessica Paré,"Deputy Director of Athletics, External (Baseball Oversight)"
-University Of Alabama,Garrett Wood,Recruiting Operations Assistant
-University Of Washington,Eddie Smith,Head Coach
-University Of Washington,Connor Lambert,Pitching Coach
-University Of Washington,Mike Gange,Recruiting Coordinator
-University Of Washington,Joe Murray,Strength & Conditioning Coach
-University Of Washington,Damon Lessler,Director of Player Development
-University Of Oregon,Mark Wasikowski,Head Coach
-University Of Oregon,Blake  Hawksworth,Assistant Coach
-University Of Oregon,Jack Marder,Assistant Coach
-University Of Oregon,Marcus Hinkle,Assistant Coach
-University Of Oregon,Sean Harling,Director of Baseball Operations
-University Of Oregon,Brett Thomas,Director of Player Development/Analytics
-University Of Oregon,Darrell Hunter,Head Strength Coach & Video Analytics Coordinator
-University Of Oregon,John Mitchell,Equipment Manager
-University Of Oregon,Cody Peterman,Athletic Trainer
-University Of Oregon,Janice Beck,Administrative Assistant
-University Of Oregon,Lindsey Bingham,Academic Advisor
-University Of Indiana,Jeff Mercer,Head Coach
-University Of Indiana,Dustin Glant,Associate Coach/Pitching
-University Of Indiana,Zach Weatherford,Assistant Coach/Hitting & Recruiting Coordinator
-University Of Indiana,Blake Allen,Assistant Coach/Infield
-University Of Indiana,Denton Sagerman,Assistant Coach/Pitching & Catching
-University Of Indiana,Scott  Rolen,Special Assistant to the Head Coach
-University Of Indiana,Morgan Colopy,Program Assistant
-University Of Indiana,"Joel Langemaat, MS, LAT, ATC","Associate Athletic Trainer, Baseball"
-University Of Indiana,Chris Virtue,Director of Athletic Performance
-University Of Indiana,Rusty Stillions,Director of Simon Skjodt Assembly Hall Equipment Operations
-University Of Minnesota,Ty McDevitt,Head Coach
-University Of Minnesota,Alec Crawford,Pitching Coach
-University Of Minnesota,Connor Gandossy,Assistant Coach
-University Of Minnesota,Sean Moore,Assistant Coach
-University Of Minnesota,Nolan Summerfield,Director of Operations
-University Of Minnesota,Jared Everson,Student Assistant
-University Of Minnesota,Danny Davis,Student Assistant
-University Of Minnesota,Scott McWilliams,Assistant Director of Athletic Performance – Baseball & Wrestling
-University Of Minnesota,"Anthony Parise, MS, LAT, ATC",Assistant Athletic Trainer
+College,Name,Title
+University of Florida,Kevin O'Sullivan,Head Coach
+University of Florida,Chuck Jeroloman,Associate Head Coach
+University of Florida,Taylor Black,Assistant Coach
+University of Florida,David Kopp,Pitching Coach
+University of Florida,Michael Byrne,Student Assistant Coach
+University of Missouri,Kerrick Jackson,Head Coach
+University of Missouri,Jabari Brown,Assistant Coach
+University of Missouri,Tim Jamieson,Assistant Coach
+University of Missouri,Bryson  LeBlanc,Assistant Coach
+University of Oklahoma,Skip Johnson,Head Coach
+University of Oklahoma,Reggie Willits,Associate Head Coach
+University of Oklahoma,Todd Butler,Assistant Coach
+University of Oklahoma,Russell Raley,Assistant Coach
+University of Oklahoma,Bryce Madron,Student Coach
+University of Oklahoma,Scott Mudler,Student Coach
+University of Alabama,Rob Vaughn,Head Coach
+University of Alabama,Jason Jackson,Associate Head Coach
+University of Alabama,Mike Morrison,Assistant Coach
+University of Alabama,Anthony Papio,Assistant Coach
+University of Alabama,Brett Price,Associate Strength and Conditioning Coach (Baseball)
+University of Washington,Eddie Smith,Head Coach
+University of Washington,Connor Lambert,Pitching Coach
+University of Washington,Joe Murray,Strength & Conditioning Coach
+University of Oregon,Mark Wasikowski,Head Coach
+University of Oregon,Blake  Hawksworth,Assistant Coach
+University of Oregon,Jack Marder,Assistant Coach
+University of Oregon,Marcus Hinkle,Assistant Coach
+University of Oregon,Darrell Hunter,Head Strength Coach & Video Analytics Coordinator
+University of Indiana,Jeff Mercer,Head Coach
+University of Indiana,Dustin Glant,Associate Coach/Pitching
+University of Indiana,Zach Weatherford,Assistant Coach/Hitting & Recruiting Coordinator
+University of Indiana,Blake Allen,Assistant Coach/Infield
+University of Indiana,Denton Sagerman,Assistant Coach/Pitching & Catching
+University of Indiana,Scott  Rolen,Special Assistant to the Head Coach
+University of Minnesota,Ty McDevitt,Head Coach
+University of Minnesota,Alec Crawford,Pitching Coach
+University of Minnesota,Connor Gandossy,Assistant Coach
+University of Minnesota,Sean Moore,Assistant Coach
 Texas A&M University,Michael Earley,Head Coach
 Texas A&M University,Jason Kelly,Associate Head Coach
 Texas A&M University,Caleb Longley,Assistant Coach
 Texas A&M University,Will Fox,Assistant Coach
-Texas A&M University,Troy Claunch,Graduate Assistant
-Texas A&M University,Jason Hutchins,Director of Baseball Operations
-Texas A&M University,Jack Mahala,Director of Player Development & Analytics
-Texas A&M University,Jace Hutchins,Director of Program and Pitching Development
-Texas A&M University,Kalie Swain,Athletic Trainer
 Texas A&M University,Jeremy McMillan,Head Strength & Conditioning Coach
 Texas A&M University,Roman Gomez,Assistant Strength & Conditioning Coach
-University Of Mississippi,Mike Bianco,Head Coach
-University Of Mississippi,Mike Clement,Assistant Coach
-University Of Mississippi,Carl Lafferty,Assistant Coach
-University Of Mississippi,Joel Mangrum,Assistant Coach
-University Of Mississippi,Chris Cleary,Coordinator of Baseball Operations
-University Of Mississippi,Chris Goudoras,Director of Analytics
-University Of Mississippi,Drew Bianco,Director of Player Development
-University Of Mississippi,Tyler Keenan,Student Assistant Coach
-University Of Mississippi,Joshua Porter,Senior Athletic Trainer
-University Of Mississippi,John Carello,Head Baseball Strength and Conditioning Coach
-University Of Mississippi,Sheila Padgett,Assistant Director of Academic Support
-University of Maryland,Matt Swope,Head Coach
-University of Maryland,Jimmy  Jackson,Assistant Coach/Pitching Coach
-University of Maryland,Tommy Gardiner,Assistant Coach
-University of Maryland,Brock Keener,Assistant Coach
-University of Maryland,Derek Ohringer,Director of Operations
-University of Maryland,Bryant Avery,Strategic Communications
-University of Maryland,Connor Basch,Video Operations
-University of Maryland,Henry Bergmann,Strength & Conditioning
-University of Maryland,Gabe Carter,Compliance
-University of Maryland,Alex Corbin,Fan Development & Event Marketing
-University of Maryland,Ian Cox,Lead Photographer
-University of Maryland,"Tyler Cronin, MS, ATC",Athletic Trainer
-University of Maryland,Brian Ford,Equipment Manager
-University of Maryland,"Dr. Sesooter Ikpah, Psy.D.",Athletic Mental Health Counselor
-University of Maryland,"Paula Karamihas, MS, RD, LDN, CSSD",Sports Nutrition
-University of Maryland,Joshua Kaplan,Sport Supervisor (Primary)
-University of Maryland,Resa Lovelace,Student-Athlete Development
-University of Maryland,Matt Monroe,Development
-University of Maryland,Adam Nelson,"Facilities, Operations & Events"
-University of Maryland,Garrett Nixon,Development
-University of Maryland,Ari Platt,Head Student Manager
-University of Maryland,Michael Pruchnicki,Academic Support & Career Development
-University of Maryland,Bryce Shelton,Ticket Operations
-University of Maryland,Chuck Wade,Ticket Operations
-Rutgers University,Steve Owens,Head Coach
-Rutgers University,Mike Garza,Associate Head Coach/Hitting/Recruiting
-Rutgers University,Mike McRae,Associate Head Coach/Pitching
-Rutgers University,Danny Bethea,Assistant Coach
-Rutgers University,Peter Barron,Director of Baseball Operations & Program Development
-Rutgers University,Jack Arend,Director of Player Development
-Rutgers University,Adam  Pallone,Athletic Trainer
-Rutgers University,Ken Pennini,Strength and Conditioning
-Rutgers University,John Reardon,Equipment Manager
-Rutgers University,Griffin Whitmer,Athletic Communications
-Rutgers University,Darrick  Brown,Academic Advisor
-Rutgers University,Ryan Pisarri,Sport Administrator
-Rutgers University,Argenys Gomez,Graduate Manager
-Rutgers University,Ken Shimabuku,Student Manager
-Rutgers University,Jake Schwinger,Student Manager/Bullpen Catcher
-Rutgers University,Matt Mulato,Student Manager
-Rutgers University,Manny Rojas,Student Manager
-Rutgers University,Jonathan Feldman,Student Manager
-Rutgers University,Jordan Daniels,Student Manager
-Rutgers University,"Andrew Billups, Psy.D.",Sport Psychologist
-Rutgers University,Rachel  Rovner,Sports Nutritionist
-Rutgers University,Brett Miller,Student-Athlete Development and Success
+University of Southern Mississippi,Christian Ostrander,Head Coach
+University of Southern Mississippi,Travis Creel,Assistant Coach
+University of Southern Mississippi,Ladd Rhodes,Assistant Coach
+University of Southern Mississippi,Ben Brewer,Assistant Coach
+University of Southern Mississippi,Keller Bradford,Assistant Coach
+University of Southern Mississippi,Todd Makovicka,Head Strength and Conditioning Coach for Olympic Sports
+Troy University,Skylar Meade,Head Coach
+Troy University,Ben Wolgamot,Associate Head Coach
+Troy University,Ryan Fineman,Assistant Coach / Recruiting Coordinator
+Troy University,Adam Godwin,Assistant Coach / Outfield & Base Running Coordinator
+University of Louisiana at Lafayette,Matt Deggs,Head Coach
+University of Louisiana at Lafayette,Seth Thibodeaux,Associate Head Coach
+University of Louisiana at Lafayette,Zach LaFleur,Assistant Coach/Recruiting Coordinator
+University of Louisiana at Lafayette,Gunner Leger,Assistant Coach/Pitching Coach
+Rice University,David Pierce,Bixby Family Head Baseball Coach
+Rice University,Parker Bangs,Pitching Coach
+Rice University,DC  Arendas,Assistant Coach
+Rice University,Justin  Aspegren,Assistant Coach
+Rice University,Lance  Berkman,Volunteer Coach
+Rice University,Ryan  McNerlin,Assistant Strength and Conditioning Coach--Baseball
+University of Memphis,Matt Riser,Head Coach
+University of Memphis,Ford Pemberton,"Assistant Coach (Hitting, Infield), Recruiting Coordinator"
+University of Memphis,Cory Barton,Pitching Coach
+University of Memphis,Connor Manola,Assistant Coach
+University of North Carolina at Charlotte,Robert Woodard,Head CoachPitching Coach
+University of North Carolina at Charlotte,Toby Bicknell,Associate Head CoachRecruiting Coordinator
+University of North Carolina at Charlotte,Phillip Cebuhar,Assistant CoachHitting Coach
+Oregon State University,Mitch Canham,Pat Casey Head Baseball Coach
+Oregon State University,Rich Dorman,Assistant Coach
+Oregon State University,Ryan Gipson,Assistant Coach
+Oregon State University,Joey Wong,Assistant Coach
+Oregon State University,Brady Kasper,Undergraduate Assistant Coach
+Texas Tech University,Tim Tadlock,Head Coach
+Texas Tech University,J-Bob Thomas,Assistant Coach
+Texas Tech University,Eric Gutierrez,Assistant Coach
+Texas Tech University,Steve Foster,Pitching Coach
+Oklahoma State University,Josh Holliday,Head Coach
+Oklahoma State University,Rob Walton,Assistant Coach/Pitching
+Oklahoma State University,Mark Ginther,Assistant Coach/Recruiting Coordinator
+Oklahoma State University,Victor Romero,Assistant Coach
+Fresno State University,Ryan Overland,Head Coach
+Fresno State University,Troy Buckley,Assistant Coach
+Fresno State University,Ritchie Price,Assistant Coach
+Fresno State University,Jack Karraker,Assistant Coach
+Fresno State University,Ryan Reyes,Sports Performance Coaching Assistant
+Air Force Academy,Mike Kazlausky,Head Coach
+Air Force Academy,Drew LaComb,Assistant Coach
+Air Force Academy,Kyle Winkler,Assistant Coach
+Air Force Academy,Tyler Dawson,Assistant Coach

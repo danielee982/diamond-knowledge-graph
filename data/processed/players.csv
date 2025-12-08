@@ -1,492 +1,792 @@
-School,Name,Jersey,Position,Class Year,Height,Weight,High School,Position List,position1,position2,Team
-University of Florida,Justin Nadeau,1,INF/OF,Jr.,72,195,Bartram Trail (Jacksonville),"['Infielder', 'Outfielder']",Infielder,Outfielder,Florida Gators
-University of Florida,Ty Evans,2,OF,Sr.,74,215,Lakeland Christian,['Outfielder'],Outfielder,,Florida Gators
-University of Florida,Kyle Jones,3,OF,So.,75,185,North Oconee (Stetson),['Outfielder'],Outfielder,,Florida Gators
-University of Florida,Cade Kurland,4,INF,Jr.,71,190,Berkeley Prep,['Infielder'],Infielder,,Florida Gators
-University of Florida,Blake Cyr,5,OF/INF,Jr.,71,190,Windermere (Miami),"['Outfielder', 'Infielder']",Outfielder,Infielder,Florida Gators
-University of Florida,Bobby Boser,6,INF/OF,Sr.,73,215,Wiregrass Ranch (USF),"['Infielder', 'Outfielder']",Infielder,Outfielder,Florida Gators
-University of Florida,Christian Rodriguez,8,RHP,R-Fr.,72,210,Marjory Stoneman Douglas,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Luke McNeillie,9,RHP,So.,75,190,Milton,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Colby Shelton,10,INF,Jr.,72,205,Bloomingdale (Alabama),['Infielder'],Infielder,,Florida Gators
-University of Florida,Brendan Lawson,11,INF,Fr.,75,215,P27 Academy,['Infielder'],Infielder,,Florida Gators
-University of Florida,Liam Peterson,12,RHP,So.,77,220,Calvary Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Landon Stripling,13,INF,So.,72,200,Parkview (Texas Tech),['Infielder'],Infielder,,Florida Gators
-University of Florida,Joshua Whritenour,15,RHP,Fr.,74,195,A3 Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Hayden Yost,16,OF,So.,73,195,Sickles,['Outfielder'],Outfielder,,Florida Gators
-University of Florida,Jacob Gomberg,17,LHP,So.,70,180,Marjory Stoneman Douglas,['Left-Handed Pitcher'],Left-Handed Pitcher,,Florida Gators
-University of Florida,Pierce Coppola,18,LHP,R-Jr.,80,245,Verona,['Left-Handed Pitcher'],Left-Handed Pitcher,,Florida Gators
-University of Florida,Jake Clemente,20,RHP,R-So.,75,225,Marjory Stoneman Douglas,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Caden McDonald,21,RHP/1B,R-Fr.,75,200,Sickles,"['Right-Handed Pitcher', 'First Base']",Right-Handed Pitcher,First Base,Florida Gators
-University of Florida,Jackson Barberi,22,RHP,Fr.,76,180,Brookwood,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Billy Barlow,23,RHP,R-Jr.,74,220,North Myrtle Beach (Clemson),['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Blake Brookins,24,OF,So.,77,225,Miami Palmetto,['Outfielder'],Outfielder,,Florida Gators
-University of Florida,Kolt Myers,25,INF,Fr.,74,190,St. John's Country Day,['Infielder'],Infielder,,Florida Gators
-University of Florida,Niko Janssens,26,LHP,Fr.,76,200,A3 Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,Florida Gators
-University of Florida,Blaine Rowland,27,RHP,Fr.,75,220,Durant,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Luke Heyman,28,C,Jr.,76,220,Lake Brantley,['Catcher'],Catcher,,Florida Gators
-University of Florida,Brody Donay,29,C,Jr.,77,235,Lakeland Christian,['Catcher'],Catcher,,Florida Gators
-University of Florida,Ashton Wilson,30,OF/INF,Jr.,72,200,TNXL Academy,"['Outfielder', 'Infielder']",Outfielder,Infielder,Florida Gators
-University of Florida,Frank Menendez,31,LHP,So.,73,215,Doral Academy Charter,['Left-Handed Pitcher'],Left-Handed Pitcher,,Florida Gators
-University of Florida,McCall Biemiller,33,LHP,Fr.,74,180,Tampa Jesuit,['Left-Handed Pitcher'],Left-Handed Pitcher,,Florida Gators
-University of Florida,Alex Philpott,34,RHP,So.,78,200,Strawberry Crest,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Brock Clayton,35,C/OF,Fr.,75,210,Pensacola Catholic,"['Catcher', 'Outfielder']",Catcher,Outfielder,Florida Gators
-University of Florida,Matthew Jenkins,37,RHP,So.,78,195,Lafayette (Santa Fe College),['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Mason Laurito,38,LHP,So.,72,175,Forest (Gulf Coast CC),['Left-Handed Pitcher'],Left-Handed Pitcher,,Florida Gators
-University of Florida,Cole Bullen,40,C,R-Jr.,69,175,Villages Charter (College of Central Florida),['Catcher'],Catcher,,Florida Gators
-University of Florida,Felix Ong,44,RHP,Fr.,76,220,Key West,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Schuyler Sandford,45,RHP,Fr.,78,215,St. John's Country Day,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Aidan King,47,RHP,Fr.,74,195,Bishop John J. Snyder,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Florida,Carson Montsdeoca,99,RHP,Fr.,75,205,Fort Meade,['Right-Handed Pitcher'],Right-Handed Pitcher,,Florida Gators
-University of Missouri,Cameron Benson,1,INF/OF,Jr.,75,185,Southfield HS for the Arts & Technology,"['Infielder', 'Outfielder']",Infielder,Outfielder,Missouri Tigers
-University of Missouri,Brock Daniels,2,INF/OF,Jr.,73,195,St. John Vianney HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,Missouri Tigers
-University of Missouri,Peyton Basler,3,INF,Jr.,72,195,Lansing HS,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Jedier Hernandez,4,C,Sr.,72,200,Trenton Catholic Academy,['Catcher'],Catcher,,Missouri Tigers
-University of Missouri,Pierre Seals,5,OF,Sr.,72,210,Houston HS,['Outfielder'],Outfielder,,Missouri Tigers
-University of Missouri,Kaden Peer,7,OF/INF,So.,74,185,CBC HS,"['Outfielder', 'Infielder']",Outfielder,Infielder,Missouri Tigers
-University of Missouri,Gehrig Goldbeck,10,INF,Jr.,73,175,Tonganoxie HS,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Austin Henry,11,RHP,So.,77,220,Dell Rapids HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Tyler Macon,12,INF,R-Fr.,71,175,Kirkwood HS,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Brady Picarelli,13,OF,Fr.,74,200,Eureka HS,['Outfielder'],Outfielder,,Missouri Tigers
-University of Missouri,Isaiah Frost,14,OF,Sr.,71,197,Blue Springs South HS,['Outfielder'],Outfielder,,Missouri Tigers
-University of Missouri,Chris Patterson,17,INF,Fr.,75,190,Prestonwood Academy,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Jackson Lovich,18,INF,Jr.,76,192,Blue Valley West HS,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Keegan Knutson,19,INF,Jr.,70,195,Combine Academy,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Trey Lawrence,20,INF/RHP,Fr.,75,180,Palmetto HS,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,Missouri Tigers
-University of Missouri,Sam Horn,21,RHP,So.,76,217,Collins Hill,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Kadden Drew,22,LHP,Jr.,74,210,Notre Dame Prep,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Ian Lohse,23,LHP,Gr.,72,199,Marquette HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Trey Callaway,24,UTIL,Fr.,73,215,Dutchtown HS,['Utility'],Utility,,Missouri Tigers
-University of Missouri,Brock Lucas,25,RHP,Jr.,75,229,St. Elizabeth HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Victor Christal,26,RHP,Fr.,72,190,Bishop Miege HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,PJ Green,27,OF/RHP,Fr.,74,195,Sandy Creek HS,"['Outfielder', 'Right-Handed Pitcher']",Outfielder,Right-Handed Pitcher,Missouri Tigers
-University of Missouri,Josh Kirchhoff,28,RHP,Jr.,75,210,Concordia Academy-Roseville,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,James Vaughn,29,RHP,Gr.,77,240,Collegiate School,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Wil Libbert,30,LHP,R-Fr.,73,205,Blair Oaks HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Kaden Jacobi,32,RHP,Sr.,75,220,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Daniel Wissler,35,LHP,Jr.,74,185,Fort Zumwalt West HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Aeneas Clark,36,RHP,Jr.,75,205,Northwest Christian HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Aden Malpass,37,OF,Fr.,72,175,Catholic HS,['Outfielder'],Outfielder,,Missouri Tigers
-University of Missouri,Blake Simpson,38,INF,Jr.,74,185,Pickering HS,['Infielder'],Infielder,,Missouri Tigers
-University of Missouri,Charlie Miller,39,RHP,So.,75,185,Russellville HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Brady Kehlenbrink,40,LHP,Fr.,74,205,Parkway South HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Nic Smith,41,LHP,Jr.,75,198,Alvin C. York Institute,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Javyn Pimental,43,LHP,Sr.,75,213,Kamehameha HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Xavier Lovett,44,RHP,Gr.,72,190,Westfield HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Cayden Nicoletto,48,OF,Sr.,72,190,Baldivis Secondary College,['Outfielder'],Outfielder,,Missouri Tigers
-University of Missouri,Tony Neubeck,49,LHP,Jr.,74,237,Mahtomedi HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Missouri Tigers
-University of Missouri,Ben Smith,50,RHP,So.,74,195,Catholic HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Jaylen Merchant,51,RHP,So.,72,180,Grayson HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Josh McDevitt,54,RHP,So.,74,195,Effingham HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Seth McCartney,58,RHP,Jr.,72,200,Brandon,['Right-Handed Pitcher'],Right-Handed Pitcher,,Missouri Tigers
-University of Missouri,Mateo Serna,88,C,So.,72,195,American Heritage HS,['Catcher'],Catcher,,Missouri Tigers
-University of Oklahoma,Jason Walk,1,OF,Jr.,70,166,Harrison HS,['Outfielder'],Outfielder,,Oklahoma Sooners
-University of Oklahoma,Myles Davis,2,INF,So.,72,213,Marion HS,['Infielder'],Infielder,,Oklahoma Sooners
-University of Oklahoma,Cayden Brumbaugh,3,UTL,Sr.,69,182,Edmond Santa Fe HS,['Utility'],Utility,,Oklahoma Sooners
-University of Oklahoma,Alec Blair,4,OF,Fr.,78,195,De La Salle,['Outfielder'],Outfielder,,Oklahoma Sooners
-University of Oklahoma,Nolan Stevens,5,OF/LHP,Jr.,74,216,Franklin,"['Outfielder', 'Left-Handed Pitcher']",Outfielder,Left-Handed Pitcher,Oklahoma Sooners
-University of Oklahoma,Kyle Branch,6,INF,So.,71,182,Lovejoy HS,['Infielder'],Infielder,,Oklahoma Sooners
-University of Oklahoma,Jaxon Willits,7,INF,Jr.,72,203,Fort Cobb-Broxton HS,['Infielder'],Infielder,,Oklahoma Sooners
-University of Oklahoma,Uriah Walters,8,INF,Jr.,74,193,Weatherford JC,['Infielder'],Infielder,,Oklahoma Sooners
-University of Oklahoma,Camden Johnson,9,UTL,Jr.,72,176,Boerne HS,['Utility'],Utility,,Oklahoma Sooners
-University of Oklahoma,Brendan Brock,10,C/OF,Jr.,75,200,Mascoutah HS,"['Catcher', 'Outfielder']",Catcher,Outfielder,Oklahoma Sooners
-University of Oklahoma,Gerardo Prado,11,OF,Jr.,75,190,Puerto Rico Baseball Academy HS,['Outfielder'],Outfielder,,Oklahoma Sooners
-University of Oklahoma,Kadyn Leon,12,RHP,So.,72,182,McLennan CC,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Connor Larkin,13,UTL,Fr.,75,194,Cherry Creek HS,['Utility'],Utility,,Oklahoma Sooners
-University of Oklahoma,Cooper Smith,14,1B,Jr.,72,197,Marlow HS,['First Base'],First Base,,Oklahoma Sooners
-University of Oklahoma,Dayton Tockey,16,INF,Sr.,73,230,Weatherford HS,['Infielder'],Infielder,,Oklahoma Sooners
-University of Oklahoma,Dasan Harris,17,OF,Jr.,73,181,Plano East HS,['Outfielder'],Outfielder,,Oklahoma Sooners
-University of Oklahoma,Gavyn Jones,18,LHP/OF,Jr.,73,206,White Oak HS,"['Left-Handed Pitcher', 'Outfielder']",Left-Handed Pitcher,Outfielder,Oklahoma Sooners
-University of Oklahoma,Jaxon Grossman,19,RHP,Jr.,76,227,Makawoo HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Trey Gambill,20,OF,Sr.,71,200,Lone Peak HS,['Outfielder'],Outfielder,,Oklahoma Sooners
-University of Oklahoma,Drew Dickerson,21,OF,So.,76,210,Lee's Summit West HS,['Outfielder'],Outfielder,,Oklahoma Sooners
-University of Oklahoma,LJ Mercurius,22,RHP,Jr.,74,175,Faith Lutheran HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Xander Mercurius,23,RHP,Fr.,70,186,Durango HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Mason Bixby,25,RHP,Jr.,79,239,Lady Bird Johnson HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Drew Rerick,27,RHP,So.,76,243,Fargo Davies HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Cole Leach,28,C/INF,Fr.,75,218,Hilldale HS,"['Catcher', 'Infielder']",Catcher,Infielder,Oklahoma Sooners
-University of Oklahoma,Jaden Barfield,29,LHP,So.,72,216,Pearl,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Michael Catalano,30,RHP,So.,72,200,Frisco HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Cameron Johnson,31,LHP,Jr.,78,256,IMG Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Brisco Smith,32,RHP,Fr.,73,169,Duncan HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Isaac Williams,33,RHP,Jr.,73,200,Fleming Island HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Joey McMannis,34,RHP,Jr.,76,228,Catocin HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Jason Bodin,35,RHP,Jr.,75,193,Orangefield HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Nick Wesloski,37,RHP,Fr.,75,219,McKinney Boyd HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Trent Collier,39,LHP,So.,74,241,"Weatherford, JC",['Left-Handed Pitcher'],Left-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Aidan Tomlinson,40,RHP,Fr.,76,214,Dewar HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Gunnar Dillard,41,C,Fr.,72,200,Wall HS,['Catcher'],Catcher,,Oklahoma Sooners
-University of Oklahoma,Reid Hensley,42,RHP,Gr.,72,214,Lufkin HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Jordan Stribling,45,LHP,So.,77,219,Highland Park HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Deiten Lachance,48,C,Jr.,77,231,McLennan CC,['Catcher'],Catcher,,Oklahoma Sooners
-University of Oklahoma,Jackson Cleveland,49,RHP,Sr.,74,206,Deer Park HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Jackson Kornylo,52,RHP,Fr.,77,192,TNXL Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Nate Smithburg,54,LHP,R-So.,74,257,Fairfield HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Vaughn Neckar,55,RHP,Fr.,75,257,Vista Murrieta HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oklahoma Sooners
-University of Oklahoma,Cord Rager,99,LHP/INF,Fr.,78,237,Maypearl HS,"['Left-Handed Pitcher', 'Infielder']",Left-Handed Pitcher,Infielder,Oklahoma Sooners
-University of Alabama,Justin Lebron,1,INF,So.,74,180,Archbishop Edward McCarthy,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Kade Snell,3,OF Is Captain (C),R-Sr.,73,210,Wicksburg,[None],,,Alabama Crimson Tide
-University of Alabama,Riley Quick,4,RHP,R-So.,78,245,Hewitt-Trussville,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Richie Bonomolo Jr.,5,OF,Jr.,71,200,Cardinal Hayes,['Outfielder'],Outfielder,,Alabama Crimson Tide
-University of Alabama,Beau Bryans,6,LHP,Jr.,72,195,Madison Central,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Matthew Heiberger,7,LHP,So.,75,210,Oak Mountain,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Tyler Fay,8,RHP,R-So.,77,215,Grand Island Senior,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Bryce Fowler,9,OF,R-Jr.,74,190,Germantown,['Outfielder'],Outfielder,,Alabama Crimson Tide
-University of Alabama,Brady Neal,10,C/INF,Jr.,70,190,IMG Academy,"['Catcher', 'Infielder']",Catcher,Infielder,Alabama Crimson Tide
-University of Alabama,Coulson Buchanan,11,RHP,Sr.,70,185,North Gwinnett,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,JT Blackwood,12,RHP,Jr.,74,210,Hartselle,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Luke Vaughn,13,C,So.,74,200,Elder,['Catcher'],Catcher,,Alabama Crimson Tide
-University of Alabama,Carson Ozmer,14,RHP,Gr.,74,210,John H. Guyer,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Coleman Mizell,15,OF,So.,75,230,Hartselle,['Outfielder'],Outfielder,,Alabama Crimson Tide
-University of Alabama,Jonathan Stevens,16,RHP,So.,73,215,Briarwood Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Will Plattner,17,C,Jr.,73,205,Glenwood,['Catcher'],Catcher,,Alabama Crimson Tide
-University of Alabama,Will Hodo,18,INF/OF,Sr.,75,225,Wayne Academy,"['Infielder', 'Outfielder']",Infielder,Outfielder,Alabama Crimson Tide
-University of Alabama,Aeden Finateri,19,RHP,Sr.,72,235,Avon Old Farms,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Zane Adams,20,LHP,So.,76,195,Porter,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Brennen Norton,21,INF,Sr.,69,195,Cullman,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Braylon Myers,22,RHP,Sr.,74,205,Oak Grove,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Aidan Moza,23,RHP,Sr.,73,195,North Cobb Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Tate Robertson,24,LHP,Sr.,72,170,Northridge,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Peyton Steele,26,OF,Fr.,73,195,Hartselle,['Outfielder'],Outfielder,,Alabama Crimson Tide
-University of Alabama,Garrett Staton,27,INF,R-Sr.,72,195,North Forsyth,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Danny Heintz,29,RHP,R-Sr.,78,235,Green Hope,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Anthony Pesci,30,RHP,Fr.,76,205,Orchard Lake Saint Mary's Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Jon Young Jr.,31,INF,Fr.,73,190,Cherry Hill West,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Jason Torres,32,INF,Jr.,73,230,Miami Springs,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Ariston Veasey,33,RHP/UTL,So.,73,190,Starr's Mill,"['Right-Handed Pitcher', 'Utility']",Right-Handed Pitcher,Utility,Alabama Crimson Tide
-University of Alabama,Hagan Banks,36,RHP,R-Jr.,76,215,Calhoun,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Andre Modugno,37,INF/RHP,Fr.,77,220,IMG Academy,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,Alabama Crimson Tide
-University of Alabama,Zach Kittrell,38,RHP,Jr.,72,195,Bayside Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Sam Mitchell,39,RHP,So.,79,235,Bob Jones,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Sean Griggs,40,INF,Fr.,74,195,Red Bank Catholic,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Connor Ball,41,LHP,R-Jr.,72,180,Chelsea,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Ahmaad Duff,42,OF,Fr.,67,155,Lawrence Central,['Outfielder'],Outfielder,,Alabama Crimson Tide
-University of Alabama,Jack Ketchum,43,RHP,Fr.,75,210,Heritage Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Packy Bradley-Cooney,44,RHP,Sr.,74,210,Arlington Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Jackson Hunter,45,RHP,Fr.,75,190,Hazel Green,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Carson Kuehne,46,LHP,Fr.,77,195,IMG Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,JoJo Williamson,47,INF,Fr.,68,175,Hartselle,['Infielder'],Infielder,,Alabama Crimson Tide
-University of Alabama,Bobby Alcock,48,RHP,R-Sr.,77,230,The Winchendon School,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Nash Wagner,49,RHP,Fr.,77,225,Zionsville Community,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Connor Lehman,50,LHP,Fr.,74,210,Stewart County,['Left-Handed Pitcher'],Left-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Ashton Alston,52,RHP,Fr.,78,205,Christian Community Schools,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Egan Lowery,67,RHP,So.,73,184,McAdory,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Alabama,Austin Morris,99,RHP,R-So.,76,210,Mortimer Jordan,['Right-Handed Pitcher'],Right-Handed Pitcher,,Alabama Crimson Tide
-University of Washington,Isaac Yeager,0,RHP,Jr.,78,215,Bishop Blanchet,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,AJ Guerrero,1,OF,Sr.,72,210,Fife,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Colton Bower,2,C,R-So.,72,210,North Kitsap,['Catcher'],Catcher,,Washington Huskies
-University of Washington,Reeve Boyd,3,INF,R-Fr.,73,190,Seattle Prep,['Infielder'],Infielder,,Washington Huskies
-University of Washington,Sawyer Parkin,4,RHP,Sr.,71,195,Columbia,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Julian Sanders,5,OF,Gr.,74,210,Lakeside,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Carson Crawford,6,INF,Sr.,74,200,Cardinal Newman,['Infielder'],Infielder,,Washington Huskies
-University of Washington,Blake Wilson,7,INF,So.,70,175,Santa Margarita Catholic,['Infielder'],Infielder,,Washington Huskies
-University of Washington,Cooper Whitton,9,OF,Jr.,75,200,Santa Fe Christian,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Braeden Terry,10,OF,Sr.,72,200,Newport,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Jase Evangelista,11,RHP,So.,74,195,Martin Luther King,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Casen Taggart,12,INF/OF,Sr.,77,225,Everett,"['Infielder', 'Outfielder']",Infielder,Outfielder,Washington Huskies
-University of Washington,Micah Bujacich,13,RHP,Fr.,75,190,Steilacoom,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Will Woodward,15,LHP,R-So.,79,225,Eastlake,['Left-Handed Pitcher'],Left-Handed Pitcher,,Washington Huskies
-University of Washington,Trevor Kole,16,INF,Gr.,72,200,Gibbons,['Infielder'],Infielder,,Washington Huskies
-University of Washington,Matthew Henning,17,RHP/OF,Fr.,73,200,West Seattle,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,Washington Huskies
-University of Washington,Boston Warkentin,18,RHP,R-So.,74,205,Foothills Composite,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Jackson Hotchkiss,19,OF,Fr.,75,190,Battle Ground,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Easton O'Neal,20,C,Fr.,73,205,West Valley,['Catcher'],Catcher,,Washington Huskies
-University of Washington,Lane Simonsen,21,RHP,Fr.,74,195,Lynden,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Max Banks,22,RHP,Sr.,76,225,Stuart Hall,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Colin Blanchard,23,C,R-Jr.,73,195,JSerra Catholic,['Catcher'],Catcher,,Washington Huskies
-University of Washington,Malakhi Knight,24,OF,Sr.,75,205,Marysville Getchell,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Reilly McAdams,25,RHP,R-Sr.,78,235,Ingraham,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Charlie Denomme,26,RHP,So.,76,225,Thayer Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Justin Tims,27,RHP/INF,Fr.,75,195,Villa Park,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,Washington Huskies
-University of Washington,Gunnar Nichols,31,RHP,Jr.,76,185,John Burroughs,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Josh Emanuels,32,RHP,R-Sr.,75,210,Interlake,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Jack Sand,33,LHP,So.,70,195,Crean Lutheran,['Left-Handed Pitcher'],Left-Handed Pitcher,,Washington Huskies
-University of Washington,Noah Sorensen,34,RHP,Fr.,74,210,North Kitsap,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Peysen Sweeney,35,RHP,R-Jr.,77,235,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Bradley Gilbert,37,RHP,Fr.,72,195,Aquinas,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Jackson Thomas,39,RHP,Sr.,75,200,Mountain View,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Tommy Curran,40,LHP,Fr.,74,180,De La Salle,['Left-Handed Pitcher'],Left-Handed Pitcher,,Washington Huskies
-University of Washington,Carston Pearson,41,OF,So.,72,200,Dublin,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Luke Klooster,43,C,Fr.,70,190,O'Dea,['Catcher'],Catcher,,Washington Huskies
-University of Washington,Grady Woodward,44,OF,Fr.,74,205,Eastlake,['Outfielder'],Outfielder,,Washington Huskies
-University of Washington,Jaxson Gore,45,RHP,So.,72,190,North Kitsap,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Sam DeCarlo,51,INF,Jr.,69,190,Millikan,['Infielder'],Infielder,,Washington Huskies
-University of Washington,Tommy Brandenburg,55,RHP,R-Jr.,71,195,Kalama,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Washington,Nic Bronzini,95,LHP,R-So.,76,250,California,['Left-Handed Pitcher'],Left-Handed Pitcher,,Washington Huskies
-University of Washington,Logan Anderson,99,RHP,R-Fr.,76,210,Shorewood,['Right-Handed Pitcher'],Right-Handed Pitcher,,Washington Huskies
-University of Oregon,Tyler Jones,1,RHP,Fr.,75,200,Woodinville HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Grayson Grinsell,2,LHP,Jr.,73,195,Reno HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Carter Garate,3,INF,Jr.,74,185,Murrieta Mesa HS,['Infielder'],Infielder,,Oregon Ducks
-University of Oregon,Toby Twist,4,LHP,So.,73,205,Bakersfield Christian HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Burke-Lee Mabeus,5,C,Fr.,76,215,Bishop Gorman HS,['Catcher'],Catcher,,Oregon Ducks
-University of Oregon,Jack Brooks,6,UTL,So.,70,190,Vanden HS,['Utility'],Utility,,Oregon Ducks
-University of Oregon,Hunter Hyatt,7,LHP,R-Fr.,75,210,Bellevue HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Maddox Molony,9,INF,So.,74,210,Thurston HS,['Infielder'],Infielder,,Oregon Ducks
-University of Oregon,Collin Clarke,10,RHP,So.,75,205,Catholic HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Ryan Cooney,12,INF,So.,72,200,Jesuit HS,['Infielder'],Infielder,,Oregon Ducks
-University of Oregon,Coen Niclai,13,C,Fr.,74,215,Service HS,['Catcher'],Catcher,,Oregon Ducks
-University of Oregon,Jaxon Jordan,15,RHP,Sr.,77,210,Oak Park HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Cole Fisher,16,RHP,Jr.,74,210,Hatboro-Horsham HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Drew Smith,17,INF/OF,Jr.,74,205,Buchanan,"['Infielder', 'Outfielder']",Infielder,Outfielder,Oregon Ducks
-University of Oregon,Jax Gimenez,19,INF/OF,Fr.,74,200,Whitney HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,Oregon Ducks
-University of Oregon,Parker Stinson,20,OF,Sr.,72,210,Yorktown HS,['Outfielder'],Outfielder,,Oregon Ducks
-University of Oregon,Michael Meckna,21,RHP,Fr.,75,200,Elkhorn South HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Julien Hernandez,22,RHP,Sr.,73,200,Menlo School,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Kellan Knox,23,RHP,Fr.,74,210,Tenino HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Ian Umlandt,24,LHP,Jr.,72,210,Sherwood,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Jacob Walsh,25,1B,Sr.,76,225,Desert Oasis HS,['First Base'],First Base,,Oregon Ducks
-University of Oregon,Mason Neville,26,OF,Jr.,75,210,Basic HS,['Outfielder'],Outfielder,,Oregon Ducks
-University of Oregon,Chase Meggers,27,C,Jr.,72,205,Rocklin HS,['Catcher'],Catcher,,Oregon Ducks
-University of Oregon,Will Sanford,28,RHP,Fr.,72,200,Point Loma HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Seth Mattox,31,RHP,Sr.,75,190,Xavier College Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Jason Reitz,33,RHP,Jr.,83,215,Pioneer HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Santiago Garcia,34,LHP,So.,72,180,Centennial,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Jeffery Heard,35,OF,Sr.,74,215,Valley Christian HS,['Outfielder'],Outfielder,,Oregon Ducks
-University of Oregon,Sam Boyle,37,LHP,Jr.,74,200,Columbia,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Gabe Howard,38,RHP,Fr.,75,200,West Linn HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Kayle Pisano,40,1B,Fr.,75,225,Clackamas HS,['First Base'],First Base,,Oregon Ducks
-University of Oregon,Tanner Bradley,41,RHP,Fr.,73,185,Cardinal Newman,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Dominic Hellman,45,INF,Jr.,78,250,Henry M. Jackson HS,['Infielder'],Infielder,,Oregon Ducks
-University of Oregon,Ryan Featherston,46,RHP,So.,74,225,Stockdale HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Blake Crawford,50,LHP,Fr.,76,215,West Linn HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,Oregon Ducks
-University of Oregon,Nate Christman,51,RHP,Fr.,75,220,Aquinas,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Alex Umland,52,RHP,Fr.,76,225,Winward School,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Isaac Evaniew,53,RHP,Jr.,74,260,Churchill HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Cole Stokes,55,RHP,So.,78,230,Redondo Union HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,Oregon Ducks
-University of Oregon,Zach Justice,66,C,R-Fr.,73,210,Summit HS,['Catcher'],Catcher,,Oregon Ducks
-University of Oregon,Anson Aroz,77,C,Jr.,71,195,Placer HS,['Catcher'],Catcher,,Oregon Ducks
-University of Indiana,Jasen Oliver,2,INF,So.,71,185,Orchard Lake St. Mary's Prep,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Tyler DeMartino,3,OF,Gr.,72,205,Walt Whitman,['Outfielder'],Outfielder,,Indiana Hoosiers
-University of Indiana,Devin Taylor,5,OF,Jr.,73,215,LaSalle,['Outfielder'],Outfielder,,Indiana Hoosiers
-University of Indiana,T.J. Schuyler,6,C,So.,74,220,Antioch,['Catcher'],Catcher,,Indiana Hoosiers
-University of Indiana,Tyler Cerny,8,INF,Jr.,74,205,Center Grove,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Jake Stadler,9,C,R-Sr.,73,215,Mount Vernon,['Catcher'],Catcher,,Indiana Hoosiers
-University of Indiana,Josh Pyne,10,INF,Sr.,72,195,Linton-Stockton,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Will Moore,11,INF,Fr.,69,170,Paris District,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Hogan Denny,12,C/OF,Fr.,72,215,Mooresville,"['Catcher', 'Outfielder']",Catcher,Outfielder,Indiana Hoosiers
-University of Indiana,Andrew Wiggins,13,OF,So.,76,225,Heritage Christian,['Outfielder'],Outfielder,,Indiana Hoosiers
-University of Indiana,Brayton Thomas,14,LHP,Fr.,77,220,Bishop Dwenger,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Cooper Malamazian,15,INF,Fr.,74,185,Nazareth Academy,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Anthony Gubitosi,16,LHP,Jr.,71,192,Colts Neck,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Ben Grable,17,RHP,Gr.,76,215,Flintridge Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Grant Holderfield,18,LHP,R-Jr.,75,220,Oak Park & River Forest,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Cole Decker,19,OF,Fr.,71,185,Evansville North,['Outfielder'],Outfielder,,Indiana Hoosiers
-University of Indiana,Korbyn Dickerson,20,OF,R-So.,73,205,Trinity (Ky.),['Outfielder'],Outfielder,,Indiana Hoosiers
-University of Indiana,Jacob Vogel,21,RHP,R-So.,79,250,Jennings County,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Joey Brenczewski,23,INF,R-So.,75,195,Fishers,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Drew Buhr,24,RHP,Gr.+,73,205,Austin,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Seth Benes,26,RHP,So.,74,210,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Clayton Weisheit,27,RHP,So.,78,235,Forest Park,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Matthew Bohnert,28,LHP,R-Sr.,68,187,Cactus Shadows,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Ryan Kraft,29,LHP,Sr.,76,220,Lincoln-Way Central,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Ryan Rushing,30,LHP,So.,70,190,IMG Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Henry Brummel,31,RHP,Fr.,77,210,Pontiac,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Cole Gilley,32,RHP,R-Sr.,73,205,Columbus East,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Trey Telfer,33,RHP,Fr.,73,185,Cathedral Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Jake Hanley,34,INF,Fr.,78,235,Mason,['Infielder'],Infielder,,Indiana Hoosiers
-University of Indiana,Evan O'Neill,35,RHP,R-Fr.,76,220,Blessed Trinity Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Micah Vessely,36,RHP,Fr.,73,185,Greenwood,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Ryan Gilbert,37,OF,R-So.,77,235,Kenston,['Outfielder'],Outfielder,,Indiana Hoosiers
-University of Indiana,Jackson Yarberry,38,RHP,So.,75,225,Timberland,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Michael Lorenzetti,39,RHP,Jr.,80,225,Taft School,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Gavin Seebold,40,RHP,R-Sr.,74,205,Jeffersonville,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Deron Swanson,41,LHP,Sr.,75,195,Snider,['Left-Handed Pitcher'],Left-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Brayden Ricketts,42,C,Fr.,74,205,Jean Augustine Secondary,['Catcher'],Catcher,,Indiana Hoosiers
-University of Indiana,Caleb Koskie,43,LHP/OF,Fr.,72,185,Benilde-St.Margaret's,"['Left-Handed Pitcher', 'Outfielder']",Left-Handed Pitcher,Outfielder,Indiana Hoosiers
-University of Indiana,Will Eldridge,44,RHP,Jr.,76,210,Carroll (Flora),['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Pete Haas,51,RHP,R-Jr.,72,195,Keene,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Indiana,Aydan Decker-Petty,55,RHP,Jr.,77,205,New Castle,['Right-Handed Pitcher'],Right-Handed Pitcher,,Indiana Hoosiers
-University of Minnesota,Jake Larson,1,INF,Sr.,72,200,Kentlake,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Easton Richter,2,INF/RHP,Jr.,74,L/R,Rosemount,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,Minnesota Golden Gophers
-University of Minnesota,Preston Leon,3,OF,R-Jr.,71,S/R,Dakota High School (Macomb),['Outfielder'],Outfielder,,Minnesota Golden Gophers
-University of Minnesota,Jack Mosh,4,INF,Jr.,70,180,St. Pius X,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Kris Hokenson,6,OF/LHP,Jr.,72,180,St. Louis Park,"['Outfielder', 'Left-Handed Pitcher']",Outfielder,Left-Handed Pitcher,Minnesota Golden Gophers
-University of Minnesota,Jack Spanier,7,INF,So.,72,180,Rocori,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Jameson Martin,8,INF,Fr.,71,180,St. Lawrence,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Parker Knoll,9,OF,Sr.,72,220,Fox Valley Lutheran,['Outfielder'],Outfielder,,Minnesota Golden Gophers
-University of Minnesota,Sam Hunt,10,C,R-Jr.,74,205,IMG Academy,['Catcher'],Catcher,,Minnesota Golden Gophers
-University of Minnesota,Landen Lozier,12,INF,So.,70,170,Notre Dame Academy,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Cole Selvig,13,RHP,So.,72,205,Regis Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Drew Berkland,15,OF/C,Jr.,72,190,Wayzata,"['Outfielder', 'Catcher']",Outfielder,Catcher,Minnesota Golden Gophers
-University of Minnesota,Josh Fitzgerald,16,OF,R-Sr.,72,190,Newman Catholic,['Outfielder'],Outfielder,,Minnesota Golden Gophers
-University of Minnesota,Luke Ryerse,17,RHP,Fr.,73,218,East Ridge,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Jack Taxdahl,19,C,So.,70,190,Cretin-Derham Hall,['Catcher'],Catcher,,Minnesota Golden Gophers
-University of Minnesota,Kyle Remington,20,RHP/INF,So.,72,165,Grand Rapids Christian,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,Minnesota Golden Gophers
-University of Minnesota,Jonathan Dobis,21,RHP/OF,Fr.,72,180,St. Thomas Academy,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,Minnesota Golden Gophers
-University of Minnesota,Weber Neels,22,C/INF,Jr.,73,210,East Ridge,"['Catcher', 'Infielder']",Catcher,Infielder,Minnesota Golden Gophers
-University of Minnesota,Jake Quinn,23,OF,Fr.,75,190,Cretin Derham-Hall,['Outfielder'],Outfielder,,Minnesota Golden Gophers
-University of Minnesota,Jake Perry,27,INF,Sr.,76,205,Hopkins,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Caden Capomaccio,28,RHP,Jr.,73,185,Notre Dame Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Brayden Hellum,29,OF,So.,68,190,Stillwater,['Outfielder'],Outfielder,,Minnesota Golden Gophers
-University of Minnesota,Seth Clausen,30,RHP,Sr.,73,210,Pleasant Valley,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Joe Sperry,33,RHP/DH,Jr.,74,R/R,Rochester Lourdes,"['Right-Handed Pitcher', 'Designated Hitter']",Right-Handed Pitcher,Designated Hitter,Minnesota Golden Gophers
-University of Minnesota,Jake Elbeery,35,INF,Sr.,76,225,Austin,['Infielder'],Infielder,,Minnesota Golden Gophers
-University of Minnesota,Parker Lewin,37,RHP/OF,So.,73,175,Orono,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,Minnesota Golden Gophers
-University of Minnesota,Adam Urban,38,RHP,Fr.,72,,Wauwatosa West,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Nick Argento,39,RHP,R-So.,78,225,Wayzata,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Tyler Hemmesch,40,RHP,So.,73,195,Sartell,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Charlie Sutherland,41,INF/OF,So.,74,200,Duluth East,"['Infielder', 'Outfielder']",Infielder,Outfielder,Minnesota Golden Gophers
-University of Minnesota,Eli Sundquist,43,RHP,Gr.,73,,Utah Valley State,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Hunter Cook,44,RHP,Fr.,74,180,North Polk,['Right-Handed Pitcher'],Right-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Noah Rooney,46,LHP,R-Jr.,72,170,Perham,['Left-Handed Pitcher'],Left-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Simon Skroch,47,LHP,Fr.,73,175,Yorkville High School,['Left-Handed Pitcher'],Left-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Justin Thorsteinson,51,LHP,R-Sr.,76,233,Langley Secondary School,['Left-Handed Pitcher'],Left-Handed Pitcher,,Minnesota Golden Gophers
-University of Minnesota,Will Whelan,54,LHP,So.,74,195,Centennial,['Left-Handed Pitcher'],Left-Handed Pitcher,,Minnesota Golden Gophers
-Texas A&M University,Jamal George,1,UTIL,Jr.,71,185,International Baseball Academy,['Utility'],Utility,,Texas A&M Aggies
-Texas A&M University,Jacob Galloway,2,C,Jr.,69,180,Harvard Westlake,['Catcher'],Catcher,,Texas A&M Aggies
-Texas A&M University,Terrence Kiel II,3,INF/OF,Fr.,73,185,Pace Academy,"['Infielder', 'Outfielder']",Infielder,Outfielder,Texas A&M Aggies
-Texas A&M University,Gavin Kash,4,INF/OF,Sr.,75,215,Monsignor Kelly Catholic,"['Infielder', 'Outfielder']",Infielder,Outfielder,Texas A&M Aggies
-Texas A&M University,Sawyer Farr,5,INF,Fr.,76,190,Boswell,['Infielder'],Infielder,,Texas A&M Aggies
-Texas A&M University,Kaeden Kent,6,INF,Jr.,74,200,Lake Travis,['Infielder'],Infielder,,Texas A&M Aggies
-Texas A&M University,Wyatt Henseler,8,INF,Gr.,73,215,Emmaus,['Infielder'],Infielder,,Texas A&M Aggies
-Texas A&M University,Gavin Grahovac,9,INF/OF,So.,74,220,Villa Park,"['Infielder', 'Outfielder']",Infielder,Outfielder,Texas A&M Aggies
-Texas A&M University,Ben Royo,10,INF,Jr.,74,200,Veterans,['Infielder'],Infielder,,Texas A&M Aggies
-Texas A&M University,Hayden Schott,12,OF,Gr.,74,220,Culver Military Academy,['Outfielder'],Outfielder,,Texas A&M Aggies
-Texas A&M University,Caden Sorrell,13,OF,So.,75,205,Marcus,['Outfielder'],Outfielder,,Texas A&M Aggies
-Texas A&M University,Isaac Morton,14,RHP,So.,75,190,Spring Lake Park,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Matt Bergevin,15,INF,Gr.,76,250,Marcos De Niza,['Infielder'],Infielder,,Texas A&M Aggies
-Texas A&M University,Bear Harrison,16,C,So.,75,230,De La Salle,['Catcher'],Catcher,,Texas A&M Aggies
-Texas A&M University,Jace LaViolette,17,OF,Jr.,78,230,Tompkins,['Outfielder'],Outfielder,,Texas A&M Aggies
-Texas A&M University,Ryan Prager,18,LHP,R-Jr.,75,200,Hillcrest,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Troy Wansing,19,LHP,Sr.,76,225,Staley,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Aiden Sims,20,RHP,Fr.,74,180,Forney,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Weston Moss,21,RHP,So.,76,190,Lake Creek,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Myles Patton,23,LHP,Jr.,75,205,Millikan,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Clayton Freshcorn,25,RHP,So.,72,180,Waller,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Gavin Lyons,27,RHP,Fr.,75,200,Hamden Hall,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Caden McCoy,28,LHP,Fr.,75,220,Bloomington North,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Kaiden Wilson,30,LHP,So.,74,200,Raymore-Peculiar,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Grant Cunningham,31,RHP,Jr.,75,225,Seattle Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Brad Rudis,32,RHP,Sr.,72,195,Madisonville,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Justin Lamkin,33,LHP,Jr.,76,210,Calallen,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Josh Stewart,34,RHP,Sr.,74,195,St. Dominic Savio Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Sam Erickson,35,OF,Fr.,73,215,Flower Mound,['Outfielder'],Outfielder,,Texas A&M Aggies
-Texas A&M University,Ty Baker,37,RHP,R-Fr.,76,230,Second Baptist Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Shane Sdao,38,LHP,Jr.,74,170,Lake Creek,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Houston Tomlinson,39,RHP,Fr.,73,180,Grand Oaks,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Blayne Lyne,40,RHP,Fr.,78,205,London,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Jackson Brasseux,41,LHP,R-Fr.,73,190,North Lamar,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Luke Jackson,44,RHP,R-So.,74,190,Lake Travis,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Nathan Tobin,45,OF,Fr.,71,190,VR Eaton,['Outfielder'],Outfielder,,Texas A&M Aggies
-Texas A&M University,Blake Binderup,46,INF,R-So.,78,230,College Station,['Infielder'],Infielder,,Texas A&M Aggies
-Texas A&M University,Hayden Crites,47,C,Fr.,72,200,Paradise,['Catcher'],Catcher,,Texas A&M Aggies
-Texas A&M University,Marco Jones,48,INF/OF,Fr.,77,245,San Ramon Valley,"['Infielder', 'Outfielder']",Infielder,Outfielder,Texas A&M Aggies
-Texas A&M University,Austin Vargas,49,LHP,R-Fr.,80,235,Fulshear,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Rylan Hill,51,LHP,Fr.,75,200,Bryan,['Left-Handed Pitcher'],Left-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Peyton Smith,62,RHP,Jr.,76,225,East Robertson,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-Texas A&M University,Kyrin LeBlanc,99,RHP,Jr.,75,215,St. Martinville Senior,['Right-Handed Pitcher'],Right-Handed Pitcher,,Texas A&M Aggies
-University of Mississippi,Brayden Randle,1,IF,So.,69,175,Rockwall,[None],,,Ole Miss Rebels
-University of Mississippi,Riley Maddox,2,RHP,Sr.,73,210,Jackson Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Luke Cheng,3,IF,Sr.,72,185,Sherwood,[None],,,Ole Miss Rebels
-University of Mississippi,Mitchell Sanford,4,OF,Sr.,74,210,Berwick,['Outfielder'],Outfielder,,Ole Miss Rebels
-University of Mississippi,Owen Paino,6,IF,Fr.,75,225,Roy C. Ketcham,[None],,,Ole Miss Rebels
-University of Mississippi,Luke Hill,7,IF,Jr.,73,200,Episcopal,[None],,,Ole Miss Rebels
-University of Mississippi,Tate Sirmans,8,UT,Fr.,74,190,Lowndes,[None],,,Ole Miss Rebels
-University of Mississippi,Hayden Federico,9,IF,Fr.,71,195,West Monroe,[None],,,Ole Miss Rebels
-University of Mississippi,Cade Townsend,10,RHP,Fr.,73,185,Santa Margarita Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Campbell Smithwick,12,C,So.,72,190,Oxford,['Catcher'],Catcher,,Ole Miss Rebels
-University of Mississippi,Cooper Johnson,14,LHP/1B,Fr.,76,220,Mountain View,"['Left-Handed Pitcher', 'First Base']",Left-Handed Pitcher,First Base,Ole Miss Rebels
-University of Mississippi,Brayden Jones,16,RHP,Jr.,72,200,Madison-Ridgeland Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Will McCausland,17,RHP,Jr.,72,190,Souderton Area,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Ryan Moerman,18,OF,Sr.,72,210,Lockport Township,['Outfielder'],Outfielder,,Ole Miss Rebels
-University of Mississippi,Walker Hooks,19,LHP,Fr.,76,265,Brandon,['Left-Handed Pitcher'],Left-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Collin Reuter,20,C/IF,Jr.,74,235,Magnolia Heights,"['Catcher', None]",Catcher,,Ole Miss Rebels
-University of Mississippi,Mason Morris,21,RHP,Jr.,76,225,Tupelo,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Connor Spencer,22,RHP,Sr.,74,225,Hernando,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Hudson Calhoun,23,RHP,So.,76,210,McCallie School,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Austin Fawley,24,C,So.,73,205,Park Vista,['Catcher'],Catcher,,Ole Miss Rebels
-University of Mississippi,Ethan Surowiec,25,IF,Fr.,73,220,Gulfport,[None],,,Ole Miss Rebels
-University of Mississippi,Hunter Elliott,26,LHP,R-Jr.,75,215,Tupelo,['Left-Handed Pitcher'],Left-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Judd Utermark,27,IF,Jr.,77,250,Charlotte Christian,[None],,,Ole Miss Rebels
-University of Mississippi,Connor Chisolm,28,OF,Sr.,70,180,Madison Central,['Outfielder'],Outfielder,,Ole Miss Rebels
-University of Mississippi,Ryne Rodriguez,29,LHP,Jr.,74,190,Trinity Valley,['Left-Handed Pitcher'],Left-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Gunnar Dennis,32,LHP,Sr.,75,220,Pearl,['Left-Handed Pitcher'],Left-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Landon Waters,34,RHP,Jr.,73,210,Grenada,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Owen Hancock,35,RHP,Fr.,77,205,Worth County,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Will Furniss,36,IF,Jr.,76,240,Nacogdoches,[None],,,Ole Miss Rebels
-University of Mississippi,Brett Moseley,37,OF,Fr.,75,195,Hewitt-Trussville,['Outfielder'],Outfielder,,Ole Miss Rebels
-University of Mississippi,Patrick Galle,38,RHP,So.,74,215,Biloxi,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Jackson Miller,39,OF,Fr.,72,195,Benjamin,['Outfielder'],Outfielder,,Ole Miss Rebels
-University of Mississippi,JP Robertson,40,RHP,So.,72,190,Germantown,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Cole Ketchum,43,RHP,R-So.,73,210,Heritage Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Jake Reigert,44,RHP,Fr.,78,238,East Ridge,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Mason Nichols,45,RHP,Sr.,77,220,Jackson Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Sam Tookoian,47,RHP,Jr.,77,240,Buchanan,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Taylor Rabe,50,RHP,R-Fr.,77,200,Greenville Senior,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Mississippi,Isaac Humphrey,51,OF,Sr.,74,215,Owensboro,['Outfielder'],Outfielder,,Ole Miss Rebels
-University of Mississippi,Alex Canney,55,RHP,Sr.,73,230,Durant,['Right-Handed Pitcher'],Right-Handed Pitcher,,Ole Miss Rebels
-University of Maryland,Colin Gibbs,0,Infielder,Fr.,75,192,St. John's College,[None],,,
-University of Maryland,Jacob Orr,1,Infield,Sr.,69,175,Thomas Johnson,[None],,,
-University of Maryland,Andrew Koshy,2,Right Handed Pitcher,So.,74,215,Kellenburg Memorial HS,[None],,,
-University of Maryland,Eddie Hacopian,3,Infielder,Sr.,75,195,Winston Churchill,[None],,,
-University of Maryland,Jordan Crosland,4,Infielder,So.,72,200,Combine Academy,[None],,,
-University of Maryland,Andrew Johnson,5,Left Handed Pitcher,Sr.,72,210,Glenelg,[None],,,
-University of Maryland,Liam Willson,6,Utility,So.,73,210,Herndon,[None],,,
-University of Maryland,Jake Yeager,7,Right Handed Pitcher,Fr.,76,205,Archbishop Spalding,[None],,,
-University of Maryland,Hollis Porter,9,Utility,R-So.,76,225,East Central,[None],,,
-University of Maryland,Chris Hacopian,10,Utility,So.,73,205,Winston Churchill,[None],,,
-University of Maryland,Elijah Lambros,11,Outfielder,Sr.,74,200,Fredericksburg Christian School,[None],,,
-University of Maryland,Devin Russell,12,Catcher,Jr.,74,205,Mountain Lakes,[None],,,
-University of Maryland,Logan Koester,13,Right Handed Pitcher,6th,76,220,Chaminade,[None],,,
-University of Maryland,Luke Keefer,14,Infielder,Fr.,74,190,North East,[None],,,
-University of Maryland,Alex Calarco,15,Catcher/Infielder,Sr.,77,250,New Trier,"[None, None]",,,
-University of Maryland,Omar Melendez,17,Left Handed Pitcher,Sr.,78,222,Leadership Christian Academy,[None],,,
-University of Maryland,Cristofer Cespedes,18,Right Handed Pitcher,Fr.,76,230,North Rockland,[None],,,
-University of Maryland,Evan Smith,20,Left Handed Pitcher,So.,73,215,PDG Academy,[None],,,
-University of Maryland,Joey McMannis,21,Right Handed Pitcher,So.,77,225,Catoctin,[None],,,
-University of Maryland,Kyle McCoy,22,Left Handed Pitcher,R-So.,78,205,Hunterdon School,[None],,,
-University of Maryland,James Gladden,24,Right Handed Pitcher,R-So.,72,205,Archbishop Curley,[None],,,
-University of Maryland,Ryan Bailey,25,Right Handed Pitcher,Fr.,73,195,Iona Prep,[None],,,
-University of Maryland,Jacob Hauk,26,Catcher,Fr.,75,220,Loyola Blakefield,[None],,,
-University of Maryland,Brayden Ryan,27,Right Handed Pitcher,R-So.,78,235,Lawrence Academy,[None],,,
-University of Maryland,Michael Iannazzo,28,Infielder,So.,72,180,Fairfield College Preparatory,[None],,,
-University of Maryland,EJ Hankerson,29,Outfielder,So.,70,195,Calvert Hall College,[None],,,
-University of Maryland,Paul Jones II,30,Infielder,Fr.,72,205,Cretin-Derham Hall,[None],,,
-University of Maryland,Parker Corbin,31,Infielder,Fr.,69,190,Cincinnati Country Day,[None],,,
-University of Maryland,Dom Moats,32,Outfielder,Fr.,72,212,Pro5 Baseball Academy,[None],,,
-University of Maryland,Aden Hill,33,Outfielder,Jr.,70,210,P27 Academy,[None],,,
-University of Maryland,Jake Morgan,34,Catcher,Fr.,71,175,IMG Academy,[None],,,
-University of Maryland,Ryan Van Buren,35,Right Handed Pitcher,Sr.,76,220,Abington,[None],,,
-University of Maryland,Logan Hastings,36,Right Handed Pitcher,Fr.,70,185,Huntingtown,[None],,,
-University of Maryland,Aidan Driscoll,37,Catcher,Fr.,68,198,St. John's Prep,[None],,,
-University of Maryland,Quinn Yellin,40,Right Handed Pitcher,Fr.,73,195,South River,[None],,,
-University of Maryland,Brayden Martin,42,Utility,So.,70,175,St. John's College,[None],,,
-University of Maryland,Devin Milberg,44,Left Handed Pitcher,Gr.,73,200,The Dalton School,[None],,,
-University of Maryland,Jack Wren,45,Right Handed Pitcher,Gr.,77,215,North Rockland,[None],,,
-Rutgers University,Jan Avila,38,INF,Jr.,75,200,PR Baseball Academy,['Infielder'],Infielder,,Rutgers Scarlet Knights
-Rutgers University,Charles Batista,33,RHP/OF,Fr.,76,220,The Hun School,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,Rutgers Scarlet Knights
-Rutgers University,Quinn Berglin,9,RHP,Gr.,74,195,Pewaukee,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Peyton Bonds,25,OF,So.,77,225,Franklin,['Outfielder'],Outfielder,,Rutgers Scarlet Knights
-Rutgers University,Ryan Bradley,43,LHP,Gr.,71,200,St. John's Prep,['Left-Handed Pitcher'],Left-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Jared Carlucci,41,RHP,Fr.,76,220,Columbia,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Yomar Carreras,12,INF,Fr.,72,190,North Brunswick Township,['Infielder'],Infielder,,Rutgers Scarlet Knights
-Rutgers University,Matt Chatelle,28,C,Jr.,76,225,Austin,['Catcher'],Catcher,,Rutgers Scarlet Knights
-Rutgers University,Caden Christman,46,C,Fr.,73,200,PRO5 Academy,['Catcher'],Catcher,,Rutgers Scarlet Knights
-Rutgers University,Trevor Cohen,4,OF,Jr.,73,195,Holy Spirit,['Outfielder'],Outfielder,,Rutgers Scarlet Knights
-Rutgers University,Matthew Cruz,29,RHP,Fr.,71,175,Saint Dominic,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Ty Doucette,36,INF,So.,74,205,TNXL Academy,['Infielder'],Infielder,,Rutgers Scarlet Knights
-Rutgers University,Jordan Falco,48,RHP,Sr.,78,220,Center Moriches,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Luke Fithian,15,RHP,Fr.,74,240,Cumberland County Tech,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Mark Gialluisi,5,C,R-Fr.,70,190,Saint Joseph [Metuchen],['Catcher'],Catcher,,Rutgers Scarlet Knights
-Rutgers University,Zach Gleason,39,RHP,Sr.,74,215,Timberlane Regional [N.H.],['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Connor Grotyohann,27,RHP/INF,Jr.,76,230,Pope John XXIII,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,Rutgers Scarlet Knights
-Rutgers University,Hunter Hoxie,2,LHP,Fr.,70,195,Jonathan Law,['Left-Handed Pitcher'],Left-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Brennan Hyde,8,OF,Gr.,71,170,Chamberlain,['Outfielder'],Outfielder,,Rutgers Scarlet Knights
-Rutgers University,Cameron Johnson,3,LHP,Fr.,72,190,TNXL Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,RJ Johnson Jr.,1,OF,Sr.,71,190,Kerr-Vance Academy,['Outfielder'],Outfielder,,Rutgers Scarlet Knights
-Rutgers University,JD Jones,17,C,Sr.,72,200,Fairview,['Catcher'],Catcher,,Rutgers Scarlet Knights
-Rutgers University,Tyler Kane,16,RHP,R-So.,69,165,Manalapan,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Jack Kirchner,45,RHP,R-Fr.,76,225,Bishop Eustace,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Zack Konstantinovsky,19,RHP,So.,74,215,North Brunswick Township,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Landon Mack,18,RHP,Fr.,73,200,Bishop Eustace,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Joe Mazza,37,LHP,Sr.,75,215,Manalapan,['Left-Handed Pitcher'],Left-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Evan McCoach,47,OF,Fr.,69,205,Neumann Goretti,['Outfielder'],Outfielder,,Rutgers Scarlet Knights
-Rutgers University,Nolan Peel,11,RHP,Fr.,71,190,The Tome School [Md.],['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Preston Prince,40,LHP,Jr.,77,235,Hilton,['Left-Handed Pitcher'],Left-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Andrew Rondini,22,RHP,Fr.,72,195,Canterbury,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Dillon Ryan,7,RHP,Gr.,72,205,Sandwich,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Pablo Santos,6,RHP/INF,Jr.,72,205,Don Bosco Prep,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,Rutgers Scarlet Knights
-Rutgers University,Justin Shadek,31,RHP,R-Fr.,78,235,Seton Hall Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Jack Sweeney,34,OF,Fr.,72,200,Allentown,['Outfielder'],Outfielder,,Rutgers Scarlet Knights
-Rutgers University,JT Thompson,14,INF,Jr.,69,160,Wylie,['Infielder'],Infielder,,Rutgers Scarlet Knights
-Rutgers University,Mike Timberlake,20,RHP,Jr.,79,225,Allentown,['Right-Handed Pitcher'],Right-Handed Pitcher,,Rutgers Scarlet Knights
-Rutgers University,Nick Tomasetto,23,INF,R-Fr.,70,195,West Deptford,['Infielder'],Infielder,,Rutgers Scarlet Knights
+College,Name,Jersey,Position,Class Year,Height,Weight,B/T,Last School,Position List,position1,position2,position3,Batting,Throwing,Team
+University of Florida,Justin Nadeau,1,INF/OF,Junior,72,195.0,L/R,Bartram Trail (Jacksonville),"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Florida Gators
+University of Florida,Ty Evans,2,OF,Senior,74,215.0,R/R,Lakeland Christian,['Outfielder'],Outfielder,,,R,R,Florida Gators
+University of Florida,Kyle Jones,3,OF,Sophomore,75,185.0,R/R,North Oconee (Stetson),['Outfielder'],Outfielder,,,R,R,Florida Gators
+University of Florida,Cade Kurland,4,INF,Junior,71,190.0,R/R,Berkeley Prep,['Infielder'],Infielder,,,R,R,Florida Gators
+University of Florida,Blake Cyr,5,OF/INF,Junior,71,190.0,R/R,Windermere (Miami),"['Outfielder', 'Infielder']",Outfielder,Infielder,,R,R,Florida Gators
+University of Florida,Bobby Boser,6,INF/OF,Senior,73,215.0,R/R,Wiregrass Ranch (USF),"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Florida Gators
+University of Florida,Christian Rodriguez,8,RHP,Redshirt Freshman,72,210.0,R/R,Marjory Stoneman Douglas,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Luke McNeillie,9,RHP,Sophomore,75,190.0,L/R,Milton,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Florida Gators
+University of Florida,Colby Shelton,10,INF,Junior,72,205.0,L/R,Bloomingdale (Alabama),['Infielder'],Infielder,,,L,R,Florida Gators
+University of Florida,Brendan Lawson,11,INF,Freshman,75,215.0,L/R,P27,['Infielder'],Infielder,,,L,R,Florida Gators
+University of Florida,Liam Peterson,12,RHP,Sophomore,77,220.0,R/R,Calvary Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Landon Stripling,13,INF,Sophomore,72,200.0,L/R,Parkview (Texas Tech),['Infielder'],Infielder,,,L,R,Florida Gators
+University of Florida,Joshua Whritenour,15,RHP,Freshman,74,195.0,L/R,A3 Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Florida Gators
+University of Florida,Hayden Yost,16,OF,Sophomore,73,195.0,L/L,Sickles,['Outfielder'],Outfielder,,,L,L,Florida Gators
+University of Florida,Jacob Gomberg,17,LHP,Sophomore,70,180.0,L/L,Marjory Stoneman Douglas,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Florida Gators
+University of Florida,Pierce Coppola,18,LHP,Redshirt Junior,80,245.0,L/L,Verona,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Florida Gators
+University of Florida,Jake Clemente,20,RHP,Redshirt Sophomore,75,225.0,R/R,Marjory Stoneman Douglas,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Caden McDonald,21,RHP/1B,Redshirt Freshman,75,200.0,R/R,Sickles,"['Right-Handed Pitcher', 'First Base']",Right-Handed Pitcher,First Base,,R,R,Florida Gators
+University of Florida,Jackson Barberi,22,RHP,Freshman,76,180.0,R/R,Brookwood,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Billy Barlow,23,RHP,Redshirt Junior,74,220.0,R/R,North Myrtle Beach (Clemson),['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Blake Brookins,24,OF,Sophomore,77,225.0,L/R,Miami Palmetto,['Outfielder'],Outfielder,,,L,R,Florida Gators
+University of Florida,Kolt Myers,25,INF,Freshman,74,190.0,R/R,St. John's,['Infielder'],Infielder,,,R,R,Florida Gators
+University of Florida,Niko Janssens,26,LHP,Freshman,76,200.0,L/L,A3 Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Florida Gators
+University of Florida,Blaine Rowland,27,RHP,Freshman,75,220.0,R/R,Durant,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Luke Heyman,28,C,Junior,76,220.0,R/R,Lake Brantley,['Catcher'],Catcher,,,R,R,Florida Gators
+University of Florida,Brody Donay,29,C,Junior,77,235.0,R/R,Lakeland Christian,['Catcher'],Catcher,,,R,R,Florida Gators
+University of Florida,Ashton Wilson,30,OF/INF,Junior,72,200.0,R/R,TNXL Academy,"['Outfielder', 'Infielder']",Outfielder,Infielder,,R,R,Florida Gators
+University of Florida,Frank Menendez,31,LHP,Sophomore,73,215.0,L/L,Doral Academy Charter,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Florida Gators
+University of Florida,McCall Biemiller,33,LHP,Freshman,74,180.0,S/L,Jesuit,['Left-Handed Pitcher'],Left-Handed Pitcher,,,S,L,Florida Gators
+University of Florida,Alex Philpott,34,RHP,Sophomore,78,200.0,R/R,Strawberry Crest,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Brock Clayton,35,C/OF,Freshman,75,210.0,L/R,Catholic,"['Catcher', 'Outfielder']",Catcher,Outfielder,,L,R,Florida Gators
+University of Florida,Matthew Jenkins,37,RHP,Sophomore,78,195.0,R/R,Lafayette (Santa Fe College),['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Mason Laurito,38,LHP,Sophomore,72,175.0,L/L,Forest (Gulf Coast CC),['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Florida Gators
+University of Florida,Cole Bullen,40,C,Redshirt Junior,69,175.0,S/R,Villages Charter (College of Central Florida),['Catcher'],Catcher,,,S,R,Florida Gators
+University of Florida,Felix Ong,44,RHP,Freshman,76,220.0,R/R,Key West,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Schuyler Sandford,45,RHP,Freshman,78,215.0,R/R,St. John's,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Florida,Aidan King,47,RHP,Freshman,74,195.0,L/R,Bishop John J. Snyder,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Florida Gators
+University of Florida,Carson Montsdeoca,99,RHP,Freshman,75,205.0,R/R,Fort Meade,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Florida Gators
+University of Missouri,Cameron Benson,1,INF/OF,Junior,75,185.0,L/R,Southfield HS for the Arts & Technology,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Missouri Tigers
+University of Missouri,Brock Daniels,2,INF/OF,Junior,73,195.0,L/R,St. John Vianney HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Missouri Tigers
+University of Missouri,Peyton Basler,3,INF,Junior,72,195.0,S/R,Lansing HS,['Infielder'],Infielder,,,S,R,Missouri Tigers
+University of Missouri,Jedier Hernandez,4,C,Senior,72,200.0,R/R,Catholic,['Catcher'],Catcher,,,R,R,Missouri Tigers
+University of Missouri,Pierre Seals,5,OF,Senior,72,210.0,R/R,Houston HS,['Outfielder'],Outfielder,,,R,R,Missouri Tigers
+University of Missouri,Kaden Peer,7,OF/INF,Sophomore,74,185.0,L/R,CBC HS,"['Outfielder', 'Infielder']",Outfielder,Infielder,,L,R,Missouri Tigers
+University of Missouri,Gehrig Goldbeck,10,INF,Junior,73,175.0,L/R,Tonganoxie HS,['Infielder'],Infielder,,,L,R,Missouri Tigers
+University of Missouri,Austin Henry,11,RHP,Sophomore,77,220.0,R/R,Dell Rapids HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Tyler Macon,12,INF,Redshirt Freshman,71,175.0,R/R,Kirkwood HS,['Infielder'],Infielder,,,R,R,Missouri Tigers
+University of Missouri,Brady Picarelli,13,OF,Freshman,74,200.0,L/R,Eureka HS,['Outfielder'],Outfielder,,,L,R,Missouri Tigers
+University of Missouri,Isaiah Frost,14,OF,Senior,71,197.0,L/L,Blue Springs South HS,['Outfielder'],Outfielder,,,L,L,Missouri Tigers
+University of Missouri,Chris Patterson,17,INF,Freshman,75,190.0,R/R,Prestonwood Academy,['Infielder'],Infielder,,,R,R,Missouri Tigers
+University of Missouri,Jackson Lovich,18,INF,Junior,76,192.0,R/R,Blue Valley West HS,['Infielder'],Infielder,,,R,R,Missouri Tigers
+University of Missouri,Keegan Knutson,19,INF,Junior,70,195.0,R/R,Combine Academy,['Infielder'],Infielder,,,R,R,Missouri Tigers
+University of Missouri,Trey Lawrence,20,INF/RHP,Freshman,75,180.0,R/R,Palmetto HS,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,,R,R,Missouri Tigers
+University of Missouri,Sam Horn,21,RHP,Sophomore,76,217.0,R/R,Collins Hill,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Kadden Drew,22,LHP,Junior,74,210.0,R/L,Notre Dame Prep,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Missouri Tigers
+University of Missouri,Ian Lohse,23,LHP,Graduate,72,199.0,L/L,Marquette HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Missouri Tigers
+University of Missouri,Trey Callaway,24,UTIL,Freshman,73,215.0,S/R,Dutchtown HS,['Utility'],Utility,,,S,R,Missouri Tigers
+University of Missouri,Brock Lucas,25,RHP,Junior,75,229.0,R/R,St. Elizabeth HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Victor Christal,26,RHP,Freshman,72,190.0,R/R,Bishop Miege HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,PJ Green,27,OF/RHP,Freshman,74,195.0,R/R,Sandy Creek HS,"['Outfielder', 'Right-Handed Pitcher']",Outfielder,Right-Handed Pitcher,,R,R,Missouri Tigers
+University of Missouri,Josh Kirchhoff,28,RHP,Junior,75,210.0,L/R,Concordia Academy-Roseville,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Missouri Tigers
+University of Missouri,James Vaughn,29,RHP,Graduate,77,240.0,R/R,Collegiate School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Wil Libbert,30,LHP,Redshirt Freshman,73,205.0,L/L,Blair Oaks HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Missouri Tigers
+University of Missouri,Kaden Jacobi,32,RHP,Senior,75,220.0,R/R,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Daniel Wissler,35,LHP,Junior,74,185.0,L/L,Fort Zumwalt West HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Missouri Tigers
+University of Missouri,Aeneas Clark,36,RHP,Junior,75,205.0,R/R,Northwest Christian HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Aden Malpass,37,OF,Freshman,72,175.0,L/L,Catholic,['Outfielder'],Outfielder,,,L,L,Missouri Tigers
+University of Missouri,Blake Simpson,38,INF,Junior,74,185.0,L/R,Pickering HS,['Infielder'],Infielder,,,L,R,Missouri Tigers
+University of Missouri,Charlie Miller,39,RHP,Sophomore,75,185.0,R/R,Russellville HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Brady Kehlenbrink,40,LHP,Freshman,74,205.0,R/L,Parkway South HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Missouri Tigers
+University of Missouri,Nic Smith,41,LHP,Junior,75,198.0,L/L,Alvin C. York Institute,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Missouri Tigers
+University of Missouri,Javyn Pimental,43,LHP,Senior,75,213.0,L/L,Kamehameha HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Missouri Tigers
+University of Missouri,Xavier Lovett,44,RHP,Graduate,72,190.0,R/R,West,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Cayden Nicoletto,48,OF,Senior,72,190.0,L/L,Baldivis Secondary College,['Outfielder'],Outfielder,,,L,L,Missouri Tigers
+University of Missouri,Tony Neubeck,49,LHP,Junior,74,237.0,L/L,Mahtomedi HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Missouri Tigers
+University of Missouri,Ben Smith,50,RHP,Sophomore,74,195.0,R/R,Blessed Trinity Catholic HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Jaylen Merchant,51,RHP,Sophomore,72,180.0,R/R,Grayson HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Josh McDevitt,54,RHP,Sophomore,74,195.0,R/R,Effingham HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Seth McCartney,58,RHP,Junior,72,200.0,R/R,Brandon HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Missouri Tigers
+University of Missouri,Mateo Serna,88,C,Sophomore,72,195.0,S/R,American Heritage HS,['Catcher'],Catcher,,,S,R,Missouri Tigers
+University of Oklahoma,Jason Walk,1,OF,Junior,70,166.0,S/R,Harrison HS,['Outfielder'],Outfielder,,,S,R,Oklahoma Sooners
+University of Oklahoma,Myles Davis,2,INF,Sophomore,72,213.0,R/R,Marion HS,['Infielder'],Infielder,,,R,R,Oklahoma Sooners
+University of Oklahoma,Cayden Brumbaugh,3,UTL,Senior,69,182.0,R/R,Edmond Santa Fe HS,['Utility'],Utility,,,R,R,Oklahoma Sooners
+University of Oklahoma,Alec Blair,4,OF,Freshman,78,195.0,L/L,De La Salle,['Outfielder'],Outfielder,,,L,L,Oklahoma Sooners
+University of Oklahoma,Nolan Stevens,5,OF/LHP,Junior,74,216.0,L/L,Franklin HS,"['Outfielder', 'Left-Handed Pitcher']",Outfielder,Left-Handed Pitcher,,L,L,Oklahoma Sooners
+University of Oklahoma,Kyle Branch,6,INF,Sophomore,71,182.0,R/R,Lovejoy HS,['Infielder'],Infielder,,,R,R,Oklahoma Sooners
+University of Oklahoma,Jaxon Willits,7,INF,Junior,72,203.0,S/R,Fort Cobb-Broxton HS,['Infielder'],Infielder,,,S,R,Oklahoma Sooners
+University of Oklahoma,Uriah Walters,8,INF,Junior,74,193.0,R/R,Weatherford JC,['Infielder'],Infielder,,,R,R,Oklahoma Sooners
+University of Oklahoma,Camden Johnson,9,UTL,Junior,72,176.0,L/R,Boerne HS,['Utility'],Utility,,,L,R,Oklahoma Sooners
+University of Oklahoma,Brendan Brock,10,C/OF,Junior,75,200.0,R/R,Mascoutah HS,"['Catcher', 'Outfielder']",Catcher,Outfielder,,R,R,Oklahoma Sooners
+University of Oklahoma,Gerardo Prado,11,OF,Junior,75,190.0,R/R,Puerto Rico Baseball Academy,['Outfielder'],Outfielder,,,R,R,Oklahoma Sooners
+University of Oklahoma,Kadyn Leon,12,RHP,Sophomore,72,182.0,R/R,McLennan CC,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Connor Larkin,13,UTL,Freshman,75,194.0,L/L,Cherry Creek HS,['Utility'],Utility,,,L,L,Oklahoma Sooners
+University of Oklahoma,Cooper Smith,14,1B,Junior,72,197.0,S/L,Marlow HS,['First Base'],First Base,,,S,L,Oklahoma Sooners
+University of Oklahoma,Dayton Tockey,16,INF,Senior,73,230.0,L/L,Weatherford HS,['Infielder'],Infielder,,,L,L,Oklahoma Sooners
+University of Oklahoma,Dasan Harris,17,OF,Junior,73,181.0,L/L,Plano East HS,['Outfielder'],Outfielder,,,L,L,Oklahoma Sooners
+University of Oklahoma,Gavyn Jones,18,LHP/OF,Junior,73,206.0,L/L,White Oak HS,"['Left-Handed Pitcher', 'Outfielder']",Left-Handed Pitcher,Outfielder,,L,L,Oklahoma Sooners
+University of Oklahoma,Jaxon Grossman,19,RHP,Junior,76,227.0,R/R,Makawoo HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Trey Gambill,20,OF,Senior,71,200.0,L/R,Lone Peak HS,['Outfielder'],Outfielder,,,L,R,Oklahoma Sooners
+University of Oklahoma,Drew Dickerson,21,OF,Sophomore,76,210.0,R/R,Lee's Summit West HS,['Outfielder'],Outfielder,,,R,R,Oklahoma Sooners
+University of Oklahoma,LJ Mercurius,22,RHP,Junior,74,175.0,R/R,Faith Lutheran HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Xander Mercurius,23,RHP,Freshman,70,186.0,R/R,Durango HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Mason Bixby,25,RHP,Junior,79,239.0,R/R,Lady Bird Johnson HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Drew Rerick,27,RHP,Sophomore,76,243.0,R/R,Fargo Davies HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Cole Leach,28,C/INF,Freshman,75,218.0,L/R,Hilldale HS,"['Catcher', 'Infielder']",Catcher,Infielder,,L,R,Oklahoma Sooners
+University of Oklahoma,Jaden Barfield,29,LHP,Sophomore,72,216.0,L/L,Pearland HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma Sooners
+University of Oklahoma,Michael Catalano,30,RHP,Sophomore,72,200.0,R/R,Frisco HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Cameron Johnson,31,LHP,Junior,78,256.0,L/L,IMG Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma Sooners
+University of Oklahoma,Brisco Smith,32,RHP,Freshman,73,169.0,S/R,Duncan HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,S,R,Oklahoma Sooners
+University of Oklahoma,Isaac Williams,33,RHP,Junior,73,200.0,R/R,Fleming Island HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Joey McMannis,34,RHP,Junior,76,228.0,R/R,Catocin HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Jason Bodin,35,RHP,Junior,75,193.0,L/R,Orangefield HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Oklahoma Sooners
+University of Oklahoma,Nick Wesloski,37,RHP,Freshman,75,219.0,R/R,McKinney Boyd HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Trent Collier,39,LHP,Sophomore,74,241.0,L/L,"Weatherford, JC",['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma Sooners
+University of Oklahoma,Aidan Tomlinson,40,RHP,Freshman,76,214.0,R/R,Dewar HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Gunnar Dillard,41,C,Freshman,72,200.0,R/R,Wall HS,['Catcher'],Catcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Reid Hensley,42,RHP,Graduate,72,214.0,R/R,Lufkin HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Jordan Stribling,45,LHP,Sophomore,77,219.0,L/L,Highland Park HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma Sooners
+University of Oklahoma,Deiten Lachance,48,C,Junior,77,231.0,R/R,McLennan CC,['Catcher'],Catcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Jackson Cleveland,49,RHP,Senior,74,206.0,L/R,Deer Park HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Oklahoma Sooners
+University of Oklahoma,Jackson Kornylo,52,RHP,Freshman,77,192.0,R/R,TNXL Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Nate Smithburg,54,LHP,Redshirt Sophomore,74,257.0,L/L,Fairfield HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma Sooners
+University of Oklahoma,Vaughn Neckar,55,RHP,Freshman,75,257.0,R/R,Vista Murrieta HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma Sooners
+University of Oklahoma,Cord Rager,99,LHP/INF,Freshman,78,237.0,L/L,Maypearl HS,"['Left-Handed Pitcher', 'Infielder']",Left-Handed Pitcher,Infielder,,L,L,Oklahoma Sooners
+University of Alabama,Justin Lebron,1,INF,Sophomore,74,180.0,R/R,Archbishop Edward McCarthy,['Infielder'],Infielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Kade Snell,3,OF Is Captain (C),Redshirt Senior,73,210.0,L/L,Wicksburg,[None],,,,L,L,Alabama Crimson Tide
+University of Alabama,Riley Quick,4,RHP,Redshirt Sophomore,78,245.0,R/R,Hewitt-Trussville,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Richie Bonomolo Jr.,5,OF,Junior,71,200.0,R/R,Cardinal Hayes,['Outfielder'],Outfielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Beau Bryans,6,LHP,Junior,72,195.0,R/L,Madison Central,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Alabama Crimson Tide
+University of Alabama,Matthew Heiberger,7,LHP,Sophomore,75,210.0,L/L,Oak Mountain,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Alabama Crimson Tide
+University of Alabama,Tyler Fay,8,RHP,Redshirt Sophomore,77,215.0,R/R,Grand Island Senior,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Bryce Fowler,9,OF,Redshirt Junior,74,190.0,L/L,Germantown,['Outfielder'],Outfielder,,,L,L,Alabama Crimson Tide
+University of Alabama,Brady Neal,10,C/INF,Junior,70,190.0,L/R,IMG Academy,"['Catcher', 'Infielder']",Catcher,Infielder,,L,R,Alabama Crimson Tide
+University of Alabama,Coulson Buchanan,11,RHP,Senior,70,185.0,R/R,North Gwinnett,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,JT Blackwood,12,RHP,Junior,74,210.0,R/R,Hart,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Luke Vaughn,13,C,Sophomore,74,200.0,R/R,Elder,['Catcher'],Catcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Carson Ozmer,14,RHP,Graduate,74,210.0,R/R,John H. Guyer,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Coleman Mizell,15,OF,Sophomore,75,230.0,L/L,Hart,['Outfielder'],Outfielder,,,L,L,Alabama Crimson Tide
+University of Alabama,Jonathan Stevens,16,RHP,Sophomore,73,215.0,R/R,Briarwood Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Will Plattner,17,C,Junior,73,205.0,R/R,Chatham Glenwood HS,['Catcher'],Catcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Will Hodo,18,INF/OF,Senior,75,225.0,L/R,Wayne Academy,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Alabama Crimson Tide
+University of Alabama,Aeden Finateri,19,RHP,Senior,72,235.0,R/R,Avon Old Farms,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Zane Adams,20,LHP,Sophomore,76,195.0,L/L,Porter,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Alabama Crimson Tide
+University of Alabama,Brennen Norton,21,INF,Senior,69,195.0,R/R,Cullman,['Infielder'],Infielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Braylon Myers,22,RHP,Senior,74,205.0,L/R,Oak Grove,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Alabama Crimson Tide
+University of Alabama,Aidan Moza,23,RHP,Senior,73,195.0,L/R,North Cobb Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Alabama Crimson Tide
+University of Alabama,Tate Robertson,24,LHP,Senior,72,170.0,L/L,Northridge,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Alabama Crimson Tide
+University of Alabama,Peyton Steele,26,OF,Freshman,73,195.0,R/R,Hart,['Outfielder'],Outfielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Garrett Staton,27,INF,Redshirt Senior,72,195.0,R/R,North Forsyth,['Infielder'],Infielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Danny Heintz,29,RHP,Redshirt Senior,78,235.0,R/R,Green Hope,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Anthony Pesci,30,RHP,Freshman,76,205.0,L/R,Orchard Lake Saint Mary's Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Alabama Crimson Tide
+University of Alabama,Jon Young Jr.,31,INF,Freshman,73,190.0,L/R,Cherry Hill West,['Infielder'],Infielder,,,L,R,Alabama Crimson Tide
+University of Alabama,Jason Torres,32,INF,Junior,73,230.0,R/R,Miami Springs,['Infielder'],Infielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Ariston Veasey,33,RHP/UTL,Sophomore,73,190.0,R/R,Starr's Mill,"['Right-Handed Pitcher', 'Utility']",Right-Handed Pitcher,Utility,,R,R,Alabama Crimson Tide
+University of Alabama,Hagan Banks,36,RHP,Redshirt Junior,76,215.0,R/R,Calhoun,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Andre Modugno,37,INF/RHP,Freshman,77,220.0,R/R,IMG Academy,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,,R,R,Alabama Crimson Tide
+University of Alabama,Zach Kittrell,38,RHP,Junior,72,195.0,R/R,Bayside Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Sam Mitchell,39,RHP,Sophomore,79,235.0,R/R,Bob Jones,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Sean Griggs,40,INF,Freshman,74,195.0,L/R,Catholic,['Infielder'],Infielder,,,L,R,Alabama Crimson Tide
+University of Alabama,Connor Ball,41,LHP,Redshirt Junior,72,180.0,L/L,Chelsea,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Alabama Crimson Tide
+University of Alabama,Ahmaad Duff,42,OF,Freshman,67,155.0,R/R,Lawrence Central,['Outfielder'],Outfielder,,,R,R,Alabama Crimson Tide
+University of Alabama,Jack Ketchum,43,RHP,Freshman,75,210.0,R/R,Heritage Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Packy Bradley-Cooney,44,RHP,Senior,74,210.0,R/R,Arlington Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Jackson Hunter,45,RHP,Freshman,75,190.0,R/R,Hazel Green,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Carson Kuehne,46,LHP,Freshman,77,195.0,L/L,IMG Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Alabama Crimson Tide
+University of Alabama,JoJo Williamson,47,INF,Freshman,68,175.0,L/R,Hart,['Infielder'],Infielder,,,L,R,Alabama Crimson Tide
+University of Alabama,Bobby Alcock,48,RHP,Redshirt Senior,77,230.0,R/R,The Winchendon School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Nash Wagner,49,RHP,Freshman,77,225.0,R/R,Zionsville Community,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Connor Lehman,50,LHP,Freshman,74,210.0,L/L,Stewart County,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Alabama Crimson Tide
+University of Alabama,Ashton Alston,52,RHP,Freshman,78,205.0,R/R,Christian Community Schools,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Alabama,Egan Lowery,67,RHP,Sophomore,73,184.0,L/R,McAdory,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Alabama Crimson Tide
+University of Alabama,Austin Morris,99,RHP,Redshirt Sophomore,76,210.0,R/R,Mortimer Jordan,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Alabama Crimson Tide
+University of Washington,Isaac Yeager,0,RHP,Junior,78,215.0,L/R,Bishop Blanchet,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Washington Huskies
+University of Washington,AJ Guerrero,1,OF,Senior,72,210.0,R/R,Fife,['Outfielder'],Outfielder,,,R,R,Washington Huskies
+University of Washington,Colton Bower,2,C,Redshirt Sophomore,72,210.0,R/R,North Kitsap,['Catcher'],Catcher,,,R,R,Washington Huskies
+University of Washington,Reeve Boyd,3,INF,Redshirt Freshman,73,190.0,R/R,Seattle Prep,['Infielder'],Infielder,,,R,R,Washington Huskies
+University of Washington,Sawyer Parkin,4,RHP,Senior,71,195.0,R/R,Columbia River,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Julian Sanders,5,OF,Graduate,74,210.0,R/R,Lakeside,['Outfielder'],Outfielder,,,R,R,Washington Huskies
+University of Washington,Carson Crawford,6,INF,Senior,74,200.0,R/R,Cardinal Newman,['Infielder'],Infielder,,,R,R,Washington Huskies
+University of Washington,Blake Wilson,7,INF,Sophomore,70,175.0,R/R,Catholic,['Infielder'],Infielder,,,R,R,Washington Huskies
+University of Washington,Cooper Whitton,9,OF,Junior,75,200.0,R/R,Santa Fe Christian,['Outfielder'],Outfielder,,,R,R,Washington Huskies
+University of Washington,Braeden Terry,10,OF,Senior,72,200.0,L/L,Newport,['Outfielder'],Outfielder,,,L,L,Washington Huskies
+University of Washington,Jase Evangelista,11,RHP,Sophomore,74,195.0,R/R,Martin Luther King,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Casen Taggart,12,INF/OF,Senior,77,225.0,L/R,Everett,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Washington Huskies
+University of Washington,Micah Bujacich,13,RHP,Freshman,75,190.0,R/R,Steilacoom,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Will Woodward,15,LHP,Redshirt Sophomore,79,225.0,L/L,Eastlake,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Washington Huskies
+University of Washington,Trevor Kole,16,INF,Graduate,72,200.0,R/R,Gibbons,['Infielder'],Infielder,,,R,R,Washington Huskies
+University of Washington,Matthew Henning,17,RHP/OF,Freshman,73,200.0,R/R,West,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,,R,R,Washington Huskies
+University of Washington,Boston Warkentin,18,RHP,Redshirt Sophomore,74,205.0,R/R,Foothills Composite,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Jackson Hotchkiss,19,OF,Freshman,75,190.0,R/R,Battle Ground,['Outfielder'],Outfielder,,,R,R,Washington Huskies
+University of Washington,Easton O'Neal,20,C,Freshman,73,205.0,S/R,West,['Catcher'],Catcher,,,S,R,Washington Huskies
+University of Washington,Lane Simonsen,21,RHP,Freshman,74,195.0,R/R,Lynden,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Max Banks,22,RHP,Senior,76,225.0,R/R,Stuart Hall,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Colin Blanchard,23,C,Redshirt Junior,73,195.0,L/R,Catholic,['Catcher'],Catcher,,,L,R,Washington Huskies
+University of Washington,Malakhi Knight,24,OF,Senior,75,205.0,R/R,Marysville Getchell,['Outfielder'],Outfielder,,,R,R,Washington Huskies
+University of Washington,Reilly McAdams,25,RHP,Redshirt Senior,78,235.0,R/R,Ingraham,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Charlie Denomme,26,RHP,Sophomore,76,225.0,R/R,Thayer Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Justin Tims,27,RHP/INF,Freshman,75,195.0,L/R,Villa Park,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,,L,R,Washington Huskies
+University of Washington,Gunnar Nichols,31,RHP,Junior,76,185.0,L/R,John Burroughs,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Washington Huskies
+University of Washington,Josh Emanuels,32,RHP,Redshirt Senior,75,210.0,R/R,Interlake,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Jack Sand,33,LHP,Sophomore,70,195.0,L/L,Crean Lutheran,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Washington Huskies
+University of Washington,Noah Sorensen,34,RHP,Freshman,74,210.0,R/R,North Kitsap,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Peysen Sweeney,35,RHP,Redshirt Junior,77,235.0,L/R,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Washington Huskies
+University of Washington,Bradley Gilbert,37,RHP,Freshman,72,195.0,L/R,Aquinas,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Washington Huskies
+University of Washington,Jackson Thomas,39,RHP,Senior,75,200.0,R/R,Mountain View,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Tommy Curran,40,LHP,Freshman,74,180.0,R/L,De La Salle,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Washington Huskies
+University of Washington,Carston Pearson,41,OF,Sophomore,72,200.0,L/L,Dublin,['Outfielder'],Outfielder,,,L,L,Washington Huskies
+University of Washington,Luke Klooster,43,C,Freshman,70,190.0,R/R,O'Dea,['Catcher'],Catcher,,,R,R,Washington Huskies
+University of Washington,Grady Woodward,44,OF,Freshman,74,205.0,R/R,Eastlake,['Outfielder'],Outfielder,,,R,R,Washington Huskies
+University of Washington,Jaxson Gore,45,RHP,Sophomore,72,190.0,R/R,North Kitsap,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Sam DeCarlo,51,INF,Junior,69,190.0,R/R,Millikan,['Infielder'],Infielder,,,R,R,Washington Huskies
+University of Washington,Tommy Brandenburg,55,RHP,Redshirt Junior,71,195.0,R/R,Kalama,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Washington,Nic Bronzini,95,LHP,Redshirt Sophomore,76,250.0,L/L,California,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Washington Huskies
+University of Washington,Logan Anderson,99,RHP,Redshirt Freshman,76,210.0,R/R,Shorewood,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Washington Huskies
+University of Oregon,Tyler Jones,1,RHP,Freshman,75,200.0,R/R,Woodinville HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Grayson Grinsell,2,LHP,Junior,73,195.0,L/L,Reno HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon Ducks
+University of Oregon,Carter Garate,3,INF,Junior,74,185.0,L/R,Murrieta Mesa HS,['Infielder'],Infielder,,,L,R,Oregon Ducks
+University of Oregon,Toby Twist,4,LHP,Sophomore,73,205.0,L/L,Bakersfield Christian HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon Ducks
+University of Oregon,Burke-Lee Mabeus,5,C,Freshman,76,215.0,S/R,Bishop Gorman HS,['Catcher'],Catcher,,,S,R,Oregon Ducks
+University of Oregon,Jack Brooks,6,UTL,Sophomore,70,190.0,L/R,Vanden HS,['Utility'],Utility,,,L,R,Oregon Ducks
+University of Oregon,Hunter Hyatt,7,LHP,Redshirt Freshman,75,210.0,L/L,Bellevue HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon Ducks
+University of Oregon,Maddox Molony,9,INF,Sophomore,74,210.0,R/R,Thurston HS,['Infielder'],Infielder,,,R,R,Oregon Ducks
+University of Oregon,Collin Clarke,10,RHP,Sophomore,75,205.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Ryan Cooney,12,INF,Sophomore,72,200.0,R/R,Jesuit,['Infielder'],Infielder,,,R,R,Oregon Ducks
+University of Oregon,Coen Niclai,13,C,Freshman,74,215.0,R/R,Service HS,['Catcher'],Catcher,,,R,R,Oregon Ducks
+University of Oregon,Jaxon Jordan,15,RHP,Senior,77,210.0,R/R,Oak Park HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Cole Fisher,16,RHP,Junior,74,210.0,R/R,Hatboro-Horsham HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Drew Smith,17,INF/OF,Junior,74,205.0,R/R,Buchanan HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Oregon Ducks
+University of Oregon,Jax Gimenez,19,INF/OF,Freshman,74,200.0,S/R,Mt. Whitney HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,S,R,Oregon Ducks
+University of Oregon,Parker Stinson,20,OF,Senior,72,210.0,L/L,Yorktown HS,['Outfielder'],Outfielder,,,L,L,Oregon Ducks
+University of Oregon,Michael Meckna,21,RHP,Freshman,75,200.0,R/R,Elkhorn South HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Julien Hernandez,22,RHP,Senior,73,200.0,R/R,Menlo School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Kellan Knox,23,RHP,Freshman,74,210.0,R/R,Tenino HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Ian Umlandt,24,LHP,Junior,72,210.0,L/L,Sherwood HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon Ducks
+University of Oregon,Jacob Walsh,25,1B,Senior,76,225.0,L/L,Desert Oasis HS,['First Base'],First Base,,,L,L,Oregon Ducks
+University of Oregon,Mason Neville,26,OF,Junior,75,210.0,L/L,Basic HS,['Outfielder'],Outfielder,,,L,L,Oregon Ducks
+University of Oregon,Chase Meggers,27,C,Junior,72,205.0,L/R,Rocklin HS,['Catcher'],Catcher,,,L,R,Oregon Ducks
+University of Oregon,Will Sanford,28,RHP,Freshman,72,200.0,R/R,Point Loma HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Seth Mattox,31,RHP,Senior,75,190.0,R/R,Xavier College Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Jason Reitz,33,RHP,Junior,83,215.0,R/R,Pioneer HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Santiago Garcia,34,LHP,Sophomore,72,180.0,L/L,Burleson Centennial HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon Ducks
+University of Oregon,Jeffery Heard,35,OF,Senior,74,215.0,L/L,Valley Christian,['Outfielder'],Outfielder,,,L,L,Oregon Ducks
+University of Oregon,Sam Boyle,37,LHP,Junior,74,200.0,R/L,Columbia River,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Oregon Ducks
+University of Oregon,Gabe Howard,38,RHP,Freshman,75,200.0,R/R,West,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Kayle Pisano,40,1B,Freshman,75,225.0,L/L,Clackamas HS,['First Base'],First Base,,,L,L,Oregon Ducks
+University of Oregon,Tanner Bradley,41,RHP,Freshman,73,185.0,R/R,Cardinal Newman,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Dominic Hellman,45,INF,Junior,78,250.0,R/R,Henry M. Jackson HS,['Infielder'],Infielder,,,R,R,Oregon Ducks
+University of Oregon,Ryan Featherston,46,RHP,Sophomore,74,225.0,R/R,Stockdale HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Blake Crawford,50,LHP,Freshman,76,215.0,L/L,West,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon Ducks
+University of Oregon,Nate Christman,51,RHP,Freshman,75,220.0,R/R,Aquinas,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Alex Umland,52,RHP,Freshman,76,225.0,R/R,Winward School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Isaac Evaniew,53,RHP,Junior,74,260.0,R/R,Churchill HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Cole Stokes,55,RHP,Sophomore,78,230.0,R/R,Redondo Union HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon Ducks
+University of Oregon,Zach Justice,66,C,Redshirt Freshman,73,210.0,N/A,Summit,['Catcher'],Catcher,,,N,A,Oregon Ducks
+University of Oregon,Anson Aroz,77,C,Junior,71,195.0,S/R,Placer HS,['Catcher'],Catcher,,,S,R,Oregon Ducks
+University of Indiana,Jasen Oliver,2,INF,Sophomore,71,185.0,R/R,Orchard Lake St. Mary's Prep,['Infielder'],Infielder,,,R,R,Indiana Hoosiers
+University of Indiana,Tyler DeMartino,3,OF,Graduate,72,205.0,R/R,Walt Whitman,['Outfielder'],Outfielder,,,R,R,Indiana Hoosiers
+University of Indiana,Devin Taylor,5,OF,Junior,73,215.0,L/R,LaSalle,['Outfielder'],Outfielder,,,L,R,Indiana Hoosiers
+University of Indiana,T.J. Schuyler,6,C,Sophomore,74,220.0,R/R,Antioch,['Catcher'],Catcher,,,R,R,Indiana Hoosiers
+University of Indiana,Tyler Cerny,8,INF,Junior,74,205.0,R/R,Center Grove,['Infielder'],Infielder,,,R,R,Indiana Hoosiers
+University of Indiana,Jake Stadler,9,C,Redshirt Senior,73,215.0,L/R,Mount Vernon,['Catcher'],Catcher,,,L,R,Indiana Hoosiers
+University of Indiana,Josh Pyne,10,INF,Senior,72,195.0,R/R,Linton-Stockton,['Infielder'],Infielder,,,R,R,Indiana Hoosiers
+University of Indiana,Will Moore,11,INF,Freshman,69,170.0,L/R,Paris District,['Infielder'],Infielder,,,L,R,Indiana Hoosiers
+University of Indiana,Hogan Denny,12,C/OF,Freshman,72,215.0,R/R,Mooresville,"['Catcher', 'Outfielder']",Catcher,Outfielder,,R,R,Indiana Hoosiers
+University of Indiana,Andrew Wiggins,13,OF,Sophomore,76,225.0,L/R,Heritage Christian,['Outfielder'],Outfielder,,,L,R,Indiana Hoosiers
+University of Indiana,Brayton Thomas,14,LHP,Freshman,77,220.0,L/L,Bishop Dwenger,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Cooper Malamazian,15,INF,Freshman,74,185.0,R/R,Nazareth Academy,['Infielder'],Infielder,,,R,R,Indiana Hoosiers
+University of Indiana,Anthony Gubitosi,16,LHP,Junior,71,192.0,L/L,Colts Neck,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Ben Grable,17,RHP,Graduate,76,215.0,R/R,Flintridge Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Grant Holderfield,18,LHP,Redshirt Junior,75,220.0,L/L,Oak Park & River Forest,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Cole Decker,19,OF,Freshman,71,185.0,L/R,Evansville North,['Outfielder'],Outfielder,,,L,R,Indiana Hoosiers
+University of Indiana,Korbyn Dickerson,20,OF,Redshirt Sophomore,73,205.0,R/R,Trinity (Ky.),['Outfielder'],Outfielder,,,R,R,Indiana Hoosiers
+University of Indiana,Jacob Vogel,21,RHP,Redshirt Sophomore,79,250.0,R/R,Jennings County,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Joey Brenczewski,23,INF,Redshirt Sophomore,75,195.0,S/R,Fishers,['Infielder'],Infielder,,,S,R,Indiana Hoosiers
+University of Indiana,Drew Buhr,24,RHP,Graduate,73,205.0,L/R,Austin,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Indiana Hoosiers
+University of Indiana,Seth Benes,26,RHP,Sophomore,74,210.0,R/R,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Clayton Weisheit,27,RHP,Sophomore,78,235.0,R/R,Forest Park,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Matthew Bohnert,28,LHP,Redshirt Senior,68,187.0,L/L,Cactus Shadows,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Ryan Kraft,29,LHP,Senior,76,220.0,L/L,Lincoln-Way Central,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Ryan Rushing,30,LHP,Sophomore,70,190.0,L/L,IMG Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Henry Brummel,31,RHP,Freshman,77,210.0,R/R,Pontiac,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Cole Gilley,32,RHP,Redshirt Senior,73,205.0,R/R,Columbus East,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Trey Telfer,33,RHP,Freshman,73,185.0,R/R,Cathedral Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Jake Hanley,34,INF,Freshman,78,235.0,L/R,Mason,['Infielder'],Infielder,,,L,R,Indiana Hoosiers
+University of Indiana,Evan O'Neill,35,RHP,Redshirt Freshman,76,220.0,R/R,Blessed Trinity Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Micah Vessely,36,RHP,Freshman,73,185.0,R/R,Greenwood,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Ryan Gilbert,37,OF,Redshirt Sophomore,77,235.0,R/R,Kenston,['Outfielder'],Outfielder,,,R,R,Indiana Hoosiers
+University of Indiana,Jackson Yarberry,38,RHP,Sophomore,75,225.0,R/R,Timberland,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Michael Lorenzetti,39,RHP,Junior,80,225.0,R/R,Taft School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Gavin Seebold,40,RHP,Redshirt Senior,74,205.0,R/R,Jeffersonville,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Deron Swanson,41,LHP,Senior,75,195.0,L/L,Snider,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Indiana Hoosiers
+University of Indiana,Brayden Ricketts,42,C,Freshman,74,205.0,L/R,Jean Augustine Secondary,['Catcher'],Catcher,,,L,R,Indiana Hoosiers
+University of Indiana,Caleb Koskie,43,LHP/OF,Freshman,72,185.0,R/L,Benilde-St.Margaret's,"['Left-Handed Pitcher', 'Outfielder']",Left-Handed Pitcher,Outfielder,,R,L,Indiana Hoosiers
+University of Indiana,Will Eldridge,44,RHP,Junior,76,210.0,R/R,Carroll (Flora),['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Pete Haas,51,RHP,Redshirt Junior,72,195.0,R/R,Keene,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Indiana,Aydan Decker-Petty,55,RHP,Junior,77,205.0,R/R,New Castle,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Indiana Hoosiers
+University of Minnesota,Jake Larson,1,INF,Senior,72,200.0,R/R,Kentlake,['Infielder'],Infielder,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Easton Richter,2,INF/RHP,Junior,74,,L/R,Rosemount,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,,L,R,Minnesota Golden Gophers
+University of Minnesota,Preston Leon,3,OF,Redshirt Junior,71,,S/R,Dakota High School (Macomb),['Outfielder'],Outfielder,,,S,R,Minnesota Golden Gophers
+University of Minnesota,Jack Mosh,4,INF,Junior,70,180.0,L/R,St. Pius X,['Infielder'],Infielder,,,L,R,Minnesota Golden Gophers
+University of Minnesota,Kris Hokenson,6,OF/LHP,Junior,72,180.0,L/L,St. Louis Park,"['Outfielder', 'Left-Handed Pitcher']",Outfielder,Left-Handed Pitcher,,L,L,Minnesota Golden Gophers
+University of Minnesota,Jack Spanier,7,INF,Sophomore,72,180.0,R/R,Rocori,['Infielder'],Infielder,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Jameson Martin,8,INF,Freshman,71,180.0,R/R,St. Lawrence,['Infielder'],Infielder,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Parker Knoll,9,OF,Senior,72,220.0,R/R,Fox Valley Lutheran,['Outfielder'],Outfielder,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Sam Hunt,10,C,Redshirt Junior,74,205.0,S/R,IMG Academy,['Catcher'],Catcher,,,S,R,Minnesota Golden Gophers
+University of Minnesota,Landen Lozier,12,INF,Sophomore,70,170.0,L/R,Notre Dame Academy,['Infielder'],Infielder,,,L,R,Minnesota Golden Gophers
+University of Minnesota,Cole Selvig,13,RHP,Sophomore,72,205.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Drew Berkland,15,OF/C,Junior,72,190.0,R/R,Wayzata,"['Outfielder', 'Catcher']",Outfielder,Catcher,,R,R,Minnesota Golden Gophers
+University of Minnesota,Josh Fitzgerald,16,OF,Redshirt Senior,72,190.0,R/R,Catholic,['Outfielder'],Outfielder,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Luke Ryerse,17,RHP,Freshman,73,218.0,R/R,East Ridge,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Jack Taxdahl,19,C,Sophomore,70,190.0,R/R,Cretin-Derham Hall,['Catcher'],Catcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Kyle Remington,20,RHP/INF,Sophomore,72,165.0,L/R,Grand Rapids Christian,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,,L,R,Minnesota Golden Gophers
+University of Minnesota,Jonathan Dobis,21,RHP/OF,Freshman,72,180.0,R/R,St. Thomas,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,,R,R,Minnesota Golden Gophers
+University of Minnesota,Weber Neels,22,C/INF,Junior,73,210.0,R/R,East Ridge,"['Catcher', 'Infielder']",Catcher,Infielder,,R,R,Minnesota Golden Gophers
+University of Minnesota,Jake Quinn,23,OF,Freshman,75,190.0,L/R,Cretin Derham-Hall,['Outfielder'],Outfielder,,,L,R,Minnesota Golden Gophers
+University of Minnesota,Jake Perry,27,INF,Senior,76,205.0,L/R,Hopkins,['Infielder'],Infielder,,,L,R,Minnesota Golden Gophers
+University of Minnesota,Caden Capomaccio,28,RHP,Junior,73,185.0,R/R,Notre Dame Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Brayden Hellum,29,OF,Sophomore,68,190.0,L/L,Stillwater,['Outfielder'],Outfielder,,,L,L,Minnesota Golden Gophers
+University of Minnesota,Seth Clausen,30,RHP,Senior,73,210.0,R/R,Pleasant Valley,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Joe Sperry,33,RHP/DH,Junior,74,,R/R,Rochester Lourdes,"['Right-Handed Pitcher', 'Designated Hitter']",Right-Handed Pitcher,Designated Hitter,,R,R,Minnesota Golden Gophers
+University of Minnesota,Jake Elbeery,35,INF,Senior,76,225.0,L/R,Austin,['Infielder'],Infielder,,,L,R,Minnesota Golden Gophers
+University of Minnesota,Parker Lewin,37,RHP/OF,Sophomore,73,175.0,L/R,Orono,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,,L,R,Minnesota Golden Gophers
+University of Minnesota,Adam Urban,38,RHP,Freshman,72,,N/A,Wauwatosa West,['Right-Handed Pitcher'],Right-Handed Pitcher,,,N,A,Minnesota Golden Gophers
+University of Minnesota,Nick Argento,39,RHP,Redshirt Sophomore,78,225.0,R/R,Wayzata,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Tyler Hemmesch,40,RHP,Sophomore,73,195.0,R/R,Sartell,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Charlie Sutherland,41,INF/OF,Sophomore,74,200.0,L/R,Duluth East,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Minnesota Golden Gophers
+University of Minnesota,Eli Sundquist,43,RHP,Graduate,73,,N/A,Utah Valley State,['Right-Handed Pitcher'],Right-Handed Pitcher,,,N,A,Minnesota Golden Gophers
+University of Minnesota,Hunter Cook,44,RHP,Freshman,74,180.0,R/R,North Polk,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Minnesota Golden Gophers
+University of Minnesota,Noah Rooney,46,LHP,Redshirt Junior,72,170.0,L/L,Perham,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Minnesota Golden Gophers
+University of Minnesota,Simon Skroch,47,LHP,Freshman,73,175.0,L/L,Yorkville,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Minnesota Golden Gophers
+University of Minnesota,Justin Thorsteinson,51,LHP,Redshirt Senior,76,233.0,N/A,Langley Secondary School,['Left-Handed Pitcher'],Left-Handed Pitcher,,,N,A,Minnesota Golden Gophers
+University of Minnesota,Will Whelan,54,LHP,Sophomore,74,195.0,L/L,Burleson Centennial HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Minnesota Golden Gophers
+Texas A&M University,Jamal George,1,UTIL,Junior,71,185.0,R/R,International Baseball Academy,['Utility'],Utility,,,R,R,Texas A&M Aggies
+Texas A&M University,Jacob Galloway,2,C,Junior,69,180.0,L/R,Harvard Westlake,['Catcher'],Catcher,,,L,R,Texas A&M Aggies
+Texas A&M University,Terrence Kiel II,3,INF/OF,Freshman,73,185.0,R/R,Pace Academy,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Texas A&M Aggies
+Texas A&M University,Gavin Kash,4,INF/OF,Senior,75,215.0,L/R,Catholic,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Texas A&M Aggies
+Texas A&M University,Sawyer Farr,5,INF,Freshman,76,190.0,S/R,Boswell,['Infielder'],Infielder,,,S,R,Texas A&M Aggies
+Texas A&M University,Kaeden Kent,6,INF,Junior,74,200.0,L/R,Lake Travis,['Infielder'],Infielder,,,L,R,Texas A&M Aggies
+Texas A&M University,Wyatt Henseler,8,INF,Graduate,73,215.0,R/R,Emmaus,['Infielder'],Infielder,,,R,R,Texas A&M Aggies
+Texas A&M University,Gavin Grahovac,9,INF/OF,Sophomore,74,220.0,R/R,Villa Park,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Texas A&M Aggies
+Texas A&M University,Ben Royo,10,INF,Junior,74,200.0,R/R,Veterans,['Infielder'],Infielder,,,R,R,Texas A&M Aggies
+Texas A&M University,Hayden Schott,12,OF,Graduate,74,220.0,L/R,Culver Military Academy,['Outfielder'],Outfielder,,,L,R,Texas A&M Aggies
+Texas A&M University,Caden Sorrell,13,OF,Sophomore,75,205.0,L/L,Marcus,['Outfielder'],Outfielder,,,L,L,Texas A&M Aggies
+Texas A&M University,Isaac Morton,14,RHP,Sophomore,75,190.0,R/R,Spring Lake Park,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Matt Bergevin,15,INF,Graduate,76,250.0,R/R,Marcos De Niza,['Infielder'],Infielder,,,R,R,Texas A&M Aggies
+Texas A&M University,Bear Harrison,16,C,Sophomore,75,230.0,R/R,De La Salle,['Catcher'],Catcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Jace LaViolette,17,OF,Junior,78,230.0,L/L,Tompkins,['Outfielder'],Outfielder,,,L,L,Texas A&M Aggies
+Texas A&M University,Ryan Prager,18,LHP,Redshirt Junior,75,200.0,L/L,Hillcrest,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Troy Wansing,19,LHP,Senior,76,225.0,L/L,Staley,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Aiden Sims,20,RHP,Freshman,74,180.0,L/R,Forney,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Texas A&M Aggies
+Texas A&M University,Weston Moss,21,RHP,Sophomore,76,190.0,R/R,Lake Creek,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Myles Patton,23,LHP,Junior,75,205.0,L/L,Millikan,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Clayton Freshcorn,25,RHP,Sophomore,72,180.0,R/R,Waller,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Gavin Lyons,27,RHP,Freshman,75,200.0,R/R,Hamden Hall,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Caden McCoy,28,LHP,Freshman,75,220.0,R/L,Bloomington North,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Texas A&M Aggies
+Texas A&M University,Kaiden Wilson,30,LHP,Sophomore,74,200.0,L/L,Raymore-Peculiar,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Grant Cunningham,31,RHP,Junior,75,225.0,R/R,Seattle Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Brad Rudis,32,RHP,Senior,72,195.0,R/R,Madisonville,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Justin Lamkin,33,LHP,Junior,76,210.0,R/L,Calallen,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Texas A&M Aggies
+Texas A&M University,Josh Stewart,34,RHP,Senior,74,195.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Sam Erickson,35,OF,Freshman,73,215.0,R/L,Flower Mound,['Outfielder'],Outfielder,,,R,L,Texas A&M Aggies
+Texas A&M University,Ty Baker,37,RHP,Redshirt Freshman,76,230.0,R/R,Second Baptist Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Shane Sdao,38,LHP,Junior,74,170.0,L/L,Lake Creek,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Houston Tomlinson,39,RHP,Freshman,73,180.0,R/R,Grand Oaks,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Blayne Lyne,40,RHP,Freshman,78,205.0,R/R,London,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Jackson Brasseux,41,LHP,Redshirt Freshman,73,190.0,L/L,North Lamar,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Luke Jackson,44,RHP,Redshirt Sophomore,74,190.0,R/R,Lake Travis,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Nathan Tobin,45,OF,Freshman,71,190.0,L/R,VR Eaton,['Outfielder'],Outfielder,,,L,R,Texas A&M Aggies
+Texas A&M University,Blake Binderup,46,INF,Redshirt Sophomore,78,230.0,R/R,College Station,['Infielder'],Infielder,,,R,R,Texas A&M Aggies
+Texas A&M University,Hayden Crites,47,C,Freshman,72,200.0,S/R,Paradise,['Catcher'],Catcher,,,S,R,Texas A&M Aggies
+Texas A&M University,Marco Jones,48,INF/OF,Freshman,77,245.0,R/R,San Ramon Valley,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Texas A&M Aggies
+Texas A&M University,Austin Vargas,49,LHP,Redshirt Freshman,80,235.0,L/L,Fulshear,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Rylan Hill,51,LHP,Freshman,75,200.0,L/L,Bryan,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas A&M Aggies
+Texas A&M University,Peyton Smith,62,RHP,Junior,76,225.0,R/R,East Robertson,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+Texas A&M University,Kyrin LeBlanc,99,RHP,Junior,75,215.0,R/R,St. Martinville Senior,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas A&M Aggies
+University of Southern Mississippi,Joey Urban,1,OF,Junior,72,193.0,R/R,Jupiter Community HS,['Outfielder'],Outfielder,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Jake Cook,2,OF/LHP,Redshirt Sophomore,75,185.0,L/L,Central HS,"['Outfielder', 'Left-Handed Pitcher']",Outfielder,Left-Handed Pitcher,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,Seth Smith,3,INF,Sophomore,74,194.0,L/R,Mobile Christian HS,['Infielder'],Infielder,,,L,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Ozzie Pratt,4,INF,Senior,71,170.0,R/R,Magnolia Heights HS,['Infielder'],Infielder,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Ty Long,5,INF/RHP,Freshman,72,186.0,R/R,Ripley HS,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Colby Allen,6,RHP,Junior,71,190.0,R/R,Starkville Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Ben Higdon,7,OF,Redshirt Junior,74,201.0,L/R,McCracken County HS,['Outfielder'],Outfielder,,,L,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Nick Monistere,8,INF,Junior,72,192.0,R/R,Northwest Rankin HS,['Infielder'],Infielder,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Lawson Odom,10,C/INF,Sophomore,70,190.0,R/R,West,"['Catcher', 'Infielder']",Catcher,Infielder,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Davis Gillespie,11,OF,Redshirt Sophomore,73,225.0,R/R,Oak Mountain,['Outfielder'],Outfielder,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Kros Sivley,12,LHP,Junior,71,188.0,L/L,Sumrall HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,Matthew Adams,13,RHP,Graduate,71,190.0,R/R,Pearland HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Camden Sunstrom,14,RHP,Freshman,74,200.0,R/R,University Lab HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Drey Barrett,15,INF,Freshman,75,214.0,R/R,Holtville HS,['Infielder'],Infielder,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Grayden Harris,16,LHP,Freshman,73,210.0,L/L,Central HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,JB Middleton,18,RHP,Junior,72,178.0,R/R,Benton Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Matthew Russo,19,INF,Junior,74,255.0,L/R,Saint Paul's School,['Infielder'],Infielder,,,L,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Michael Fowler,21,RHP,Graduate,75,210.0,R/R,Hewitt-Trussville,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Cal Culpepper,22,RHP,Redshirt Freshman,75,196.0,R/R,Clarkdale HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Coy Clements,23,C,Freshman,76,208.0,R/R,Oak Grove,['Catcher'],Catcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Jackson Parker,24,LHP,Redshirt Sophomore,72,230.0,L/L,Stringer HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,Braden Luke,25,INF,Senior,70,230.0,L/R,West,['Infielder'],Infielder,,,L,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Jace Norton,26,INF,Redshirt Freshman,75,196.0,R/R,Auburn,['Infielder'],Infielder,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Micah Wascom,27,RHP,Freshman,72,202.0,R/R,Franklinton HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Caleb Hughes,28,RHP,Freshman,73,205.0,R/R,Etowah HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Chandler Best,29,LHP,Senior,72,222.0,L/L,McGill-Toolen HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,Cole Richardson,30,RHP,Freshman,77,186.0,R/R,South Jones HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Josh Och,32,RHP,Sophomore,71,192.0,R/R,Chanhassen HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Logan Pratt,35,RHP,Freshman,77,218.0,R/R,Kirk Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Tucker Stockman,36,C,Redshirt Sophomore,76,230.0,R/R,Athens HS,['Catcher'],Catcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Carson Paetow,37,OF,Senior,75,226.0,L/L,Vancleave HS,['Outfielder'],Outfielder,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,Drake Meeks,38,RHP,Sophomore,76,210.0,R/R,Briarwood Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,JW Armistead,39,RHP,Junior,77,226.0,R/R,Mooreville HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Teague Broadhead,41,RHP,Freshman,74,196.0,R/R,Bayside Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Ben Riley Flowers,42,LHP,Senior,74,222.0,L/L,Saraland HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,Landen Payne,43,RHP,Senior,74,226.0,R/R,Saint Martin HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Brooks Willoughby,45,LHP,Freshman,77,220.0,L/L,Central HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+University of Southern Mississippi,McCarty English,47,RHP,Sophomore,73,180.0,R/R,Ocean Springs HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Southern Miss Golden Eagles
+University of Southern Mississippi,Chase Adams,48,LHP,Junior,74,210.0,L/L,Normal University HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Southern Miss Golden Eagles
+Troy University,Cason Eubanks,1,INF,Sophomore,69,175.0,R/R,Pike Liberal Arts School,['Infielder'],Infielder,,,R,R,Troy Trojans
+Troy University,Shane Lewis,2,OF,Senior,74,193.0,S/R,Central HS,['Outfielder'],Outfielder,,,S,R,Troy Trojans
+Troy University,Tyler LeJeune,3,INF/OF,Junior,70,172.0,L/R,Iota HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Troy Trojans
+Troy University,Peyton Watts,4,INF,Sophomore,73,175.0,L/R,Oxford HS,['Infielder'],Infielder,,,L,R,Troy Trojans
+Troy University,Jimmy Janicki,5,C/INF,Freshman,76,231.0,R/R,Downers Grove North HS,"['Catcher', 'Infielder']",Catcher,Infielder,,R,R,Troy Trojans
+Troy University,Reid Broussard,6,OF,Sophomore,72,200.0,R/R,Live Oak HS,['Outfielder'],Outfielder,,,R,R,Troy Trojans
+Troy University,Gavin Schrader,7,OF/INF,Junior,76,215.0,L/L,Notre Dame HS,"['Outfielder', 'Infielder']",Outfielder,Infielder,,L,L,Troy Trojans
+Troy University,Cooper Smith,8,OF/INF,Sophomore,71,193.0,R/R,Saint Xavier HS,"['Outfielder', 'Infielder']",Outfielder,Infielder,,R,R,Troy Trojans
+Troy University,Brock Tapper,10,LHP/OF,Junior,74,196.0,L/L,Central HS,"['Left-Handed Pitcher', 'Outfielder']",Left-Handed Pitcher,Outfielder,,L,L,Troy Trojans
+Troy University,Colby Frieda,11,RHP,Senior,75,226.0,R/R,Creekside HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Steven Meier,12,OF,Senior,73,195.0,L/L,Southridge HS,['Outfielder'],Outfielder,,,L,L,Troy Trojans
+Troy University,Peryn Bland,13,INF,Freshman,73,183.0,R/R,Thompson HS,['Infielder'],Infielder,,,R,R,Troy Trojans
+Troy University,Dillon Kuehl,14,OF,Junior,72,213.0,L/L,Urbandale HS,['Outfielder'],Outfielder,,,L,L,Troy Trojans
+Troy University,Jakob Wax,15,INF,Senior,73,175.0,R/R,Blessed Trinity Catholic HS,['Infielder'],Infielder,,,R,R,Troy Trojans
+Troy University,Jason Hawkins,16,C,Senior,74,210.0,R/R,Plano Senior HS,['Catcher'],Catcher,,,R,R,Troy Trojans
+Troy University,Brooks Bryan,17,C,Junior,74,222.0,L/R,Opelika HS,['Catcher'],Catcher,,,L,R,Troy Trojans
+Troy University,Noah Edders,18,RHP,Junior,76,232.0,R/R,Downers Grove South HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Kelly Crumpton,19,RHP,Senior,75,182.0,R/R,Oxford HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Josh Dima,21,LHP,Senior,74,196.0,L/L,Belleville Township HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Drew Nelson,22,LHP/INF,Junior,71,210.0,L/L,Pike Liberal Arts School,"['Left-Handed Pitcher', 'Infielder']",Left-Handed Pitcher,Infielder,,L,L,Troy Trojans
+Troy University,Houston Markham,23,OF,Freshman,71,201.0,L/R,Pike Road HS,['Outfielder'],Outfielder,,,L,R,Troy Trojans
+Troy University,Adam Falinski,26,RHP,Senior,75,221.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Grayson Stewart,27,RHP,Senior,71,197.0,R/R,Providence Christian School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Harrison Bowman,28,OF,Sophomore,73,205.0,R/R,Apollo HS,['Outfielder'],Outfielder,,,R,R,Troy Trojans
+Troy University,Dylan King,29,RHP,Redshirt Junior,76,198.0,R/R,Manheim Township HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Connor Burt,30,LHP,Senior,75,204.0,L/L,Gulf Breeze,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Mike Bello,31,OF,Senior,74,211.0,L/L,Pope John XXIII,['Outfielder'],Outfielder,,,L,L,Troy Trojans
+Troy University,Tyler Cook,32,C,Freshman,71,188.0,R/R,Holy Trinity HS,['Catcher'],Catcher,,,R,R,Troy Trojans
+Troy University,Ty McGraw,33,INF,Freshman,75,215.0,L/R,Gardendale HS,['Infielder'],Infielder,,,L,R,Troy Trojans
+Troy University,Blake Cavill,34,INF,Senior,73,225.0,L/R,Holsworthy HS,['Infielder'],Infielder,,,L,R,Troy Trojans
+Troy University,Jay Dill,35,RHP,Senior,78,240.0,R/R,Baylor School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Chase Cartron,36,LHP,Freshman,80,233.0,L/L,Huntsville HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Sean Darnell,37,INF,Junior,73,206.0,L/R,Elmore County HS,['Infielder'],Infielder,,,L,R,Troy Trojans
+Troy University,Zak Szabo,38,RHP,Redshirt Sophomore,75,220.0,R/R,Sinclair Secondary School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Jacob Roettgen,40,LHP,Senior,74,253.0,L/L,Jefferson City HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Luke Lyon,42,RHP,Senior,74,240.0,R/R,Oak Grove,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Nolan Decker,43,LHP,Freshman,72,210.0,L/L,Noblesville HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Garrett Gainous,44,RHP,Senior,76,220.0,R/R,Cairo HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Colton Walls,45,RHP/INF,Sophomore,76,232.0,L/R,Stanhope Elmore HS,"['Right-Handed Pitcher', 'Infielder']",Right-Handed Pitcher,Infielder,,L,R,Troy Trojans
+Troy University,Chase Nelson,46,LHP,Senior,72,215.0,L/L,Hendersonville HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Noah Thigpen,47,RHP,Freshman,74,218.0,R/R,Lowndes HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Troy Trojans
+Troy University,Grady Gorgen,48,LHP,Senior,75,193.0,R/L,Mineral Point HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Troy Trojans
+Troy University,George Welch,49,LHP,Graduate,75,212.0,L/L,Pinkerton Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+Troy University,Pavlos Piperakis,55,LHP,Sophomore,73,185.0,L/L,Aquinas,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Troy Trojans
+University of Louisiana at Lafayette,Maddox Mandino,1,OF/LHP,Sophomore,69,175.0,L/L,Glenbrook,"['Outfielder', 'Left-Handed Pitcher']",Outfielder,Left-Handed Pitcher,,L,L,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Sam Ardoin,4,IF,Sophomore,74,170.0,R/R,Sam Houston,[None],,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Trip Dobson,5,IF/RHP,Freshman,73,190.0,R/R,Arlington Catholic,"[None, 'Right-Handed Pitcher']",,Right-Handed Pitcher,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Mark Collins,6,OF,Freshman,74,200.0,R/R,Catholic,['Outfielder'],Outfielder,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Griffin Hebert,7,IF/RHP,Freshman,71,200.0,L/R,Sam Houston,"[None, 'Right-Handed Pitcher']",,Right-Handed Pitcher,,L,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Lee Amedee,8,IF,Junior,72,205.0,L/R,St. Amant,[None],,,,L,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Drew Markle,9,IF,Sophomore,76,185.0,R/R,Tompkins,[None],,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Connor Cuff,10,IF,Sophomore,76,215.0,R/R,Carthage,[None],,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Brooks Wright,11,OF,Freshman,75,185.0,L/R,Arlington Catholic,['Outfielder'],Outfielder,,,L,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Caleb Stelly,12,OF,Junior,73,205.0,R/R,Parkview Baptist School,['Outfielder'],Outfielder,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Casey Artigues,13,IF,Junior,70,180.0,L/R,Aquinas,[None],,,,L,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Blaine Lucas,14,IF,Freshman,72,185.0,L/R,Tomball,[None],,,,L,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Clayton Pourciau,15,C,Redshirt Freshman,72,195.0,R/R,Arlington Catholic,['Catcher'],Catcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Carson Hepworth,16,OF,Junior,74,195.0,R/R,Gulf Breeze,['Outfielder'],Outfielder,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Chase Morgan,18,LHP,Sophomore,75,195.0,L/L,Cy Woods,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Dylan Theut,19,LHP,Redshirt Senior,71,185.0,R/L,Fulshear,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,JR Tollett,20,RHP,Sophomore,74,190.0,R/R,Ruston,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Kasen Bellard,21,IF/RHP,Freshman,72,180.0,R/R,Barbe,"[None, 'Right-Handed Pitcher']",,Right-Handed Pitcher,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Owen Galt,22,IF,Freshman,70,190.0,R/R,Barbe,[None],,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Tate Hess,23,RHP,Sophomore,74,220.0,R/R,Singer,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Riley Marcotte,25,LHP,Sophomore,74,180.0,L/L,Loreauville,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Parker Smith,26,C/RHP,Freshman,74,195.0,R/R,Lake Creek,"['Catcher', 'Right-Handed Pitcher']",Catcher,Right-Handed Pitcher,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Matthew Holzhammer,27,RHP,Senior,76,210.0,R/R,Wister,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Blake McGehee,29,RHP,Redshirt Junior,72,190.0,R/R,Tioga,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Will Taylor,30,RHP,Freshman,75,185.0,R/R,St. Thomas,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Conor Higgs,33,OF,Redshirt Senior,74,195.0,L/L,Texas City,['Outfielder'],Outfielder,,,L,L,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Luke Yuhasz,34,OF,Junior,76,205.0,R/R,Sam Houston,['Outfielder'],Outfielder,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Andrew Herrmann,39,LHP,Senior,75,215.0,L/L,Campbell,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,James Trimble,40,RHP,Redshirt Sophomore,72,185.0,R/R,Ball,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Jose Torres,47,C,Senior,68,195.0,R/R,Miami Christian School (Fla.),['Catcher'],Catcher,,,R,R,Louisiana Ragin' Cajuns
+University of Louisiana at Lafayette,Murphy Brooks,53,RHP,Redshirt Sophomore,75,230.0,R/R,Bridgeland,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Louisiana Ragin' Cajuns
+Rice University,Maddox Keo,1,LHP,Freshman,69,160.0,L/L,Willis,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Rice Owls
+Rice University,Cole Green,2,INF,Freshman,72,175.0,R/R,Sun Valley,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Max Johnson,3,INF,Senior,73,192.0,R/R,Mason,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Blaine Brown,4,LHP/OF,Freshman,75,180.0,L/L,Shadow Creek,"['Left-Handed Pitcher', 'Outfielder']",Left-Handed Pitcher,Outfielder,,L,L,Rice Owls
+Rice University,Treyton Rank,6,INF/OF,Senior,72,210.0,R/R,Buford,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Rice Owls
+Rice University,Michael Zito,7,INF,Freshman,73,192.0,R/R,Blessed Trinity Academy,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Trey Duffield,9,OF,Junior,75,229.0,R/R,Jesuit,['Outfielder'],Outfielder,,,R,R,Rice Owls
+Rice University,Colin Robson,10,OF,Redshirt Freshman,74,185.0,L/R,Southlake Carroll,['Outfielder'],Outfielder,,,L,R,Rice Owls
+Rice University,Austin Eppley,11,RHP/UT,Junior,73,207.0,L/R,Episcopal,"['Right-Handed Pitcher', None]",Right-Handed Pitcher,,,L,R,Rice Owls
+Rice University,Jack Ben-Shoshan,12,RHP,Senior,72,200.0,R/R,St. John's,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Reed Gallant,13,RHP,Graduate,73,193.0,R/R,Marcus,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Paul Smith,14,C,Junior,71,218.0,S/R,Episcopal,['Catcher'],Catcher,,,S,R,Rice Owls
+Rice University,Luke Smith,15,INF,Junior,69,188.0,R/R,Callallen,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Garrett Stratton,16,RHP,Junior,74,198.0,R/R,Jesuit,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Graiden West,17,INF,Senior,75,185.0,R/R,Tompkins,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Aric Anderson,19,C,Junior,72,205.0,L/R,Palo Verde,['Catcher'],Catcher,,,L,R,Rice Owls
+Rice University,Gunnett Carlson,20,INF,Junior,70,208.0,L/R,Berkely Prep,['Infielder'],Infielder,,,L,R,Rice Owls
+Rice University,Tobias Motley,21,INF/OF,Sophomore,74,201.0,R/R,Cy Ranch,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Rice Owls
+Rice University,Javier Vazquez,23,INF,Redshirt Freshman,73,195.0,R/R,IMG Academy,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Jacob Devenny,24,OF,Junior,71,200.0,L/R,Prosper,['Outfielder'],Outfielder,,,L,R,Rice Owls
+Rice University,Ethan Atchley,26,RHP,Freshman,72,180.0,R/R,Rockwall,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Barrett Eldridge,27,INF,Junior,75,212.0,R/R,Walton,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Landon West,28,C,Sophomore,75,213.0,R/R,Tompkins,['Catcher'],Catcher,,,R,R,Rice Owls
+Rice University,J.D. McCracken,29,LHP,Senior,75,211.0,L/L,Tennessee,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Rice Owls
+Rice University,Marco Fuentes,31,RHP,Redshirt Junior,74,210.0,R/R,Belen Jesuit,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Mark Perkins,32,RHP,Senior,73,207.0,R/R,Stratford,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Nolan Roycraft,33,LHP,Freshman,77,226.0,L/L,The Woodlands,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Rice Owls
+Rice University,Micah Davis,34,RHP,Senior,75,226.0,R/R,home school,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Tom Vincent,36,LHP,Redshirt Senior,75,237.0,L/L,Jackson Memorial High School,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Rice Owls
+Rice University,Davion Hickson,38,RHP,Junior,74,208.0,R/R,IMG Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Matthew Rheaume,39,RHP,Redshirt Junior,77,221.0,R/R,Jackson Memorial High School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Von Baker,40,RHP,Graduate,78,232.0,R/R,OESJ,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Lorenzo Rios,44,C,Junior,74,205.0,R/R,Yorkville,['Catcher'],Catcher,,,R,R,Rice Owls
+Rice University,Tucker Alch,47,RHP,Graduate,77,217.0,R/R,St. Thomas,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Hiram Bocachica Jr.,48,INF,Freshman,67,155.0,R/R,Puerto Rico Baseball Academy,['Infielder'],Infielder,,,R,R,Rice Owls
+Rice University,Robert Fernandez,53,RHP,Senior,72,214.0,R/R,Belen Jesuit,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Caleb Williams,54,RHP,Redshirt Freshman,74,208.0,R/R,Alexander Central,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Jackson Blank,55,RHP,Sophomore,74,208.0,R/R,Blue Valley West HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+Rice University,Matt Zatopek,99,RHP,Freshman,75,210.0,R/R,Houston Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Rice Owls
+University of Memphis,Creek Robertson,1,INF,Redshirt Junior,72,190.0,R/R,Central HS,['Infielder'],Infielder,,,R,R,Memphis Tigers
+University of Memphis,Shane Cox,2,INF,Redshirt Junior,75,215.0,R/R,Munford HS,['Infielder'],Infielder,,,R,R,Memphis Tigers
+University of Memphis,Will Vasseur,3,INF,Junior,76,215.0,R/R,Rocky Mountain HS,['Infielder'],Infielder,,,R,R,Memphis Tigers
+University of Memphis,Logan Stelling,4,RHP,Redshirt Junior,72,200.0,R/R,Christopher HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Eli Curtis,6,LHP,Redshirt Sophomore,75,180.0,L/L,Chatham Glenwood HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Memphis Tigers
+University of Memphis,Kylan Stepter,7,RHP,Redshirt Senior,73,195.0,R/R,Hernando HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Cy Turner,9,INF/OF,Junior,75,185.0,L/R,Pacific Grove HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Memphis Tigers
+University of Memphis,Justin Fogel,11,C/OF,Redshirt Senior,72,210.0,L/R,Pennsbury HS,"['Catcher', 'Outfielder']",Catcher,Outfielder,,L,R,Memphis Tigers
+University of Memphis,Daniel Perez,13,INF,Redshirt Junior,70,185.0,L/R,Greenwich HS  Cheshire Academy,['Infielder'],Infielder,,,L,R,Memphis Tigers
+University of Memphis,Brayden Sanders,14,RHP,Senior,70,215.0,L/R,Lewisburg,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Memphis Tigers
+University of Memphis,Logan Rushing,15,LHP,Redshirt Junior,72,180.0,R/L,Brighton HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Memphis Tigers
+University of Memphis,Seth Cox,16,OF/RHP,Senior,77,220.0,R/R,McKinney HS,"['Outfielder', 'Right-Handed Pitcher']",Outfielder,Right-Handed Pitcher,,R,R,Memphis Tigers
+University of Memphis,Seth Garner,18,RHP,Junior,75,225.0,R/R,Hardin County HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Davis Oswalt,19,RHP,Senior,70,190.0,R/R,Nettleton HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Chase Nixon,20,OF,Senior,73,205.0,L/R,Pro 5 Baseball Academy,['Outfielder'],Outfielder,,,L,R,Memphis Tigers
+University of Memphis,Charlie Smith,21,RHP,Junior,74,180.0,R/R,Powell HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Cade Tucker,22,INF/OF,Senior,75,210.0,L/R,Krum HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Memphis Tigers
+University of Memphis,Isaac Lucas,23,LHP,Redshirt Sophomore,72,200.0,L/L,Oakland Technical HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Memphis Tigers
+University of Memphis,Michael Dallas,24,RHP,Senior,71,185.0,R/R,Briarcrest Christian HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,David Case,26,LHP,Senior,72,180.0,L/L,Loyola HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Memphis Tigers
+University of Memphis,Luke Ellis,27,LHP,Redshirt Junior,73,190.0,L/L,Auburn,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Memphis Tigers
+University of Memphis,Malik Harris,29,RHP,Sophomore,78,235.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Will Howell,30,RHP,Redshirt Freshman,76,240.0,R/R,Pine Bluff HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Michael Politte,31,INF,Freshman,74,195.0,R/R,Lindbergh HS,['Infielder'],Infielder,,,R,R,Memphis Tigers
+University of Memphis,Cade Mattison,32,RHP,Redshirt Junior,75,195.0,R/R,Lamar Christian HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Carter McKay,34,INF/OF,Freshman,75,250.0,L/R,Arlington HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Memphis Tigers
+University of Memphis,Jonah Sutton,35,C,Senior,69,200.0,R/R,Briarcrest Christian HS,['Catcher'],Catcher,,,R,R,Memphis Tigers
+University of Memphis,Connor Pittman,36,RHP,Junior,80,225.0,R/R,Wayne County HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Hayden Donahue,37,RHP,Redshirt Junior,72,180.0,R/R,Booneville HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Brandon Chorzelewski,38,LHP,Senior,73,175.0,L/L,Cherry Hill West,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Memphis Tigers
+University of Memphis,Jack Pitts,39,C,Freshman,72,210.0,R/R,Arlington HS,['Catcher'],Catcher,,,R,R,Memphis Tigers
+University of Memphis,Seth Giamportone,40,C,Freshman,75,215.0,R/R,Northpoint Christian School,['Catcher'],Catcher,,,R,R,Memphis Tigers
+University of Memphis,Caden Robinson,41,RHP,Junior,72,175.0,R/R,New Albany HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Shane Thorson,42,LHP,Junior,70,190.0,L/L,Cary HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Memphis Tigers
+University of Memphis,CJ Willis,44,INF/OF,Redshirt Sophomore,75,225.0,L/R,Bartlett HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Memphis Tigers
+University of Memphis,Michael Bright,47,RHP,Redshirt Freshman,75,180.0,R/R,New Manchester HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Memphis Tigers
+University of Memphis,Cade Greer,48,OF,Junior,71,170.0,R/L,Lewisburg,['Outfielder'],Outfielder,,,R,L,Memphis Tigers
+University of Memphis,Webb Watson,49,INF/OF,Freshman,72,205.0,L/L,Central Arkansas Christian HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,L,Memphis Tigers
+University of Memphis,James Smith IV,50,OF/RHP,Junior,77,185.0,R/R,Northpoint Christian School,"['Outfielder', 'Right-Handed Pitcher']",Outfielder,Right-Handed Pitcher,,R,R,Memphis Tigers
+University of North Carolina at Charlotte,Carson Bayne,1,OF,Senior,71,185.0,R/R,Sandalwood HS,['Outfielder'],Outfielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Thad Ector,2,OF,Senior,74,215.0,S/R,Stars Mill HS,['Outfielder'],Outfielder,,,S,R,Charlotte 49ers
+University of North Carolina at Charlotte,Dante DeFranco,3,INF,Graduate,70,185.0,R/R,Orange HS,['Infielder'],Infielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Johnny Sutryk,6,OF,Sophomore,73,215.0,R/R,IMG Academy,['Outfielder'],Outfielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Noah Furcht,8,OF,Senior,74,215.0,R/R,Esko HS,['Outfielder'],Outfielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Logan Poteet,9,C,Redshirt Sophomore,74,215.0,R/R,Powell HS,['Catcher'],Catcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Connor Maryniak,11,INF/RHP,Senior,73,200.0,R/R,Governor Mifflin,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Chase Carson,12,LHP,Senior,76,210.0,L/L,Shawnee Heights HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Charlotte 49ers
+University of North Carolina at Charlotte,Caleb Estes,13,INF,Junior,76,205.0,R/R,Archbishop Spalding HS,['Infielder'],Infielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Chandler Riley,14,INF,Graduate,72,185.0,L/R,Cox Mill HS,['Infielder'],Infielder,,,L,R,Charlotte 49ers
+University of North Carolina at Charlotte,Wesley Jones,17,RHP,Sophomore,76,225.0,R/R,Charlotte Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Dawson Bryce,18,INF,Sophomore,75,200.0,R/R,Taunton HS,['Infielder'],Infielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Blake Martin,19,OF,Junior,72,200.0,L/R,Dutch Fork HS,['Outfielder'],Outfielder,,,L,R,Charlotte 49ers
+University of North Carolina at Charlotte,Ed Wagner,20,RHP,Redshirt Junior,77,220.0,R/R,Highland School,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Adam Stanton,21,RHP,Senior,75,230.0,R/R,Eagan HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Cody Gunderson,22,C/1B,Junior,76,220.0,R/R,Institute College St. Pierre,"['Catcher', 'First Base']",Catcher,First Base,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Spencer Nolan,23,UTL,Junior,77,190.0,R/R,Hoggard HS,['Utility'],Utility,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Reid Haire,24,OF,Sophomore,72,195.0,L/L,Pro 5 Baseball Academy,['Outfielder'],Outfielder,,,L,L,Charlotte 49ers
+University of North Carolina at Charlotte,Trey Baker,25,RHP,Redshirt Senior,75,215.0,R/R,Blessed Trinity Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Juan Rivera,26,INF,Junior,67,165.0,L/R,Sharyland Pioneer,['Infielder'],Infielder,,,L,R,Charlotte 49ers
+University of North Carolina at Charlotte,Joseph Taylor,29,RHP,Sophomore,71,180.0,R/R,Pro 5 Baseball Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Blake Gillespie,32,RHP,Junior,74,205.0,S/R,Medway HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,S,R,Charlotte 49ers
+University of North Carolina at Charlotte,Tanner Kaler,34,LHP,Sophomore,73,195.0,L/L,Northwest Cabarrus HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Charlotte 49ers
+University of North Carolina at Charlotte,Andrew Kribbs,35,RHP,Junior,72,210.0,R/R,CAK HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Chase Allen,37,RHP,Graduate,78,215.0,R/R,Jesuit,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Trip DoVale,38,RHP,Junior,73,190.0,R/R,Roswell HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Mike Szturma,40,RHP,Graduate,75,220.0,R/R,Woodland Regional HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Joel Sarver,41,RHP,Redshirt Senior,73,210.0,R/R,Central HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Ben Craig,43,LHP,Junior,75,210.0,L/L,Spotswood HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Charlotte 49ers
+University of North Carolina at Charlotte,Cameron Turner,44,INF,Freshman,75,215.0,R/R,P27,['Infielder'],Infielder,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Sebastian Perez,45,RHP,Junior,77,245.0,R/R,West,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Hunter Sloop,47,RHP,Redshirt Sophomore,79,235.0,R/R,P27,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Logan Ponnett,50,C/INF,Freshman,72,190.0,R/R,Hoggard HS,"['Catcher', 'Infielder']",Catcher,Infielder,,R,R,Charlotte 49ers
+University of North Carolina at Charlotte,Matt Garcia,54,LHP,Graduate,74,195.0,L/L,Monarch HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Charlotte 49ers
+University of North Carolina at Charlotte,AJ Camp,55,LHP,Redshirt Freshman,73,205.0,S/L,Combine Academy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,S,L,Charlotte 49ers
+Oregon State University,Gavin Turley,1,OF,Junior,73,196.0,R/R,Hamilton,['Outfielder'],Outfielder,,,R,R,Oregon State Beavers
+Oregon State University,Dallas Macias,4,OF,Junior,72,203.0,L/R,Jesuit,['Outfielder'],Outfielder,,,L,R,Oregon State Beavers
+Oregon State University,Easton Talt,6,OF,Junior,70,178.0,L/R,Sunrise Mountain (AZ),['Outfielder'],Outfielder,,,L,R,Oregon State Beavers
+Oregon State University,AJ Singer,7,INF,Junior,70,170.0,R/R,Mountain Ridge,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Oregon State University,Carson McEntire,9,OF,Redshirt Freshman,73,192.0,R/R,Mountain Ridge,['Outfielder'],Outfielder,,,R,R,Oregon State Beavers
+Oregon State University,Chase Reynolds,12,RHP,Senior,73,211.0,R/R,West,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Aiva Arquette,13,INF,Junior,77,220.0,R/R,Saint Louis,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Oregon State University,Bryce Hubbard,14,C,Junior,72,215.0,L/R,Wesleyan,['Catcher'],Catcher,,,L,R,Oregon State Beavers
+Oregon State University,Ryan VandenBrink,15,C/INF,Freshman,73,225.0,R/R,West,"['Catcher', 'Infielder']",Catcher,Infielder,,R,R,Oregon State Beavers
+Oregon State University,Eric Segura,16,RHP,Sophomore,74,203.0,R/R,Soledad,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Adam Haight,17,RHP/OF,Freshman,74,192.0,R/R,Cedar Park Christian,"['Right-Handed Pitcher', 'Outfielder']",Right-Handed Pitcher,Outfielder,,R,R,Oregon State Beavers
+Oregon State University,Wilson Weber,18,C,Senior,73,222.0,R/R,Sam Barlow,['Catcher'],Catcher,,,R,R,Oregon State Beavers
+Oregon State University,Wyatt Queen,19,RHP,Sophomore,74,200.0,R/R,Lake Stevens,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Kellan Oakes,20,RHP,Junior,74,201.0,R/R,Canby,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,James DeCremer,21,RHP,Redshirt Freshman,74,205.0,R/R,Brophy College Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Jacob Krieg,22,INF,Junior,77,241.0,R/R,Clayton Valley,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Oregon State University,Canon Reeder,23,OF,Junior,72,188.0,R/R,Lee's Summit West HS,['Outfielder'],Outfielder,,,R,R,Oregon State Beavers
+Oregon State University,Ethan Kleinschmit,24,LHP,Sophomore,75,200.0,L/L,John F. Kennedy,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon State Beavers
+Oregon State University,Joey Mundt,25,RHP,Redshirt Senior,76,224.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Noah Ferguson,26,RHP,Redshirt Senior,70,188.0,R/R,South Salem,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Dawson Santana,28,INF,Sophomore,66,151.0,R/R,Lakeridge,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Oregon State University,Bryce Johnson,29,RHP,Redshirt Freshman,75,212.0,R/R,Eastlake,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Dax Whitney,30,RHP,Freshman,77,204.0,R/R,Blackfoot,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,AJ Hutcheson,32,RHP,Junior,71,187.0,L/R,Elk Grove,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Oregon State Beavers
+Oregon State University,Laif Palmer,33,RHP,Sophomore,78,207.0,R/R,Golden,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Max Fraser,34,LHP,Sophomore,73,185.0,L/L,Camas,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon State Beavers
+Oregon State University,Zach Kmatz,35,RHP,Freshman,75,215.0,R/R,Sandia,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Nelson Keljo,36,LHP,Junior,76,228.0,L/L,Belen Jesuit,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon State Beavers
+Oregon State University,Paul Vazquez,40,INF,Freshman,75,208.0,R/R,South Hills,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Oregon State University,Martin Serrano,43,C,Freshman,75,205.0,L/R,Pocatello,['Catcher'],Catcher,,,L,R,Oregon State Beavers
+Oregon State University,Trent Caraway,44,INF,Sophomore,74,203.0,R/R,Catholic,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Oregon State University,Tanner Douglas,48,LHP,Junior,74,205.0,L/L,South Medford,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oregon State Beavers
+Oregon State University,Zach Edwards,50,RHP,Freshman,74,215.0,R/R,Riverton,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oregon State Beavers
+Oregon State University,Tyce Peterson,54,INF,Junior,70,197.0,R/R,Juanita,['Infielder'],Infielder,,,R,R,Oregon State Beavers
+Texas Tech University,Coleman Ryan,1,SS,Freshman,72,156.0,R/R,Tomball,['Shortstop'],Shortstop,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Kyeler Thompson,2,CF,Sophomore,72,183.0,R/R,Edmond Santa Fe HS,[None],,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Tracer Lopez,3,SS/2B,Junior,70,155.0,L/R,C.H. Yoe,"['Shortstop', 'Second Base']",Shortstop,Second Base,,L,R,Texas Tech Red Raiders
+Texas Tech University,Kendyl Johnson,4,CF,Freshman,68,157.0,L/R,Little Elm HS,[None],,,,L,R,Texas Tech Red Raiders
+Texas Tech University,TJ Pompey,5,SS,Sophomore,76,200.0,R/R,Coppell,['Shortstop'],Shortstop,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Garet Boehm,7,3B,Sophomore,75,215.0,R/R,Hutto,['Third Base'],Third Base,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Hudson Parker,8,C,Senior,72,200.0,R/R,Rowlett,['Catcher'],Catcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Jace Souza,9,CF,Freshman,74,185.0,L/L,Kamehameha School (Kapalama),[None],,,,L,L,Texas Tech Red Raiders
+Texas Tech University,Logan Hughes,10,OF,Sophomore,71,197.0,L/L,Winter Springs HS,['Outfielder'],Outfielder,,,L,L,Texas Tech Red Raiders
+Texas Tech University,Davis Rivers,11,C,Sophomore,72,195.0,L/R,Waller,['Catcher'],Catcher,,,L,R,Texas Tech Red Raiders
+Texas Tech University,Peyton Schulze,13,3B/1B,Senior,73,210.0,R/R,Rancho Benardo HS,"['Third Base', 'First Base']",Third Base,First Base,,R,R,Texas Tech Red Raiders
+Texas Tech University,Tyler Boudreau,14,RHP,Junior,73,169.0,R/R,Vauxhall Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,JT Drake,15,RHP,Junior,75,194.0,R/R,Los Alamos HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Will Jordan,16,RHP,Freshman,77,215.0,R/R,Weatherford HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Parker Hutyra,17,RHP,Sophomore,76,195.0,R/R,Birdville,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Lukas Pirko,18,RHP,Sophomore,73,208.0,R/R,Vista Murrietta HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Jonny Lowe,19,RHP,Junior,74,205.0,R/R,Rockwall,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Antonelli Savattere,20,2B,Junior,68,165.0,L/R,Rowlett,['Second Base'],Second Base,,,L,R,Texas Tech Red Raiders
+Texas Tech University,Jackson Burns,21,RHP,Freshman,76,215.0,R/R,Southwest Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Zachary Fetchel,25,RHP,Sophomore,75,173.0,R/R,Vista Ridge HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Dylan Maxcey,26,C,Junior,69,165.0,R/R,Friendswood,['Catcher'],Catcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Robin Villeneuve,28,1B/OF,Senior,74,208.0,R/L,Polyvante Nicolas-Gatineau,"['First Base', 'Outfielder']",First Base,Outfielder,,R,L,Texas Tech Red Raiders
+Texas Tech University,Jorden Espinoza,29,LHP,Freshman,74,162.0,L/L,Aptos HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas Tech Red Raiders
+Texas Tech University,Damian Bravo,31,OF,Junior,74,195.0,R/R,Haltom HS,['Outfielder'],Outfielder,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Trendan Parish,32,RHP,Senior,72,175.0,R/R,Southwest Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Zach Crotchfelt,33,LHP,Junior,75,220.0,L/L,Jackson Memorial High School,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas Tech Red Raiders
+Texas Tech University,Zane Petty,34,RHP,Junior,73,165.0,R/R,Corsicana,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Dylan Blakey,35,LHP,Junior,73,215.0,L/L,Woodbridge HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas Tech Red Raiders
+Texas Tech University,Connor Mohan,36,RHP,Freshman,75,165.0,R/R,Burleson Centennial HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Carson Baugh,37,LHP,Senior,73,175.0,L/L,Denison,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas Tech Red Raiders
+Texas Tech University,Jacob Rogers,38,RHP,Junior,74,200.0,R/R,Friendswood,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Ryan Jones,39,3B/OF,Freshman,75,200.0,R/R,Aledo High School,"['Third Base', 'Outfielder']",Third Base,Outfielder,,R,R,Texas Tech Red Raiders
+Texas Tech University,Dominic Archila,40,C,Junior,70,185.0,L/R,Catholic,['Catcher'],Catcher,,,L,R,Texas Tech Red Raiders
+Texas Tech University,Brady Trombello,41,RHP,Redshirt Freshman,74,180.0,R/R,Prairie,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Daniel Bass,42,RHP,Junior,76,216.0,R/R,Melissa HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Logan Bevis,44,RHP,Sophomore,79,215.0,R/R,Montverde Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Jack Cebert,45,RHP,Senior,75,209.0,R/R,Calvary Christian,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Logan Addison,47,RHP,Freshman,73,208.0,R/R,New Home HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Mac Heuer,48,RHP,Sophomore,77,265.0,R/R,Homeschooled,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Texas Tech Red Raiders
+Texas Tech University,Zach Erdman,51,LHP,Junior,74,185.0,L/L,Keller,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Texas Tech Red Raiders
+Oklahoma State University,Brock Thompson,1,INF,Freshman,72,189.0,L/R,Liberty,['Infielder'],Infielder,,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Aidan Meola,2,INF,Senior,74,212.0,R/R,Palm Beach Gardens HS,['Infielder'],Infielder,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Donovan LaSalle,3,OF,Sophomore,74,198.0,R/R,Barbe,['Outfielder'],Outfielder,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Brayden Smith,4,INF/OF,Junior,72,190.0,L/R,Millard South HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Garrett Shull,5,OF,Freshman,74,200.0,S/R,Enid HS,['Outfielder'],Outfielder,,,S,R,Oklahoma State Cowboys
+Oklahoma State University,Drew Culbertson,6,INF,Sophomore,72,174.0,R/R,Center Grove,['Infielder'],Infielder,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Avery Ortiz,7,INF,Sophomore,71,192.0,N/A,Redondo Union HS,['Infielder'],Infielder,,,N,A,Oklahoma State Cowboys
+Oklahoma State University,Ian Daugherty,8,C,Senior,74,214.0,R/R,Kingfisher HS,['Catcher'],Catcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Nolan Schubart,10,OF/1B,Junior,77,234.0,L/R,Orchard Lake Saint Mary's Prep,"['Outfielder', 'First Base']",Outfielder,First Base,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Colin Brueggemann,12,1B,Senior,78,229.0,L/R,Freeburg HS,['First Base'],First Base,,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Kollin Ritchie,13,INF/OF,Sophomore,74,215.0,L/R,Atoka HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Alex Conover,14,INF/OF,Sophomore,76,195.0,L/R,Tuttle HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Harrison Bodendorf,15,LHP,Junior,77,200.0,R/L,Temecula Valley HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Oklahoma State Cowboys
+Oklahoma State University,Ethan Lund,16,LHP,Freshman,78,214.0,R/L,Hamilton,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Oklahoma State Cowboys
+Oklahoma State University,Elijah Alexander,17,INF/OF,Junior,74,195.0,R/R,West,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Beau Sylvester,18,C/1B/OF,Sophomore,72,196.0,R/R,Kamehameha Kapalama HS,"['Catcher', 'First Base', 'Outfielder']",Catcher,First Base,Outfielder,R,R,Oklahoma State Cowboys
+Oklahoma State University,Stormy Rhodes,19,RHP,Freshman,76,185.0,R/R,Tivy HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Gabe Davis,22,RHP,Junior,81,234.0,R/R,Choctaw HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Jayson Jones,23,INF/OF,Junior,74,213.0,R/R,Braswell HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Ryan Ure,24,LHP,Junior,80,235.0,R/L,Eaton HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,R,L,Oklahoma State Cowboys
+Oklahoma State University,Ben Reiland,25,INF/OF,Freshman,71,170.0,L/R,Orange Lutheran HS,"['Infielder', 'Outfielder']",Infielder,Outfielder,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Noah Wech,26,RHP,Freshman,73,200.0,R/R,Lincoln HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Matthew Brown,27,RHP,Freshman,77,227.0,R/R,Waterdown,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Brennan Phillips,28,LHP,Junior,73,189.0,N/A,Owasso HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,N,A,Oklahoma State Cowboys
+Oklahoma State University,Braylon Brooks,30,INF/RHP,Freshman,69,188.0,R/R,Tuttle HS,"['Infielder', 'Right-Handed Pitcher']",Infielder,Right-Handed Pitcher,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Drew Blake,32,LHP,Junior,74,203.0,L/L,Stillwater,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma State Cowboys
+Oklahoma State University,Sean Youngerman,33,RHP,Junior,75,230.0,R/R,Chaminade College Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Charlie Carter,34,C,Sophomore,75,206.0,R/R,Little Rock Christian,['Catcher'],Catcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Jake Kennedy,35,RHP,Sophomore,74,190.0,N/A,Enid HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,N,A,Oklahoma State Cowboys
+Oklahoma State University,Thomas Lieb,38,C,Freshman,71,188.0,R/R,Maranatha HS,['Catcher'],Catcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Brex Caldwell,39,RHP,Freshman,74,230.0,L/R,Panama HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Oklahoma State Cowboys
+Oklahoma State University,Cale Sudderth,40,LHP,Freshman,75,229.0,L/L,Lone Grove HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Oklahoma State Cowboys
+Oklahoma State University,Kash Ferris,41,RHP,Freshman,74,200.0,R/R,Carl Albert HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Jett Hope,42,RHP,Freshman,76,223.0,R/R,Bixby HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Tommy Allman,44,RHP,Senior,74,203.0,R/R,Orchard Lake Saint Mary's Prep,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Landry Kyle,45,RHP,Senior,75,207.0,R/R,Heritage Hall HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Aaron Weber,48,RHP,Senior,77,214.0,N/A,Memorial,['Right-Handed Pitcher'],Right-Handed Pitcher,,,N,A,Oklahoma State Cowboys
+Oklahoma State University,Blake Julius,52,RHP,Redshirt Freshman,78,225.0,N/A,Legacy HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,N,A,Oklahoma State Cowboys
+Oklahoma State University,Bowen Bridges,53,RHP,Junior,73,201.0,R/R,Heritage Hall HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Kyle Bade,56,LHP,Sophomore,70,190.0,N/A,Plano Senior HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,N,A,Oklahoma State Cowboys
+Oklahoma State University,Mario Pesca,66,RHP,Junior,80,273.0,R/R,Cardinal Spellman HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Oklahoma State University,Hunter Watkins,77,RHP,Sophomore,81,231.0,R/R,Grace Brethren HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Oklahoma State Cowboys
+Fresno State University,Victor Arreola,5,RHP,Redshirt Junior,72,195.0,R/R,Madison HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Lee Trevi??o,6,Infield,Senior,71,185.0,R/R,Redwood HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Eddie Saldivar,7,Infield,Senior,71,175.0,L/R,Memorial,[None],,,,L,R,Fresno State Bulldogs
+Fresno State University,Jett Ruby,9,Infield,Redshirt Sophomore,72,180.0,L/R,Buchanan HS,[None],,,,L,R,Fresno State Bulldogs
+Fresno State University,Griffen Sotomayor,10,Catcher/Infield,Junior,72,200.0,R/R,Turlock HS,"[None, None]",,,,R,R,Fresno State Bulldogs
+Fresno State University,Justin Stransky,11,Catcher,Senior,73,180.0,R/R,Emerald Ridge HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Ryan De La Maza,12,Catcher,Freshman,72,185.0,R/R,Hart,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Max Shor,13,Catcher,Redshirt Junior,70,205.0,R/R,Palm Desert HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Cam Schneider,14,Infield/Outfield,Sophomore,75,195.0,R/R,Bullard HS,"[None, None]",,,,R,R,Fresno State Bulldogs
+Fresno State University,Murf Gray,15,Infield,Junior,76,230.0,R/R,Madera South HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Aidan Cremarosa,16,RHP,Junior,75,190.0,R/R,IMG Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,BJ Rodriguez,19,Outfield,Junior,71,170.0,L/L,Tulare Western HS,[None],,,,L,L,Fresno State Bulldogs
+Fresno State University,Matt Gonsalves,20,Catcher,Redshirt Sophomore,72,190.0,R/R,Doughtery Valley HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Owen Faust,21,INF,Freshman,72,185.0,R/R,Tesoro HS,['Infielder'],Infielder,,,R,R,Fresno State Bulldogs
+Fresno State University,Tyler Antwine,25,Outfield,Freshman,74,210.0,R/R,Santa Paula HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Sky Collins,30,Outfield,Senior,73,180.0,R/R,Buchanan HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Barclay Ovalle,31,Outfield,Freshman,72,190.0,R/R,Sacred Heart HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Jacob Pappas,32,Outfield,Redshirt Sophomore,72,190.0,R/R,Santa Cruz HS,[None],,,,R,R,Fresno State Bulldogs
+Fresno State University,Bryce Armstrong,34,LHP,Redshirt Senior,76,210.0,L/L,Corning HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Fresno State Bulldogs
+Fresno State University,Bobby Blandford,35,Outfield,Senior,74,205.0,L/L,Pleasant Grove HS,[None],,,,L,L,Fresno State Bulldogs
+Fresno State University,Adrian Garcia,37,RHP,Freshman,74,200.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Tyler Patrick,38,RHP,Freshman,73,215.0,R/R,Clovis West HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Jack Anker,39,RHP,Junior,74,200.0,R/R,Tulare Western HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Cayden Munster,40,Infield,Redshirt Freshman,75,240.0,L/R,Clovis West HS,[None],,,,L,R,Fresno State Bulldogs
+Fresno State University,Vance Haskins,41,RHP,Freshman,73,185.0,R/R,Lodi HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Jake Riding,42,RHP,Senior,74,215.0,R/R,Pahrump Valley HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Jared Galang,43,RHP,Freshman,72,170.0,R/R,Torrance HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Drew Townson,46,RHP,Redshirt Junior,72,190.0,R/R,Burleson Centennial HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Hayden Crews,47,RHP,Redshirt Junior,76,220.0,R/R,River City HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Wyatt Thornbury,48,RHP,Redshirt Sophomore,75,205.0,R/R,Carlsbad HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Gio Groppetti,49,RHP,Redshirt Sophomore,76,200.0,R/R,Kerman HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Ismael Castanon,50,RHP,Freshman,74,245.0,R/R,Bonita HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Cooper Bergman,51,RHP,Redshirt Senior,74,200.0,R/R,Buchanan HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,JT Guerrero,52,RHP,Sophomore,73,185.0,R/R,Mt. Whitney HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Garrett Sinfield,53,LHP,Sophomore,73,190.0,L/L,Damien HS,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Fresno State Bulldogs
+Fresno State University,Caleb Anderson,55,RHP,Senior,77,220.0,R/R,Paloma Valley HS,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Fresno State University,Kaleb Hay,58,RHP,Redshirt Junior,72,200.0,R/R,Liberty,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Fresno State Bulldogs
+Air Force Academy,Brooks Ward,1,OF,Freshman,73,200.0,R/L,Arlington Catholic,['Outfielder'],Outfielder,,,R,L,Air Force Falcons
+Air Force Academy,T.J. Oster,2,IF,Junior,69,170.0,R/R,Valley Christian,[None],,,,R,R,Air Force Falcons
+Air Force Academy,Zach Peters,4,UT/RHP,Senior,69,170.0,R/R,Los Alamitos,"[None, 'Right-Handed Pitcher']",,Right-Handed Pitcher,,R,R,Air Force Falcons
+Air Force Academy,Alex Adams,5,IF,Freshman,72,190.0,R/R,Mount Paran,[None],,,,R,R,Air Force Falcons
+Air Force Academy,Cooper Winchester,6,C,Freshman,71,187.0,S/R,Saint Paul School,['Catcher'],Catcher,,,S,R,Air Force Falcons
+Air Force Academy,Dawson Thrush,7,IF,Freshman,72,190.0,R/R,William T. Dwyer,[None],,,,R,R,Air Force Falcons
+Air Force Academy,Dylan Rogers,9,RHP,Senior,75,190.0,R/R,McKinney North,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Tripp Garrish,10,OF,Junior,73,210.0,L/L,Carlmont,['Outfielder'],Outfielder,,,L,L,Air Force Falcons
+Air Force Academy,Tyler Russ,11,RHP,Freshman,72,195.0,R/R,Catholic,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Christian Taylor,12,UT,Sophomore,71,180.0,R/R,Green Hill,[None],,,,R,R,Air Force Falcons
+Air Force Academy,Cam Anstey,13,UT,Sophomore,73,185.0,R/R,Monteverde Academy,[None],,,,R,R,Air Force Falcons
+Air Force Academy,Ben Niednagel,16,IF,Junior,69,160.0,L/R,Hart,[None],,,,L,R,Air Force Falcons
+Air Force Academy,Joey Collier,19,LHP,Junior,72,195.0,L/L,Paradise,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Air Force Falcons
+Air Force Academy,Chase Spencer,20,OF/RHP,Senior,73,180.0,R/R,Plano West,"['Outfielder', 'Right-Handed Pitcher']",Outfielder,Right-Handed Pitcher,,R,R,Air Force Falcons
+Air Force Academy,Jaxson Crump,21,RHP,Senior,72,175.0,R/R,Sarasota,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,J.D. Wolff,22,UT,Freshman,68,170.0,R/L,IMG Academy,[None],,,,R,L,Air Force Falcons
+Air Force Academy,Walker Zapp,24,C,Junior,71,200.0,R/R,Auburn,['Catcher'],Catcher,,,R,R,Air Force Falcons
+Air Force Academy,Aaron Reyes,25,OF,Senior,71,186.0,R/R,St. John Bosco,['Outfielder'],Outfielder,,,R,R,Air Force Falcons
+Air Force Academy,Josh Shropshire,26,RHP,Freshman,73,185.0,R/R,Mount St. Mary's,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Sam Hentges,27,LHP,Sophomore,74,205.0,L/L,St. John Bosco,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Air Force Falcons
+Air Force Academy,Luke Elmore,29,OF,Sophomore,72,195.0,R/R,Mosley,['Outfielder'],Outfielder,,,R,R,Air Force Falcons
+Air Force Academy,Cranz Smelcer,30,RHP,Freshman,78,220.0,R/R,Apex,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Van Klein,31,C,Sophomore,72,180.0,R/R,Marcus,['Catcher'],Catcher,,,R,R,Air Force Falcons
+Air Force Academy,Easton Miller,32,RHP,Freshman,73,180.0,R/R,Fossil Ridge,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Patrick Davidson,33,RHP,Sophomore,76,210.0,R/R,Auburn,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Landon Boyd,34,C,Senior,72,195.0,S/R,Sandra Day O'Connor,['Catcher'],Catcher,,,S,R,Air Force Falcons
+Air Force Academy,Gio Sambito,35,RHP,Sophomore,74,180.0,L/R,Arnold O. Beckham,['Right-Handed Pitcher'],Right-Handed Pitcher,,,L,R,Air Force Falcons
+Air Force Academy,Gaines Estridge,36,RHP,Sophomore,75,215.0,R/R,Covenant Christian Academy,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Ethan Dillinger,38,LHP,Sophomore,73,180.0,L/L,Erie,['Left-Handed Pitcher'],Left-Handed Pitcher,,,L,L,Air Force Falcons
+Air Force Academy,Charlie Russell,39,RHP,Sophomore,77,205.0,R/R,Bishop Ready,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Kayden Bradshaw,40,OF,Freshman,73,185.0,R/R,Scurry-Rosser,['Outfielder'],Outfielder,,,R,R,Air Force Falcons
+Air Force Academy,Marcus Downing,41,RHP,Freshman,75,190.0,R/R,Pinnacle,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Gunner Gilmore,42,RHP,Freshman,74,190.0,R/R,Lewisburg,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Cole Jenkins,43,IF,Freshman,70,170.0,R/R,Chaparral,[None],,,,R,R,Air Force Falcons
+Air Force Academy,Davis Rhyne,44,RHP,Sophomore,77,195.0,R/R,Hickory Ridge,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons
+Air Force Academy,Bowen Brantingham,45,RHP,Sophomore,77,215.0,R/R,John Burroughs,['Right-Handed Pitcher'],Right-Handed Pitcher,,,R,R,Air Force Falcons

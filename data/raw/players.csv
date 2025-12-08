@@ -1,492 +1,792 @@
-School,Name,Jersey,Position,Class Year,Height,Weight,High School
-University Of Florida,Justin Nadeau,1,INF/OF,Jr.,72,195,Bartram Trail (Jacksonville)
-University Of Florida,Ty Evans,2,OF,Sr.,74,215,Lakeland Christian
-University Of Florida,Kyle Jones,3,OF,So.,75,185,North Oconee (Stetson)
-University Of Florida,Cade Kurland,4,INF,Jr.,71,190,Berkeley Prep
-University Of Florida,Blake Cyr,5,OF/INF,Jr.,71,190,Windermere (Miami)
-University Of Florida,Bobby Boser,6,INF/OF,Sr.,73,215,Wiregrass Ranch (USF)
-University Of Florida,Christian Rodriguez,8,RHP,R-Fr.,72,210,Marjory Stoneman Douglas
-University Of Florida,Luke McNeillie,9,RHP,So.,75,190,Milton
-University Of Florida,Colby Shelton,10,INF,Jr.,72,205,Bloomingdale (Alabama)
-University Of Florida,Brendan Lawson,11,INF,Fr.,75,215,P27 Academy
-University Of Florida,Liam Peterson,12,RHP,So.,77,220,Calvary Christian
-University Of Florida,Landon Stripling,13,INF,So.,72,200,Parkview (Texas Tech)
-University Of Florida,Joshua Whritenour,15,RHP,Fr.,74,195,A3 Academy
-University Of Florida,Hayden Yost,16,OF,So.,73,195,Sickles
-University Of Florida,Jacob Gomberg,17,LHP,So.,70,180,Marjory Stoneman Douglas
-University Of Florida,Pierce Coppola,18,LHP,R-Jr.,80,245,Verona
-University Of Florida,Jake Clemente,20,RHP,R-So.,75,225,Marjory Stoneman Douglas
-University Of Florida,Caden McDonald,21,RHP/1B,R-Fr.,75,200,Sickles
-University Of Florida,Jackson Barberi,22,RHP,Fr.,76,180,Brookwood
-University Of Florida,Billy Barlow,23,RHP,R-Jr.,74,220,North Myrtle Beach (Clemson)
-University Of Florida,Blake Brookins,24,OF,So.,77,225,Miami Palmetto
-University Of Florida,Kolt Myers,25,INF,Fr.,74,190,St. John's Country Day
-University Of Florida,Niko Janssens,26,LHP,Fr.,76,200,A3 Academy
-University Of Florida,Blaine Rowland,27,RHP,Fr.,75,220,Durant
-University Of Florida,Luke Heyman,28,C,Jr.,76,220,Lake Brantley
-University Of Florida,Brody Donay,29,C,Jr.,77,235,Lakeland Christian (Virginia Tech)
-University Of Florida,Ashton Wilson,30,OF/INF,Jr.,72,200,TNXL Academy (Charleston Southern)
-University Of Florida,Frank Menendez,31,LHP,So.,73,215,Doral Academy Charter
-University Of Florida,McCall Biemiller,33,LHP,Fr.,74,180,Tampa Jesuit
-University Of Florida,Alex Philpott,34,RHP,So.,78,200,Strawberry Crest
-University Of Florida,Brock Clayton,35,C/OF,Fr.,75,210,Pensacola Catholic
-University Of Florida,Matthew Jenkins,37,RHP,So.,78,195,Lafayette (Santa Fe College)
-University Of Florida,Mason Laurito,38,LHP,So.,72,175,Forest (Gulf Coast CC)
-University Of Florida,Cole Bullen,40,C,R-Jr.,69,175,Villages Charter (College of Central Florida)
-University Of Florida,Felix Ong,44,RHP,Fr.,76,220,Key West
-University Of Florida,Schuyler Sandford,45,RHP,Fr.,78,215,St. John's Country Day
-University Of Florida,Aidan King,47,RHP,Fr.,74,195,Bishop John J. Snyder
-University Of Florida,Carson Montsdeoca,99,RHP,Fr.,75,205,Fort Meade
-University Of Missouri,Cameron Benson,1,INF/OF,Jr.,75,185,Southfield HS for the Arts & Technology
-University Of Missouri,Brock Daniels,2,INF/OF,Jr.,73,195,St. John Vianney HS
-University Of Missouri,Peyton Basler,3,INF,Jr.,72,195,Lansing HS
-University Of Missouri,Jedier Hernandez,4,C,Sr.,72,200,Trenton Catholic Academy
-University Of Missouri,Pierre Seals,5,OF,Sr.,72,210,Houston HS
-University Of Missouri,Kaden Peer,7,OF/INF,So.,74,185,CBC HS
-University Of Missouri,Gehrig Goldbeck,10,INF,Jr.,73,175,Tonganoxie HS
-University Of Missouri,Austin Henry,11,RHP,So.,77,220,Dell Rapids HS
-University Of Missouri,Tyler Macon,12,INF,R-Fr.,71,175,Kirkwood HS
-University Of Missouri,Brady Picarelli,13,OF,Fr.,74,200,Eureka HS
-University Of Missouri,Isaiah Frost,14,OF,Sr.,71,197,Blue Springs South HS
-University Of Missouri,Chris Patterson,17,INF,Fr.,75,190,Prestonwood Academy
-University Of Missouri,Jackson Lovich,18,INF,Jr.,76,192,Blue Valley West HS
-University Of Missouri,Keegan Knutson,19,INF,Jr.,70,195,Combine Academy
-University Of Missouri,Trey Lawrence,20,INF/RHP,Fr.,75,180,Palmetto HS
-University Of Missouri,Sam Horn,21,RHP,So.,76,217,Collins Hill
-University Of Missouri,Kadden Drew,22,LHP,Jr.,74,210,Notre Dame Prep
-University Of Missouri,Ian Lohse,23,LHP,Gr.,72,199,Marquette HS
-University Of Missouri,Trey Callaway,24,UTIL,Fr.,73,215,Dutchtown HS
-University Of Missouri,Brock Lucas,25,RHP,Jr.,75,229,St. Elizabeth HS
-University Of Missouri,Victor Christal,26,RHP,Fr.,72,190,Bishop Miege HS
-University Of Missouri,PJ Green,27,OF/RHP,Fr.,74,195,Sandy Creek HS
-University Of Missouri,Josh Kirchhoff,28,RHP,Jr.,75,210,Concordia Academy-Roseville
-University Of Missouri,James Vaughn,29,RHP,Gr.,77,240,Collegiate School
-University Of Missouri,Wil Libbert,30,LHP,R-Fr.,73,205,Blair Oaks HS
-University Of Missouri,Kaden Jacobi,32,RHP,Sr.,75,220,Liberty HS
-University Of Missouri,Daniel Wissler,35,LHP,Jr.,74,185,Fort Zumwalt West HS
-University Of Missouri,Aeneas Clark,36,RHP,Jr.,75,205,Northwest Christian HS
-University Of Missouri,Aden Malpass,37,OF,Fr.,72,175,John Carroll Catholic HS
-University Of Missouri,Blake Simpson,38,INF,Jr.,74,185,Pickering HS
-University Of Missouri,Charlie Miller,39,RHP,So.,75,185,Russellville HS
-University Of Missouri,Brady Kehlenbrink,40,LHP,Fr.,74,205,Parkway South HS
-University Of Missouri,Nic Smith,41,LHP,Jr.,75,198,Alvin C. York Institute
-University Of Missouri,Javyn Pimental,43,LHP,Sr.,75,213,Kamehameha HS
-University Of Missouri,Xavier Lovett,44,RHP,Gr.,72,190,Westfield HS
-University Of Missouri,Cayden Nicoletto,48,OF,Sr.,72,190,Baldivis Secondary College
-University Of Missouri,Tony Neubeck,49,LHP,Jr.,74,237,Mahtomedi HS
-University Of Missouri,Ben Smith,50,RHP,So.,74,195,Catholic HS
-University Of Missouri,Jaylen Merchant,51,RHP,So.,72,180,Grayson HS
-University Of Missouri,Josh McDevitt,54,RHP,So.,74,195,Effingham HS
-University Of Missouri,Seth McCartney,58,RHP,Jr.,72,200,Brandon HS
-University Of Missouri,Mateo Serna,88,C,So.,72,195,American Heritage HS
-University Of Oklahoma,Jason Walk,1,OF,Jr.,70,166,Harrison HS
-University Of Oklahoma,Myles Davis,2,INF,So.,72,213,Marion HS
-University Of Oklahoma,Cayden Brumbaugh,3,UTL,Sr.,69,182,Edmond Santa Fe HS
-University Of Oklahoma,Alec Blair,4,OF,Fr.,78,195,De La Salle HS
-University Of Oklahoma,Nolan Stevens,5,OF/LHP,Jr.,74,216,Franklin HS
-University Of Oklahoma,Kyle Branch,6,INF,So.,71,182,Lovejoy HS
-University Of Oklahoma,Jaxon Willits,7,INF,Jr.,72,203,Fort Cobb-Broxton HS
-University Of Oklahoma,Uriah Walters,8,INF,Jr.,74,193,Weatherford JC
-University Of Oklahoma,Camden Johnson,9,UTL,Jr.,72,176,Boerne HS
-University Of Oklahoma,Brendan Brock,10,C/OF,Jr.,75,200,Mascoutah HS
-University Of Oklahoma,Gerardo Prado,11,OF,Jr.,75,190,Puerto Rico Baseball Academy HS
-University Of Oklahoma,Kadyn Leon,12,RHP,So.,72,182,McLennan CC
-University Of Oklahoma,Connor Larkin,13,UTL,Fr.,75,194,Cherry Creek HS
-University Of Oklahoma,Cooper Smith,14,1B,Jr.,72,197,Marlow HS
-University Of Oklahoma,Dayton Tockey,16,INF,Sr.,73,230,Weatherford HS
-University Of Oklahoma,Dasan Harris,17,OF,Jr.,73,181,Plano East HS
-University Of Oklahoma,Gavyn Jones,18,LHP/OF,Jr.,73,206,White Oak HS
-University Of Oklahoma,Jaxon Grossman,19,RHP,Jr.,76,227,Makawoo HS
-University Of Oklahoma,Trey Gambill,20,OF,Sr.,71,200,Lone Peak HS
-University Of Oklahoma,Drew Dickerson,21,OF,So.,76,210,Lee's Summit West HS
-University Of Oklahoma,LJ Mercurius,22,RHP,Jr.,74,175,Faith Lutheran HS
-University Of Oklahoma,Xander Mercurius,23,RHP,Fr.,70,186,Durango HS
-University Of Oklahoma,Mason Bixby,25,RHP,Jr.,79,239,Lady Bird Johnson HS
-University Of Oklahoma,Drew Rerick,27,RHP,So.,76,243,Fargo Davies HS
-University Of Oklahoma,Cole Leach,28,C/INF,Fr.,75,218,Hilldale HS
-University Of Oklahoma,Jaden Barfield,29,LHP,So.,72,216,Pearland HS
-University Of Oklahoma,Michael Catalano,30,RHP,So.,72,200,Frisco HS
-University Of Oklahoma,Cameron Johnson,31,LHP,Jr.,78,256,IMG Academy
-University Of Oklahoma,Brisco Smith,32,RHP,Fr.,73,169,Duncan HS
-University Of Oklahoma,Isaac Williams,33,RHP,Jr.,73,200,Fleming Island HS
-University Of Oklahoma,Joey McMannis,34,RHP,Jr.,76,228,Catocin HS
-University Of Oklahoma,Jason Bodin,35,RHP,Jr.,75,193,Orangefield HS
-University Of Oklahoma,Nick Wesloski,37,RHP,Fr.,75,219,McKinney Boyd HS
-University Of Oklahoma,Trent Collier,39,LHP,So.,74,241,"Weatherford, JC"
-University Of Oklahoma,Aidan Tomlinson,40,RHP,Fr.,76,214,Dewar HS
-University Of Oklahoma,Gunnar Dillard,41,C,Fr.,72,200,Wall HS
-University Of Oklahoma,Reid Hensley,42,RHP,Gr.,72,214,Lufkin HS
-University Of Oklahoma,Jordan Stribling,45,LHP,So.,77,219,Highland Park HS
-University Of Oklahoma,Deiten Lachance,48,C,Jr.,77,231,McLennan CC
-University Of Oklahoma,Jackson Cleveland,49,RHP,Sr.,74,206,Deer Park HS
-University Of Oklahoma,Jackson Kornylo,52,RHP,Fr.,77,192,TNXL Academy
-University Of Oklahoma,Nate Smithburg,54,LHP,R-So.,74,257,Fairfield HS
-University Of Oklahoma,Vaughn Neckar,55,RHP,Fr.,75,257,Vista Murrieta HS
-University Of Oklahoma,Cord Rager,99,LHP/INF,Fr.,78,237,Maypearl HS
-University Of Alabama,Justin Lebron,1,INF,So.,74,180,Archbishop Edward McCarthy
-University Of Alabama,Kade Snell,3,OF Is Captain (C),R-Sr.,73,210,Wicksburg
-University Of Alabama,Riley Quick,4,RHP,R-So.,78,245,Hewitt-Trussville
-University Of Alabama,Richie Bonomolo Jr.,5,OF,Jr.,71,200,Cardinal Hayes
-University Of Alabama,Beau Bryans,6,LHP,Jr.,72,195,Madison Central
-University Of Alabama,Matthew Heiberger,7,LHP,So.,75,210,Oak Mountain
-University Of Alabama,Tyler Fay,8,RHP,R-So.,77,215,Grand Island Senior
-University Of Alabama,Bryce Fowler,9,OF,R-Jr.,74,190,Germantown
-University Of Alabama,Brady Neal,10,C/INF,Jr.,70,190,IMG Academy
-University Of Alabama,Coulson Buchanan,11,RHP,Sr.,70,185,North Gwinnett
-University Of Alabama,JT Blackwood,12,RHP,Jr.,74,210,Hartselle
-University Of Alabama,Luke Vaughn,13,C,So.,74,200,Elder
-University Of Alabama,Carson Ozmer,14,RHP,Gr.,74,210,John H. Guyer
-University Of Alabama,Coleman Mizell,15,OF,So.,75,230,Hartselle
-University Of Alabama,Jonathan Stevens,16,RHP,So.,73,215,Briarwood Christian
-University Of Alabama,Will Plattner,17,C,Jr.,73,205,Glenwood
-University Of Alabama,Will Hodo,18,INF/OF,Sr.,75,225,Wayne Academy
-University Of Alabama,Aeden Finateri,19,RHP,Sr.,72,235,Avon Old Farms
-University Of Alabama,Zane Adams,20,LHP,So.,76,195,Porter
-University Of Alabama,Brennen Norton,21,INF,Sr.,69,195,Cullman
-University Of Alabama,Braylon Myers,22,RHP,Sr.,74,205,Oak Grove
-University Of Alabama,Aidan Moza,23,RHP,Sr.,73,195,North Cobb Christian
-University Of Alabama,Tate Robertson,24,LHP,Sr.,72,170,Northridge
-University Of Alabama,Peyton Steele,26,OF,Fr.,73,195,Hartselle
-University Of Alabama,Garrett Staton,27,INF,R-Sr.,72,195,North Forsyth
-University Of Alabama,Danny Heintz,29,RHP,R-Sr.,78,235,Green Hope
-University Of Alabama,Anthony Pesci,30,RHP,Fr.,76,205,Orchard Lake Saint Mary's Prep
-University Of Alabama,Jon Young Jr.,31,INF,Fr.,73,190,Cherry Hill West
-University Of Alabama,Jason Torres,32,INF,Jr.,73,230,Miami Springs
-University Of Alabama,Ariston Veasey,33,RHP/UTL,So.,73,190,Starr's Mill
-University Of Alabama,Hagan Banks,36,RHP,R-Jr.,76,215,Calhoun
-University Of Alabama,Andre Modugno,37,INF/RHP,Fr.,77,220,IMG Academy
-University Of Alabama,Zach Kittrell,38,RHP,Jr.,72,195,Bayside Academy
-University Of Alabama,Sam Mitchell,39,RHP,So.,79,235,Bob Jones
-University Of Alabama,Sean Griggs,40,INF,Fr.,74,195,Red Bank Catholic
-University Of Alabama,Connor Ball,41,LHP,R-Jr.,72,180,Chelsea
-University Of Alabama,Ahmaad Duff,42,OF,Fr.,67,155,Lawrence Central
-University Of Alabama,Jack Ketchum,43,RHP,Fr.,75,210,Heritage Academy
-University Of Alabama,Packy Bradley-Cooney,44,RHP,Sr.,74,210,Arlington Catholic
-University Of Alabama,Jackson Hunter,45,RHP,Fr.,75,190,Hazel Green
-University Of Alabama,Carson Kuehne,46,LHP,Fr.,77,195,IMG Academy
-University Of Alabama,JoJo Williamson,47,INF,Fr.,68,175,Hartselle
-University Of Alabama,Bobby Alcock,48,RHP,R-Sr.,77,230,The Winchendon School
-University Of Alabama,Nash Wagner,49,RHP,Fr.,77,225,Zionsville Community
-University Of Alabama,Connor Lehman,50,LHP,Fr.,74,210,Stewart County
-University Of Alabama,Ashton Alston,52,RHP,Fr.,78,205,Christian Community Schools
-University Of Alabama,Egan Lowery,67,RHP,So.,73,184,McAdory
-University Of Alabama,Austin Morris,99,RHP,R-So.,76,210,Mortimer Jordan
-University Of Washington,Isaac Yeager,0,RHP,Jr.,78,215,Bishop Blanchet
-University Of Washington,AJ Guerrero,1,OF,Sr.,72,210,Fife
-University Of Washington,Colton Bower,2,C,R-So.,72,210,North Kitsap
-University Of Washington,Reeve Boyd,3,INF,R-Fr.,73,190,Seattle Prep
-University Of Washington,Sawyer Parkin,4,RHP,Sr.,71,195,Columbia River
-University Of Washington,Julian Sanders,5,OF,Gr.,74,210,Lakeside
-University Of Washington,Carson Crawford,6,INF,Sr.,74,200,Cardinal Newman
-University Of Washington,Blake Wilson,7,INF,So.,70,175,Santa Margarita Catholic
-University Of Washington,Cooper Whitton,9,OF,Jr.,75,200,Santa Fe Christian
-University Of Washington,Braeden Terry,10,OF,Sr.,72,200,Newport
-University Of Washington,Jase Evangelista,11,RHP,So.,74,195,Martin Luther King
-University Of Washington,Casen Taggart,12,INF/OF,Sr.,77,225,Everett
-University Of Washington,Micah Bujacich,13,RHP,Fr.,75,190,Steilacoom
-University Of Washington,Will Woodward,15,LHP,R-So.,79,225,Eastlake
-University Of Washington,Trevor Kole,16,INF,Gr.,72,200,Gibbons
-University Of Washington,Matthew Henning,17,RHP/OF,Fr.,73,200,West Seattle
-University Of Washington,Boston Warkentin,18,RHP,R-So.,74,205,Foothills Composite
-University Of Washington,Jackson Hotchkiss,19,OF,Fr.,75,190,Battle Ground
-University Of Washington,Easton O'Neal,20,C,Fr.,73,205,West Valley
-University Of Washington,Lane Simonsen,21,RHP,Fr.,74,195,Lynden
-University Of Washington,Max Banks,22,RHP,Sr.,76,225,Stuart Hall
-University Of Washington,Colin Blanchard,23,C,R-Jr.,73,195,JSerra Catholic
-University Of Washington,Malakhi Knight,24,OF,Sr.,75,205,Marysville Getchell
-University Of Washington,Reilly McAdams,25,RHP,R-Sr.,78,235,Ingraham
-University Of Washington,Charlie Denomme,26,RHP,So.,76,225,Thayer Academy
-University Of Washington,Justin Tims,27,RHP/INF,Fr.,75,195,Villa Park
-University Of Washington,Gunnar Nichols,31,RHP,Jr.,76,185,John Burroughs
-University Of Washington,Josh Emanuels,32,RHP,R-Sr.,75,210,Interlake
-University Of Washington,Jack Sand,33,LHP,So.,70,195,Crean Lutheran
-University Of Washington,Noah Sorensen,34,RHP,Fr.,74,210,North Kitsap
-University Of Washington,Peysen Sweeney,35,RHP,R-Jr.,77,235,Liberty
-University Of Washington,Bradley Gilbert,37,RHP,Fr.,72,195,Aquinas
-University Of Washington,Jackson Thomas,39,RHP,Sr.,75,200,Mountain View
-University Of Washington,Tommy Curran,40,LHP,Fr.,74,180,De La Salle
-University Of Washington,Carston Pearson,41,OF,So.,72,200,Dublin
-University Of Washington,Luke Klooster,43,C,Fr.,70,190,O'Dea
-University Of Washington,Grady Woodward,44,OF,Fr.,74,205,Eastlake
-University Of Washington,Jaxson Gore,45,RHP,So.,72,190,North Kitsap
-University Of Washington,Sam DeCarlo,51,INF,Jr.,69,190,Millikan
-University Of Washington,Tommy Brandenburg,55,RHP,R-Jr.,71,195,Kalama
-University Of Washington,Nic Bronzini,95,LHP,R-So.,76,250,California
-University Of Washington,Logan Anderson,99,RHP,R-Fr.,76,210,Shorewood
-University Of Oregon,Tyler Jones,1,RHP,Fr.,75,200,Woodinville HS
-University Of Oregon,Grayson Grinsell,2,LHP,Jr.,73,195,Reno HS
-University Of Oregon,Carter Garate,3,INF,Jr.,74,185,Murrieta Mesa HS
-University Of Oregon,Toby Twist,4,LHP,So.,73,205,Bakersfield Christian HS
-University Of Oregon,Burke-Lee Mabeus,5,C,Fr.,76,215,Bishop Gorman HS
-University Of Oregon,Jack Brooks,6,UTL,So.,70,190,Vanden HS
-University Of Oregon,Hunter Hyatt,7,LHP,R-Fr.,75,210,Bellevue HS
-University Of Oregon,Maddox Molony,9,INF,So.,74,210,Thurston HS
-University Of Oregon,Collin Clarke,10,RHP,So.,75,205,Santa Margarita Catholic HS
-University Of Oregon,Ryan Cooney,12,INF,So.,72,200,Jesuit HS
-University Of Oregon,Coen Niclai,13,C,Fr.,74,215,Service HS
-University Of Oregon,Jaxon Jordan,15,RHP,Sr.,77,210,Oak Park HS
-University Of Oregon,Cole Fisher,16,RHP,Jr.,74,210,Hatboro-Horsham HS
-University Of Oregon,Drew Smith,17,INF/OF,Jr.,74,205,Buchanan HS
-University Of Oregon,Jax Gimenez,19,INF/OF,Fr.,74,200,Whitney HS
-University Of Oregon,Parker Stinson,20,OF,Sr.,72,210,Yorktown HS
-University Of Oregon,Michael Meckna,21,RHP,Fr.,75,200,Elkhorn South HS
-University Of Oregon,Julien Hernandez,22,RHP,Sr.,73,200,Menlo School
-University Of Oregon,Kellan Knox,23,RHP,Fr.,74,210,Tenino HS
-University Of Oregon,Ian Umlandt,24,LHP,Jr.,72,210,Sherwood HS
-University Of Oregon,Jacob Walsh,25,1B,Sr.,76,225,Desert Oasis HS
-University Of Oregon,Mason Neville,26,OF,Jr.,75,210,Basic HS
-University Of Oregon,Chase Meggers,27,C,Jr.,72,205,Rocklin HS
-University Of Oregon,Will Sanford,28,RHP,Fr.,72,200,Point Loma HS
-University Of Oregon,Seth Mattox,31,RHP,Sr.,75,190,Xavier College Prep
-University Of Oregon,Jason Reitz,33,RHP,Jr.,83,215,Pioneer HS
-University Of Oregon,Santiago Garcia,34,LHP,So.,72,180,Centennial HS
-University Of Oregon,Jeffery Heard,35,OF,Sr.,74,215,Valley Christian HS
-University Of Oregon,Sam Boyle,37,LHP,Jr.,74,200,Columbia River HS
-University Of Oregon,Gabe Howard,38,RHP,Fr.,75,200,West Linn HS
-University Of Oregon,Kayle Pisano,40,1B,Fr.,75,225,Clackamas HS
-University Of Oregon,Tanner Bradley,41,RHP,Fr.,73,185,Cardinal Newman HS
-University Of Oregon,Dominic Hellman,45,INF,Jr.,78,250,Henry M. Jackson HS
-University Of Oregon,Ryan Featherston,46,RHP,So.,74,225,Stockdale HS
-University Of Oregon,Blake Crawford,50,LHP,Fr.,76,215,West Linn HS
-University Of Oregon,Nate Christman,51,RHP,Fr.,75,220,Aquinas HS
-University Of Oregon,Alex Umland,52,RHP,Fr.,76,225,Winward School
-University Of Oregon,Isaac Evaniew,53,RHP,Jr.,74,260,Churchill HS
-University Of Oregon,Cole Stokes,55,RHP,So.,78,230,Redondo Union HS
-University Of Oregon,Zach Justice,66,C,R-Fr.,73,210,Summit HS
-University Of Oregon,Anson Aroz,77,C,Jr.,71,195,Placer HS
-University Of Indiana,Jasen Oliver,2,INF,So.,71,185,Orchard Lake St. Mary's Prep
-University Of Indiana,Tyler DeMartino,3,OF,Gr.,72,205,Walt Whitman
-University Of Indiana,Devin Taylor,5,OF,Jr.,73,215,LaSalle
-University Of Indiana,T.J. Schuyler,6,C,So.,74,220,Antioch
-University Of Indiana,Tyler Cerny,8,INF,Jr.,74,205,Center Grove
-University Of Indiana,Jake Stadler,9,C,R-Sr.,73,215,Mount Vernon
-University Of Indiana,Josh Pyne,10,INF,Sr.,72,195,Linton-Stockton
-University Of Indiana,Will Moore,11,INF,Fr.,69,170,Paris District
-University Of Indiana,Hogan Denny,12,C/OF,Fr.,72,215,Mooresville
-University Of Indiana,Andrew Wiggins,13,OF,So.,76,225,Heritage Christian
-University Of Indiana,Brayton Thomas,14,LHP,Fr.,77,220,Bishop Dwenger
-University Of Indiana,Cooper Malamazian,15,INF,Fr.,74,185,Nazareth Academy
-University Of Indiana,Anthony Gubitosi,16,LHP,Jr.,71,192,Colts Neck
-University Of Indiana,Ben Grable,17,RHP,Gr.,76,215,Flintridge Prep
-University Of Indiana,Grant Holderfield,18,LHP,R-Jr.,75,220,Oak Park & River Forest
-University Of Indiana,Cole Decker,19,OF,Fr.,71,185,Evansville North
-University Of Indiana,Korbyn Dickerson,20,OF,R-So.,73,205,Trinity (Ky.)
-University Of Indiana,Jacob Vogel,21,RHP,R-So.,79,250,Jennings County
-University Of Indiana,Joey Brenczewski,23,INF,R-So.,75,195,Fishers
-University Of Indiana,Drew Buhr,24,RHP,Gr.+,73,205,Austin
-University Of Indiana,Seth Benes,26,RHP,So.,74,210,Liberty-Wentzville
-University Of Indiana,Clayton Weisheit,27,RHP,So.,78,235,Forest Park
-University Of Indiana,Matthew Bohnert,28,LHP,R-Sr.,68,187,Cactus Shadows
-University Of Indiana,Ryan Kraft,29,LHP,Sr.,76,220,Lincoln-Way Central
-University Of Indiana,Ryan Rushing,30,LHP,So.,70,190,IMG Academy
-University Of Indiana,Henry Brummel,31,RHP,Fr.,77,210,Pontiac
-University Of Indiana,Cole Gilley,32,RHP,R-Sr.,73,205,Columbus East
-University Of Indiana,Trey Telfer,33,RHP,Fr.,73,185,Cathedral Catholic
-University Of Indiana,Jake Hanley,34,INF,Fr.,78,235,Mason
-University Of Indiana,Evan O'Neill,35,RHP,R-Fr.,76,220,Blessed Trinity Catholic
-University Of Indiana,Micah Vessely,36,RHP,Fr.,73,185,Greenwood
-University Of Indiana,Ryan Gilbert,37,OF,R-So.,77,235,Kenston
-University Of Indiana,Jackson Yarberry,38,RHP,So.,75,225,Timberland
-University Of Indiana,Michael Lorenzetti,39,RHP,Jr.,80,225,Taft School
-University Of Indiana,Gavin Seebold,40,RHP,R-Sr.,74,205,Jeffersonville
-University Of Indiana,Deron Swanson,41,LHP,Sr.,75,195,Snider
-University Of Indiana,Brayden Ricketts,42,C,Fr.,74,205,Jean Augustine Secondary
-University Of Indiana,Caleb Koskie,43,LHP/OF,Fr.,72,185,Benilde-St.Margaret's
-University Of Indiana,Will Eldridge,44,RHP,Jr.,76,210,Carroll (Flora)
-University Of Indiana,Pete Haas,51,RHP,R-Jr.,72,195,Keene
-University Of Indiana,Aydan Decker-Petty,55,RHP,Jr.,77,205,New Castle
-University Of Minnesota,Jake Larson,1,INF,Sr.,72,200,Kentlake
-University Of Minnesota,Easton Richter,2,INF/RHP,Jr.,74,L/R,Rosemount
-University Of Minnesota,Preston Leon,3,OF,R-Jr.,71,S/R,Dakota High School (Macomb)
-University Of Minnesota,Jack Mosh,4,INF,Jr.,70,180,St. Pius X
-University Of Minnesota,Kris Hokenson,6,OF/LHP,Jr.,72,180,St. Louis Park
-University Of Minnesota,Jack Spanier,7,INF,So.,72,180,Rocori
-University Of Minnesota,Jameson Martin,8,INF,Fr.,71,180,St. Lawrence
-University Of Minnesota,Parker Knoll,9,OF,Sr.,72,220,Fox Valley Lutheran
-University Of Minnesota,Sam Hunt,10,C,R-Jr.,74,205,IMG Academy
-University Of Minnesota,Landen Lozier,12,INF,So.,70,170,Notre Dame Academy
-University Of Minnesota,Cole Selvig,13,RHP,So.,72,205,Regis Catholic
-University Of Minnesota,Drew Berkland,15,OF/C,Jr.,72,190,Wayzata
-University Of Minnesota,Josh Fitzgerald,16,OF,R-Sr.,72,190,Newman Catholic
-University Of Minnesota,Luke Ryerse,17,RHP,Fr.,73,218,East Ridge High School
-University Of Minnesota,Jack Taxdahl,19,C,So.,70,190,Cretin-Derham Hall
-University Of Minnesota,Kyle Remington,20,RHP/INF,So.,72,165,Grand Rapids Christian
-University Of Minnesota,Jonathan Dobis,21,RHP/OF,Fr.,72,180,St. Thomas Academy
-University Of Minnesota,Weber Neels,22,C/INF,Jr.,73,210,East Ridge
-University Of Minnesota,Jake Quinn,23,OF,Fr.,75,190,Cretin Derham-Hall
-University Of Minnesota,Jake Perry,27,INF,Sr.,76,205,Hopkins
-University Of Minnesota,Caden Capomaccio,28,RHP,Jr.,73,185,Notre Dame Academy
-University Of Minnesota,Brayden Hellum,29,OF,So.,68,190,Stillwater
-University Of Minnesota,Seth Clausen,30,RHP,Sr.,73,210,Pleasant Valley
-University Of Minnesota,Joe Sperry,33,RHP/DH,Jr.,74,R/R,Rochester Lourdes
-University Of Minnesota,Jake Elbeery,35,INF,Sr.,76,225,Austin Prep
-University Of Minnesota,Parker Lewin,37,RHP/OF,So.,73,175,Orono
-University Of Minnesota,Adam Urban,38,RHP,Fr.,72,N/A,Wauwatosa West
-University Of Minnesota,Nick Argento,39,RHP,R-So.,78,225,Wayzata HS
-University Of Minnesota,Tyler Hemmesch,40,RHP,So.,73,195,Sartell
-University Of Minnesota,Charlie Sutherland,41,INF/OF,So.,74,200,Duluth East
-University Of Minnesota,Eli Sundquist,43,RHP,Gr.,73,N/A,Utah Valley State
-University Of Minnesota,Hunter Cook,44,RHP,Fr.,74,180,North Polk
-University Of Minnesota,Noah Rooney,46,LHP,R-Jr.,72,170,Perham
-University Of Minnesota,Simon Skroch,47,LHP,Fr.,73,175,Yorkville High School
-University Of Minnesota,Justin Thorsteinson,51,LHP,R-Sr.,76,233,Langley Secondary School
-University Of Minnesota,Will Whelan,54,LHP,So.,74,195,Centennial
-Texas A&M University,Jamal George,1,UTIL,Jr.,71,185,International Baseball Academy
-Texas A&M University,Jacob Galloway,2,C,Jr.,69,180,Harvard Westlake
-Texas A&M University,Terrence Kiel II,3,INF/OF,Fr.,73,185,Pace Academy
-Texas A&M University,Gavin Kash,4,INF/OF,Sr.,75,215,Monsignor Kelly Catholic
-Texas A&M University,Sawyer Farr,5,INF,Fr.,76,190,Boswell
-Texas A&M University,Kaeden Kent,6,INF,Jr.,74,200,Lake Travis
-Texas A&M University,Wyatt Henseler,8,INF,Gr.,73,215,Emmaus
-Texas A&M University,Gavin Grahovac,9,INF/OF,So.,74,220,Villa Park
-Texas A&M University,Ben Royo,10,INF,Jr.,74,200,Veterans
-Texas A&M University,Hayden Schott,12,OF,Gr.,74,220,Culver Military Academy
-Texas A&M University,Caden Sorrell,13,OF,So.,75,205,Marcus
-Texas A&M University,Isaac Morton,14,RHP,So.,75,190,Spring Lake Park
-Texas A&M University,Matt Bergevin,15,INF,Gr.,76,250,Marcos De Niza
-Texas A&M University,Bear Harrison,16,C,So.,75,230,De La Salle
-Texas A&M University,Jace LaViolette,17,OF,Jr.,78,230,Tompkins
-Texas A&M University,Ryan Prager,18,LHP,R-Jr.,75,200,Hillcrest
-Texas A&M University,Troy Wansing,19,LHP,Sr.,76,225,Staley
-Texas A&M University,Aiden Sims,20,RHP,Fr.,74,180,Forney
-Texas A&M University,Weston Moss,21,RHP,So.,76,190,Montgomery Lake Creek
-Texas A&M University,Myles Patton,23,LHP,Jr.,75,205,Millikan
-Texas A&M University,Clayton Freshcorn,25,RHP,So.,72,180,Waller
-Texas A&M University,Gavin Lyons,27,RHP,Fr.,75,200,Hamden Hall
-Texas A&M University,Caden McCoy,28,LHP,Fr.,75,220,Bloomington North
-Texas A&M University,Kaiden Wilson,30,LHP,So.,74,200,Raymore-Peculiar
-Texas A&M University,Grant Cunningham,31,RHP,Jr.,75,225,Seattle Prep
-Texas A&M University,Brad Rudis,32,RHP,Sr.,72,195,Madisonville
-Texas A&M University,Justin Lamkin,33,LHP,Jr.,76,210,Calallen
-Texas A&M University,Josh Stewart,34,RHP,Sr.,74,195,St. Dominic Savio Catholic
-Texas A&M University,Sam Erickson,35,OF,Fr.,73,215,Flower Mound
-Texas A&M University,Ty Baker,37,RHP,R-Fr.,76,230,Second Baptist Academy
-Texas A&M University,Shane Sdao,38,LHP,Jr.,74,170,Lake Creek
-Texas A&M University,Houston Tomlinson,39,RHP,Fr.,73,180,Grand Oaks
-Texas A&M University,Blayne Lyne,40,RHP,Fr.,78,205,London
-Texas A&M University,Jackson Brasseux,41,LHP,R-Fr.,73,190,North Lamar
-Texas A&M University,Luke Jackson,44,RHP,R-So.,74,190,Lake Travis
-Texas A&M University,Nathan Tobin,45,OF,Fr.,71,190,VR Eaton
-Texas A&M University,Blake Binderup,46,INF,R-So.,78,230,College Station
-Texas A&M University,Hayden Crites,47,C,Fr.,72,200,Paradise
-Texas A&M University,Marco Jones,48,INF/OF,Fr.,77,245,San Ramon Valley
-Texas A&M University,Austin Vargas,49,LHP,R-Fr.,80,235,Fulshear
-Texas A&M University,Rylan Hill,51,LHP,Fr.,75,200,Bryan
-Texas A&M University,Peyton Smith,62,RHP,Jr.,76,225,East Robertson
-Texas A&M University,Kyrin LeBlanc,99,RHP,Jr.,75,215,St. Martinville Senior
-University Of Mississippi,Brayden Randle,1,IF,So.,69,175,Rockwall
-University Of Mississippi,Riley Maddox,2,RHP,Sr.,73,210,Jackson Prep
-University Of Mississippi,Luke Cheng,3,IF,Sr.,72,185,Sherwood
-University Of Mississippi,Mitchell Sanford,4,OF,Sr.,74,210,Berwick
-University Of Mississippi,Owen Paino,6,IF,Fr.,75,225,Roy C. Ketcham
-University Of Mississippi,Luke Hill,7,IF,Jr.,73,200,Episcopal
-University Of Mississippi,Tate Sirmans,8,UT,Fr.,74,190,Lowndes
-University Of Mississippi,Hayden Federico,9,IF,Fr.,71,195,West Monroe
-University Of Mississippi,Cade Townsend,10,RHP,Fr.,73,185,Santa Margarita Catholic
-University Of Mississippi,Campbell Smithwick,12,C,So.,72,190,Oxford
-University Of Mississippi,Cooper Johnson,14,LHP/1B,Fr.,76,220,Mountain View
-University Of Mississippi,Brayden Jones,16,RHP,Jr.,72,200,Madison-Ridgeland Academy
-University Of Mississippi,Will McCausland,17,RHP,Jr.,72,190,Souderton Area
-University Of Mississippi,Ryan Moerman,18,OF,Sr.,72,210,Lockport Township
-University Of Mississippi,Walker Hooks,19,LHP,Fr.,76,265,Brandon
-University Of Mississippi,Collin Reuter,20,C/IF,Jr.,74,235,Magnolia Heights
-University Of Mississippi,Mason Morris,21,RHP,Jr.,76,225,Tupelo
-University Of Mississippi,Connor Spencer,22,RHP,Sr.,74,225,Hernando
-University Of Mississippi,Hudson Calhoun,23,RHP,So.,76,210,McCallie School
-University Of Mississippi,Austin Fawley,24,C,So.,73,205,Park Vista
-University Of Mississippi,Ethan Surowiec,25,IF,Fr.,73,220,Gulfport
-University Of Mississippi,Hunter Elliott,26,LHP,R-Jr.,75,215,Tupelo
-University Of Mississippi,Judd Utermark,27,IF,Jr.,77,250,Charlotte Christian
-University Of Mississippi,Connor Chisolm,28,OF,Sr.,70,180,Madison Central
-University Of Mississippi,Ryne Rodriguez,29,LHP,Jr.,74,190,Trinity Valley
-University Of Mississippi,Gunnar Dennis,32,LHP,Sr.,75,220,Pearl
-University Of Mississippi,Landon Waters,34,RHP,Jr.,73,210,Grenada
-University Of Mississippi,Owen Hancock,35,RHP,Fr.,77,205,Worth County
-University Of Mississippi,Will Furniss,36,IF,Jr.,76,240,Nacogdoches
-University Of Mississippi,Brett Moseley,37,OF,Fr.,75,195,Trussville
-University Of Mississippi,Patrick Galle,38,RHP,So.,74,215,Biloxi
-University Of Mississippi,Jackson Miller,39,OF,Fr.,72,195,Benjamin
-University Of Mississippi,JP Robertson,40,RHP,So.,72,190,Germantown
-University Of Mississippi,Cole Ketchum,43,RHP,R-So.,73,210,Heritage Academy
-University Of Mississippi,Jake Reigert,44,RHP,Fr.,78,238,East Ridge
-University Of Mississippi,Mason Nichols,45,RHP,Sr.,77,220,Jackson Prep
-University Of Mississippi,Sam Tookoian,47,RHP,Jr.,77,240,Buchanan
-University Of Mississippi,Taylor Rabe,50,RHP,R-Fr.,77,200,Greenville Senior
-University Of Mississippi,Isaac Humphrey,51,OF,Sr.,74,215,Owensboro
-University Of Mississippi,Alex Canney,55,RHP,Sr.,73,230,Durant
-University of Maryland,Colin Gibbs,0,Infielder,Fr.,75,192,St. John's College
-University of Maryland,Jacob Orr,1,Infield,Sr.,69,175,Thomas Johnson
-University of Maryland,Andrew Koshy,2,Right Handed Pitcher,So.,74,215,Kellenburg Memorial HS
-University of Maryland,Eddie Hacopian,3,Infielder,Sr.,75,195,Winston Churchill
-University of Maryland,Jordan Crosland,4,Infielder,So.,72,200,Combine Academy
-University of Maryland,Andrew Johnson,5,Left Handed Pitcher,Sr.,72,210,Glenelg
-University of Maryland,Liam Willson,6,Utility,So.,73,210,Herndon
-University of Maryland,Jake Yeager,7,Right Handed Pitcher,Fr.,76,205,Archbishop Spalding
-University of Maryland,Hollis Porter,9,Utility,R-So.,76,225,East Central
-University of Maryland,Chris Hacopian,10,Utility,So.,73,205,Winston Churchill
-University of Maryland,Elijah Lambros,11,Outfielder,Sr.,74,200,Fredericksburg Christian School
-University of Maryland,Devin Russell,12,Catcher,Jr.,74,205,Mountain Lakes
-University of Maryland,Logan Koester,13,Right Handed Pitcher,6th,76,220,Chaminade
-University of Maryland,Luke Keefer,14,Infielder,Fr.,74,190,North East
-University of Maryland,Alex Calarco,15,Catcher/Infielder,Sr.,77,250,New Trier
-University of Maryland,Omar Melendez,17,Left Handed Pitcher,Sr.,78,222,Leadership Christian Academy
-University of Maryland,Cristofer Cespedes,18,Right Handed Pitcher,Fr.,76,230,North Rockland
-University of Maryland,Evan Smith,20,Left Handed Pitcher,So.,73,215,PDG Academy
-University of Maryland,Joey McMannis,21,Right Handed Pitcher,So.,77,225,Catoctin
-University of Maryland,Kyle McCoy,22,Left Handed Pitcher,R-So.,78,205,Hunterdon School
-University of Maryland,James Gladden,24,Right Handed Pitcher,R-So.,72,205,Archbishop Curley
-University of Maryland,Ryan Bailey,25,Right Handed Pitcher,Fr.,73,195,Iona Prep
-University of Maryland,Jacob Hauk,26,Catcher,Fr.,75,220,Loyola Blakefield
-University of Maryland,Brayden Ryan,27,Right Handed Pitcher,R-So.,78,235,Lawrence Academy
-University of Maryland,Michael Iannazzo,28,Infielder,So.,72,180,Fairfield College Preparatory
-University of Maryland,EJ Hankerson,29,Outfielder,So.,70,195,Calvert Hall College
-University of Maryland,Paul Jones II,30,Infielder,Fr.,72,205,Cretin-Derham Hall
-University of Maryland,Parker Corbin,31,Infielder,Fr.,69,190,Cincinnati Country Day
-University of Maryland,Dom Moats,32,Outfielder,Fr.,72,212,Pro5 Baseball Academy
-University of Maryland,Aden Hill,33,Outfielder,Jr.,70,210,P27 Academy
-University of Maryland,Jake Morgan,34,Catcher,Fr.,71,175,IMG Academy
-University of Maryland,Ryan Van Buren,35,Right Handed Pitcher,Sr.,76,220,Abington
-University of Maryland,Logan Hastings,36,Right Handed Pitcher,Fr.,70,185,Huntingtown
-University of Maryland,Aidan Driscoll,37,Catcher,Fr.,68,198,St. John's Prep
-University of Maryland,Quinn Yellin,40,Right Handed Pitcher,Fr.,73,195,South River
-University of Maryland,Brayden Martin,42,Utility,So.,70,175,St. John's College
-University of Maryland,Devin Milberg,44,Left Handed Pitcher,Gr.,73,200,The Dalton School
-University of Maryland,Jack Wren,45,Right Handed Pitcher,Gr.,77,215,North Rockland
-Rutgers University,Jan Avila,38,INF,Jr.,75,200,PR Baseball Academy
-Rutgers University,Charles Batista,33,RHP/OF,Fr.,76,220,The Hun School
-Rutgers University,Quinn Berglin,9,RHP,Gr.,74,195,Pewaukee
-Rutgers University,Peyton Bonds,25,OF,So.,77,225,Franklin
-Rutgers University,Ryan Bradley,43,LHP,Gr.,71,200,St. John's Prep
-Rutgers University,Jared Carlucci,41,RHP,Fr.,76,220,Columbia
-Rutgers University,Yomar Carreras,12,INF,Fr.,72,190,North Brunswick Township
-Rutgers University,Matt Chatelle,28,C,Jr.,76,225,Austin Prep
-Rutgers University,Caden Christman,46,C,Fr.,73,200,PRO5 Academy
-Rutgers University,Trevor Cohen,4,OF,Jr.,73,195,Holy Spirit
-Rutgers University,Matthew Cruz,29,RHP,Fr.,71,175,Saint Dominic
-Rutgers University,Ty Doucette,36,INF,So.,74,205,TNXL Academy [Fla.]
-Rutgers University,Jordan Falco,48,RHP,Sr.,78,220,Center Moriches
-Rutgers University,Luke Fithian,15,RHP,Fr.,74,240,Cumberland County Tech
-Rutgers University,Mark Gialluisi,5,C,R-Fr.,70,190,Saint Joseph [Metuchen]
-Rutgers University,Zach Gleason,39,RHP,Sr.,74,215,Timberlane Regional [N.H.]
-Rutgers University,Connor Grotyohann,27,RHP/INF,Jr.,76,230,Pope John XXIII
-Rutgers University,Hunter Hoxie,2,LHP,Fr.,70,195,Jonathan Law
-Rutgers University,Brennan Hyde,8,OF,Gr.,71,170,Chamberlain
-Rutgers University,Cameron Johnson,3,LHP,Fr.,72,190,TNXL Academy [Fla.]
-Rutgers University,RJ Johnson Jr.,1,OF,Sr.,71,190,Kerr-Vance Academy
-Rutgers University,JD Jones,17,C,Sr.,72,200,Fairview
-Rutgers University,Tyler Kane,16,RHP,R-So.,69,165,Manalapan
-Rutgers University,Jack Kirchner,45,RHP,R-Fr.,76,225,Bishop Eustace
-Rutgers University,Zack Konstantinovsky,19,RHP,So.,74,215,North Brunswick Township
-Rutgers University,Landon Mack,18,RHP,Fr.,73,200,Bishop Eustace
-Rutgers University,Joe Mazza,37,LHP,Sr.,75,215,Manalapan
-Rutgers University,Evan McCoach,47,OF,Fr.,69,205,Neumann Goretti
-Rutgers University,Nolan Peel,11,RHP,Fr.,71,190,The Tome School [Md.]
-Rutgers University,Preston Prince,40,LHP,Jr.,77,235,Hilton
-Rutgers University,Andrew Rondini,22,RHP,Fr.,72,195,Canterbury
-Rutgers University,Dillon Ryan,7,RHP,Gr.,72,205,Sandwich
-Rutgers University,Pablo Santos,6,RHP/INF,Jr.,72,205,Don Bosco Prep
-Rutgers University,Justin Shadek,31,RHP,R-Fr.,78,235,Seton Hall Prep
-Rutgers University,Jack Sweeney,34,OF,Fr.,72,200,Allentown
-Rutgers University,JT Thompson,14,INF,Jr.,69,160,Wylie
-Rutgers University,Mike Timberlake,20,RHP,Jr.,79,225,Allentown
-Rutgers University,Nick Tomasetto,23,INF,R-Fr.,70,195,West Deptford
+College,Name,Jersey,Position,Class Year,Height,Weight,B/T,Last School
+University of Florida,Justin Nadeau,1,INF/OF,Jr.,72,195,L/R,Bartram Trail (Jacksonville)
+University of Florida,Ty Evans,2,OF,Sr.,74,215,R/R,Lakeland Christian
+University of Florida,Kyle Jones,3,OF,So.,75,185,R/R,North Oconee (Stetson)
+University of Florida,Cade Kurland,4,INF,Jr.,71,190,R/R,Berkeley Prep
+University of Florida,Blake Cyr,5,OF/INF,Jr.,71,190,R/R,Windermere (Miami)
+University of Florida,Bobby Boser,6,INF/OF,Sr.,73,215,R/R,Wiregrass Ranch (USF)
+University of Florida,Christian Rodriguez,8,RHP,R-Fr.,72,210,R/R,Marjory Stoneman Douglas
+University of Florida,Luke McNeillie,9,RHP,So.,75,190,L/R,Milton
+University of Florida,Colby Shelton,10,INF,Jr.,72,205,L/R,Bloomingdale (Alabama)
+University of Florida,Brendan Lawson,11,INF,Fr.,75,215,L/R,P27 Academy
+University of Florida,Liam Peterson,12,RHP,So.,77,220,R/R,Calvary Christian
+University of Florida,Landon Stripling,13,INF,So.,72,200,L/R,Parkview (Texas Tech)
+University of Florida,Joshua Whritenour,15,RHP,Fr.,74,195,L/R,A3 Academy
+University of Florida,Hayden Yost,16,OF,So.,73,195,L/L,Sickles
+University of Florida,Jacob Gomberg,17,LHP,So.,70,180,L/L,Marjory Stoneman Douglas
+University of Florida,Pierce Coppola,18,LHP,R-Jr.,80,245,L/L,Verona
+University of Florida,Jake Clemente,20,RHP,R-So.,75,225,R/R,Marjory Stoneman Douglas
+University of Florida,Caden McDonald,21,RHP/1B,R-Fr.,75,200,R/R,Sickles
+University of Florida,Jackson Barberi,22,RHP,Fr.,76,180,R/R,Brookwood
+University of Florida,Billy Barlow,23,RHP,R-Jr.,74,220,R/R,North Myrtle Beach (Clemson)
+University of Florida,Blake Brookins,24,OF,So.,77,225,L/R,Miami Palmetto
+University of Florida,Kolt Myers,25,INF,Fr.,74,190,R/R,St. John's Country Day
+University of Florida,Niko Janssens,26,LHP,Fr.,76,200,L/L,A3 Academy
+University of Florida,Blaine Rowland,27,RHP,Fr.,75,220,R/R,Durant
+University of Florida,Luke Heyman,28,C,Jr.,76,220,R/R,Lake Brantley
+University of Florida,Brody Donay,29,C,Jr.,77,235,R/R,Lakeland Christian (Virginia Tech)
+University of Florida,Ashton Wilson,30,OF/INF,Jr.,72,200,R/R,TNXL Academy (Charleston Southern)
+University of Florida,Frank Menendez,31,LHP,So.,73,215,L/L,Doral Academy Charter
+University of Florida,McCall Biemiller,33,LHP,Fr.,74,180,B/L,Tampa Jesuit
+University of Florida,Alex Philpott,34,RHP,So.,78,200,R/R,Strawberry Crest
+University of Florida,Brock Clayton,35,C/OF,Fr.,75,210,L/R,Pensacola Catholic
+University of Florida,Matthew Jenkins,37,RHP,So.,78,195,R/R,Lafayette (Santa Fe College)
+University of Florida,Mason Laurito,38,LHP,So.,72,175,L/L,Forest (Gulf Coast CC)
+University of Florida,Cole Bullen,40,C,R-Jr.,69,175,B/R,Villages Charter (College of Central Florida)
+University of Florida,Felix Ong,44,RHP,Fr.,76,220,R/R,Key West
+University of Florida,Schuyler Sandford,45,RHP,Fr.,78,215,R/R,St. John's Country Day
+University of Florida,Aidan King,47,RHP,Fr.,74,195,L/R,Bishop John J. Snyder
+University of Florida,Carson Montsdeoca,99,RHP,Fr.,75,205,R/R,Fort Meade
+University of Missouri,Cameron Benson,1,INF/OF,Jr.,75,185,L/R,Southfield HS for the Arts & Technology
+University of Missouri,Brock Daniels,2,INF/OF,Jr.,73,195,L/R,St. John Vianney HS
+University of Missouri,Peyton Basler,3,INF,Jr.,72,195,S/R,Lansing HS
+University of Missouri,Jedier Hernandez,4,C,Sr.,72,200,R/R,Trenton Catholic Academy
+University of Missouri,Pierre Seals,5,OF,Sr.,72,210,R/R,Houston HS
+University of Missouri,Kaden Peer,7,OF/INF,So.,74,185,L/R,CBC HS
+University of Missouri,Gehrig Goldbeck,10,INF,Jr.,73,175,L/R,Tonganoxie HS
+University of Missouri,Austin Henry,11,RHP,So.,77,220,R/R,Dell Rapids HS
+University of Missouri,Tyler Macon,12,INF,R-Fr.,71,175,R/R,Kirkwood HS
+University of Missouri,Brady Picarelli,13,OF,Fr.,74,200,L/R,Eureka HS
+University of Missouri,Isaiah Frost,14,OF,Sr.,71,197,L/L,Blue Springs South HS
+University of Missouri,Chris Patterson,17,INF,Fr.,75,190,R/R,Prestonwood Academy
+University of Missouri,Jackson Lovich,18,INF,Jr.,76,192,R/R,Blue Valley West HS
+University of Missouri,Keegan Knutson,19,INF,Jr.,70,195,R/R,Combine Academy
+University of Missouri,Trey Lawrence,20,INF/RHP,Fr.,75,180,R/R,Palmetto HS
+University of Missouri,Sam Horn,21,RHP,So.,76,217,R/R,Collins Hill
+University of Missouri,Kadden Drew,22,LHP,Jr.,74,210,R/L,Notre Dame Prep
+University of Missouri,Ian Lohse,23,LHP,Gr.,72,199,L/L,Marquette HS
+University of Missouri,Trey Callaway,24,UTIL,Fr.,73,215,S/R,Dutchtown HS
+University of Missouri,Brock Lucas,25,RHP,Jr.,75,229,R/R,St. Elizabeth HS
+University of Missouri,Victor Christal,26,RHP,Fr.,72,190,R/R,Bishop Miege HS
+University of Missouri,PJ Green,27,OF/RHP,Fr.,74,195,R/R,Sandy Creek HS
+University of Missouri,Josh Kirchhoff,28,RHP,Jr.,75,210,L/R,Concordia Academy-Roseville
+University of Missouri,James Vaughn,29,RHP,Gr.,77,240,R/R,Collegiate School
+University of Missouri,Wil Libbert,30,LHP,R-Fr.,73,205,L/L,Blair Oaks HS
+University of Missouri,Kaden Jacobi,32,RHP,Sr.,75,220,R/R,Liberty HS
+University of Missouri,Daniel Wissler,35,LHP,Jr.,74,185,L/L,Fort Zumwalt West HS
+University of Missouri,Aeneas Clark,36,RHP,Jr.,75,205,R/R,Northwest Christian HS
+University of Missouri,Aden Malpass,37,OF,Fr.,72,175,L/L,John Carroll Catholic HS
+University of Missouri,Blake Simpson,38,INF,Jr.,74,185,L/R,Pickering HS
+University of Missouri,Charlie Miller,39,RHP,So.,75,185,R/R,Russellville HS
+University of Missouri,Brady Kehlenbrink,40,LHP,Fr.,74,205,R/L,Parkway South HS
+University of Missouri,Nic Smith,41,LHP,Jr.,75,198,L/L,Alvin C. York Institute
+University of Missouri,Javyn Pimental,43,LHP,Sr.,75,213,L/L,Kamehameha HS
+University of Missouri,Xavier Lovett,44,RHP,Gr.,72,190,R/R,Westfield HS
+University of Missouri,Cayden Nicoletto,48,OF,Sr.,72,190,L/L,Baldivis Secondary College
+University of Missouri,Tony Neubeck,49,LHP,Jr.,74,237,L/L,Mahtomedi HS
+University of Missouri,Ben Smith,50,RHP,So.,74,195,R/R,Catholic HS
+University of Missouri,Jaylen Merchant,51,RHP,So.,72,180,R/R,Grayson HS
+University of Missouri,Josh McDevitt,54,RHP,So.,74,195,R/R,Effingham HS
+University of Missouri,Seth McCartney,58,RHP,Jr.,72,200,R/R,Brandon HS
+University of Missouri,Mateo Serna,88,C,So.,72,195,S/R,American Heritage HS
+University of Oklahoma,Jason Walk,1,OF,Jr.,70,166,S/R,Harrison HS
+University of Oklahoma,Myles Davis,2,INF,So.,72,213,R/R,Marion HS
+University of Oklahoma,Cayden Brumbaugh,3,UTL,Sr.,69,182,R/R,Edmond Santa Fe HS
+University of Oklahoma,Alec Blair,4,OF,Fr.,78,195,L/L,De La Salle HS
+University of Oklahoma,Nolan Stevens,5,OF/LHP,Jr.,74,216,L/L,Franklin HS
+University of Oklahoma,Kyle Branch,6,INF,So.,71,182,R/R,Lovejoy HS
+University of Oklahoma,Jaxon Willits,7,INF,Jr.,72,203,S/R,Fort Cobb-Broxton HS
+University of Oklahoma,Uriah Walters,8,INF,Jr.,74,193,R/R,Weatherford JC
+University of Oklahoma,Camden Johnson,9,UTL,Jr.,72,176,L/R,Boerne HS
+University of Oklahoma,Brendan Brock,10,C/OF,Jr.,75,200,R/R,Mascoutah HS
+University of Oklahoma,Gerardo Prado,11,OF,Jr.,75,190,R/R,Puerto Rico Baseball Academy HS
+University of Oklahoma,Kadyn Leon,12,RHP,So.,72,182,R/R,McLennan CC
+University of Oklahoma,Connor Larkin,13,UTL,Fr.,75,194,L/L,Cherry Creek HS
+University of Oklahoma,Cooper Smith,14,1B,Jr.,72,197,S/L,Marlow HS
+University of Oklahoma,Dayton Tockey,16,INF,Sr.,73,230,L/L,Weatherford HS
+University of Oklahoma,Dasan Harris,17,OF,Jr.,73,181,L/L,Plano East HS
+University of Oklahoma,Gavyn Jones,18,LHP/OF,Jr.,73,206,L/L,White Oak HS
+University of Oklahoma,Jaxon Grossman,19,RHP,Jr.,76,227,R/R,Makawoo HS
+University of Oklahoma,Trey Gambill,20,OF,Sr.,71,200,L/R,Lone Peak HS
+University of Oklahoma,Drew Dickerson,21,OF,So.,76,210,R/R,Lee's Summit West HS
+University of Oklahoma,LJ Mercurius,22,RHP,Jr.,74,175,R/R,Faith Lutheran HS
+University of Oklahoma,Xander Mercurius,23,RHP,Fr.,70,186,R/R,Durango HS
+University of Oklahoma,Mason Bixby,25,RHP,Jr.,79,239,R/R,Lady Bird Johnson HS
+University of Oklahoma,Drew Rerick,27,RHP,So.,76,243,R/R,Fargo Davies HS
+University of Oklahoma,Cole Leach,28,C/INF,Fr.,75,218,L/R,Hilldale HS
+University of Oklahoma,Jaden Barfield,29,LHP,So.,72,216,L/L,Pearland HS
+University of Oklahoma,Michael Catalano,30,RHP,So.,72,200,R/R,Frisco HS
+University of Oklahoma,Cameron Johnson,31,LHP,Jr.,78,256,L/L,IMG Academy
+University of Oklahoma,Brisco Smith,32,RHP,Fr.,73,169,S/R,Duncan HS
+University of Oklahoma,Isaac Williams,33,RHP,Jr.,73,200,R/R,Fleming Island HS
+University of Oklahoma,Joey McMannis,34,RHP,Jr.,76,228,R/R,Catocin HS
+University of Oklahoma,Jason Bodin,35,RHP,Jr.,75,193,L/R,Orangefield HS
+University of Oklahoma,Nick Wesloski,37,RHP,Fr.,75,219,R/R,McKinney Boyd HS
+University of Oklahoma,Trent Collier,39,LHP,So.,74,241,L/L,"Weatherford, JC"
+University of Oklahoma,Aidan Tomlinson,40,RHP,Fr.,76,214,R/R,Dewar HS
+University of Oklahoma,Gunnar Dillard,41,C,Fr.,72,200,R/R,Wall HS
+University of Oklahoma,Reid Hensley,42,RHP,Gr.,72,214,R/R,Lufkin HS
+University of Oklahoma,Jordan Stribling,45,LHP,So.,77,219,L/L,Highland Park HS
+University of Oklahoma,Deiten Lachance,48,C,Jr.,77,231,R/R,McLennan CC
+University of Oklahoma,Jackson Cleveland,49,RHP,Sr.,74,206,L/R,Deer Park HS
+University of Oklahoma,Jackson Kornylo,52,RHP,Fr.,77,192,R/R,TNXL Academy
+University of Oklahoma,Nate Smithburg,54,LHP,R-So.,74,257,L/L,Fairfield HS
+University of Oklahoma,Vaughn Neckar,55,RHP,Fr.,75,257,R/R,Vista Murrieta HS
+University of Oklahoma,Cord Rager,99,LHP/INF,Fr.,78,237,L/L,Maypearl HS
+University of Alabama,Justin Lebron,1,INF,So.,74,180,R-R,Archbishop Edward McCarthy
+University of Alabama,Kade Snell,3,OF Is Captain (C),R-Sr.,73,210,L-L,Wicksburg
+University of Alabama,Riley Quick,4,RHP,R-So.,78,245,R-R,Hewitt-Trussville
+University of Alabama,Richie Bonomolo Jr.,5,OF,Jr.,71,200,R-R,Cardinal Hayes
+University of Alabama,Beau Bryans,6,LHP,Jr.,72,195,R-L,Madison Central
+University of Alabama,Matthew Heiberger,7,LHP,So.,75,210,L-L,Oak Mountain
+University of Alabama,Tyler Fay,8,RHP,R-So.,77,215,R-R,Grand Island Senior
+University of Alabama,Bryce Fowler,9,OF,R-Jr.,74,190,L-L,Germantown
+University of Alabama,Brady Neal,10,C/INF,Jr.,70,190,L-R,IMG Academy
+University of Alabama,Coulson Buchanan,11,RHP,Sr.,70,185,R-R,North Gwinnett
+University of Alabama,JT Blackwood,12,RHP,Jr.,74,210,R-R,Hartselle
+University of Alabama,Luke Vaughn,13,C,So.,74,200,R-R,Elder
+University of Alabama,Carson Ozmer,14,RHP,Gr.,74,210,R-R,John H. Guyer
+University of Alabama,Coleman Mizell,15,OF,So.,75,230,L-L,Hartselle
+University of Alabama,Jonathan Stevens,16,RHP,So.,73,215,R-R,Briarwood Christian
+University of Alabama,Will Plattner,17,C,Jr.,73,205,R-R,Glenwood
+University of Alabama,Will Hodo,18,INF/OF,Sr.,75,225,L-R,Wayne Academy
+University of Alabama,Aeden Finateri,19,RHP,Sr.,72,235,R-R,Avon Old Farms
+University of Alabama,Zane Adams,20,LHP,So.,76,195,L-L,Porter
+University of Alabama,Brennen Norton,21,INF,Sr.,69,195,R-R,Cullman
+University of Alabama,Braylon Myers,22,RHP,Sr.,74,205,L-R,Oak Grove
+University of Alabama,Aidan Moza,23,RHP,Sr.,73,195,L-R,North Cobb Christian
+University of Alabama,Tate Robertson,24,LHP,Sr.,72,170,L-L,Northridge
+University of Alabama,Peyton Steele,26,OF,Fr.,73,195,R-R,Hartselle
+University of Alabama,Garrett Staton,27,INF,R-Sr.,72,195,R-R,North Forsyth
+University of Alabama,Danny Heintz,29,RHP,R-Sr.,78,235,R-R,Green Hope
+University of Alabama,Anthony Pesci,30,RHP,Fr.,76,205,L-R,Orchard Lake Saint Mary's Prep
+University of Alabama,Jon Young Jr.,31,INF,Fr.,73,190,L-R,Cherry Hill West
+University of Alabama,Jason Torres,32,INF,Jr.,73,230,R-R,Miami Springs
+University of Alabama,Ariston Veasey,33,RHP/UTL,So.,73,190,R-R,Starr's Mill
+University of Alabama,Hagan Banks,36,RHP,R-Jr.,76,215,R-R,Calhoun
+University of Alabama,Andre Modugno,37,INF/RHP,Fr.,77,220,R-R,IMG Academy
+University of Alabama,Zach Kittrell,38,RHP,Jr.,72,195,R-R,Bayside Academy
+University of Alabama,Sam Mitchell,39,RHP,So.,79,235,R-R,Bob Jones
+University of Alabama,Sean Griggs,40,INF,Fr.,74,195,L-R,Red Bank Catholic
+University of Alabama,Connor Ball,41,LHP,R-Jr.,72,180,L-L,Chelsea
+University of Alabama,Ahmaad Duff,42,OF,Fr.,67,155,R-R,Lawrence Central
+University of Alabama,Jack Ketchum,43,RHP,Fr.,75,210,R-R,Heritage Academy
+University of Alabama,Packy Bradley-Cooney,44,RHP,Sr.,74,210,R-R,Arlington Catholic
+University of Alabama,Jackson Hunter,45,RHP,Fr.,75,190,R-R,Hazel Green
+University of Alabama,Carson Kuehne,46,LHP,Fr.,77,195,L-L,IMG Academy
+University of Alabama,JoJo Williamson,47,INF,Fr.,68,175,L-R,Hartselle
+University of Alabama,Bobby Alcock,48,RHP,R-Sr.,77,230,R-R,The Winchendon School
+University of Alabama,Nash Wagner,49,RHP,Fr.,77,225,R-R,Zionsville Community
+University of Alabama,Connor Lehman,50,LHP,Fr.,74,210,L-L,Stewart County
+University of Alabama,Ashton Alston,52,RHP,Fr.,78,205,R-R,Christian Community Schools
+University of Alabama,Egan Lowery,67,RHP,So.,73,184,L-R,McAdory
+University of Alabama,Austin Morris,99,RHP,R-So.,76,210,R-R,Mortimer Jordan
+University of Washington,Isaac Yeager,0,RHP,Jr.,78,215,L/R,Bishop Blanchet
+University of Washington,AJ Guerrero,1,OF,Sr.,72,210,R/R,Fife
+University of Washington,Colton Bower,2,C,R-So.,72,210,R/R,North Kitsap
+University of Washington,Reeve Boyd,3,INF,R-Fr.,73,190,R/R,Seattle Prep
+University of Washington,Sawyer Parkin,4,RHP,Sr.,71,195,R/R,Columbia River
+University of Washington,Julian Sanders,5,OF,Gr.,74,210,R/R,Lakeside
+University of Washington,Carson Crawford,6,INF,Sr.,74,200,R/R,Cardinal Newman
+University of Washington,Blake Wilson,7,INF,So.,70,175,R/R,Santa Margarita Catholic
+University of Washington,Cooper Whitton,9,OF,Jr.,75,200,R/R,Santa Fe Christian
+University of Washington,Braeden Terry,10,OF,Sr.,72,200,L/L,Newport
+University of Washington,Jase Evangelista,11,RHP,So.,74,195,R/R,Martin Luther King
+University of Washington,Casen Taggart,12,INF/OF,Sr.,77,225,L/R,Everett
+University of Washington,Micah Bujacich,13,RHP,Fr.,75,190,R/R,Steilacoom
+University of Washington,Will Woodward,15,LHP,R-So.,79,225,L/L,Eastlake
+University of Washington,Trevor Kole,16,INF,Gr.,72,200,R/R,Gibbons
+University of Washington,Matthew Henning,17,RHP/OF,Fr.,73,200,R/R,West Seattle
+University of Washington,Boston Warkentin,18,RHP,R-So.,74,205,R/R,Foothills Composite
+University of Washington,Jackson Hotchkiss,19,OF,Fr.,75,190,R/R,Battle Ground
+University of Washington,Easton O'Neal,20,C,Fr.,73,205,S/R,West Valley
+University of Washington,Lane Simonsen,21,RHP,Fr.,74,195,R/R,Lynden
+University of Washington,Max Banks,22,RHP,Sr.,76,225,R/R,Stuart Hall
+University of Washington,Colin Blanchard,23,C,R-Jr.,73,195,L/R,JSerra Catholic
+University of Washington,Malakhi Knight,24,OF,Sr.,75,205,R/R,Marysville Getchell
+University of Washington,Reilly McAdams,25,RHP,R-Sr.,78,235,R/R,Ingraham
+University of Washington,Charlie Denomme,26,RHP,So.,76,225,R/R,Thayer Academy
+University of Washington,Justin Tims,27,RHP/INF,Fr.,75,195,L/R,Villa Park
+University of Washington,Gunnar Nichols,31,RHP,Jr.,76,185,L/R,John Burroughs
+University of Washington,Josh Emanuels,32,RHP,R-Sr.,75,210,R/R,Interlake
+University of Washington,Jack Sand,33,LHP,So.,70,195,L/L,Crean Lutheran
+University of Washington,Noah Sorensen,34,RHP,Fr.,74,210,R/R,North Kitsap
+University of Washington,Peysen Sweeney,35,RHP,R-Jr.,77,235,L/R,Liberty
+University of Washington,Bradley Gilbert,37,RHP,Fr.,72,195,L/R,Aquinas
+University of Washington,Jackson Thomas,39,RHP,Sr.,75,200,R/R,Mountain View
+University of Washington,Tommy Curran,40,LHP,Fr.,74,180,R/L,De La Salle
+University of Washington,Carston Pearson,41,OF,So.,72,200,L/L,Dublin
+University of Washington,Luke Klooster,43,C,Fr.,70,190,R/R,O'Dea
+University of Washington,Grady Woodward,44,OF,Fr.,74,205,R/R,Eastlake
+University of Washington,Jaxson Gore,45,RHP,So.,72,190,R/R,North Kitsap
+University of Washington,Sam DeCarlo,51,INF,Jr.,69,190,R/R,Millikan
+University of Washington,Tommy Brandenburg,55,RHP,R-Jr.,71,195,R/R,Kalama
+University of Washington,Nic Bronzini,95,LHP,R-So.,76,250,L/L,California
+University of Washington,Logan Anderson,99,RHP,R-Fr.,76,210,R/R,Shorewood
+University of Oregon,Tyler Jones,1,RHP,Fr.,75,200,R/R,Woodinville HS
+University of Oregon,Grayson Grinsell,2,LHP,Jr.,73,195,L/L,Reno HS
+University of Oregon,Carter Garate,3,INF,Jr.,74,185,L/R,Murrieta Mesa HS
+University of Oregon,Toby Twist,4,LHP,So.,73,205,L/L,Bakersfield Christian HS
+University of Oregon,Burke-Lee Mabeus,5,C,Fr.,76,215,S/R,Bishop Gorman HS
+University of Oregon,Jack Brooks,6,UTL,So.,70,190,L/R,Vanden HS
+University of Oregon,Hunter Hyatt,7,LHP,R-Fr.,75,210,L/L,Bellevue HS
+University of Oregon,Maddox Molony,9,INF,So.,74,210,R/R,Thurston HS
+University of Oregon,Collin Clarke,10,RHP,So.,75,205,R/R,Santa Margarita Catholic HS
+University of Oregon,Ryan Cooney,12,INF,So.,72,200,R/R,Jesuit HS
+University of Oregon,Coen Niclai,13,C,Fr.,74,215,R/R,Service HS
+University of Oregon,Jaxon Jordan,15,RHP,Sr.,77,210,R/R,Oak Park HS
+University of Oregon,Cole Fisher,16,RHP,Jr.,74,210,R/R,Hatboro-Horsham HS
+University of Oregon,Drew Smith,17,INF/OF,Jr.,74,205,R/R,Buchanan HS
+University of Oregon,Jax Gimenez,19,INF/OF,Fr.,74,200,S/R,Whitney HS
+University of Oregon,Parker Stinson,20,OF,Sr.,72,210,L/L,Yorktown HS
+University of Oregon,Michael Meckna,21,RHP,Fr.,75,200,R/R,Elkhorn South HS
+University of Oregon,Julien Hernandez,22,RHP,Sr.,73,200,R/R,Menlo School
+University of Oregon,Kellan Knox,23,RHP,Fr.,74,210,R/R,Tenino HS
+University of Oregon,Ian Umlandt,24,LHP,Jr.,72,210,L/L,Sherwood HS
+University of Oregon,Jacob Walsh,25,1B,Sr.,76,225,L/L,Desert Oasis HS
+University of Oregon,Mason Neville,26,OF,Jr.,75,210,L/L,Basic HS
+University of Oregon,Chase Meggers,27,C,Jr.,72,205,L/R,Rocklin HS
+University of Oregon,Will Sanford,28,RHP,Fr.,72,200,R/R,Point Loma HS
+University of Oregon,Seth Mattox,31,RHP,Sr.,75,190,R/R,Xavier College Prep
+University of Oregon,Jason Reitz,33,RHP,Jr.,83,215,R/R,Pioneer HS
+University of Oregon,Santiago Garcia,34,LHP,So.,72,180,L/L,Centennial HS
+University of Oregon,Jeffery Heard,35,OF,Sr.,74,215,L/L,Valley Christian HS
+University of Oregon,Sam Boyle,37,LHP,Jr.,74,200,R/L,Columbia River HS
+University of Oregon,Gabe Howard,38,RHP,Fr.,75,200,R/R,West Linn HS
+University of Oregon,Kayle Pisano,40,1B,Fr.,75,225,L/L,Clackamas HS
+University of Oregon,Tanner Bradley,41,RHP,Fr.,73,185,R/R,Cardinal Newman HS
+University of Oregon,Dominic Hellman,45,INF,Jr.,78,250,R/R,Henry M. Jackson HS
+University of Oregon,Ryan Featherston,46,RHP,So.,74,225,R/R,Stockdale HS
+University of Oregon,Blake Crawford,50,LHP,Fr.,76,215,L/L,West Linn HS
+University of Oregon,Nate Christman,51,RHP,Fr.,75,220,R/R,Aquinas HS
+University of Oregon,Alex Umland,52,RHP,Fr.,76,225,R/R,Winward School
+University of Oregon,Isaac Evaniew,53,RHP,Jr.,74,260,R/R,Churchill HS
+University of Oregon,Cole Stokes,55,RHP,So.,78,230,R/R,Redondo Union HS
+University of Oregon,Zach Justice,66,C,R-Fr.,73,210,N/A,Summit HS
+University of Oregon,Anson Aroz,77,C,Jr.,71,195,S/R,Placer HS
+University of Indiana,Jasen Oliver,2,INF,So.,71,185,R/R,Orchard Lake St. Mary's Prep
+University of Indiana,Tyler DeMartino,3,OF,Gr.,72,205,R/R,Walt Whitman
+University of Indiana,Devin Taylor,5,OF,Jr.,73,215,L/R,LaSalle
+University of Indiana,T.J. Schuyler,6,C,So.,74,220,R/R,Antioch
+University of Indiana,Tyler Cerny,8,INF,Jr.,74,205,R/R,Center Grove
+University of Indiana,Jake Stadler,9,C,R-Sr.,73,215,L/R,Mount Vernon
+University of Indiana,Josh Pyne,10,INF,Sr.,72,195,R/R,Linton-Stockton
+University of Indiana,Will Moore,11,INF,Fr.,69,170,L/R,Paris District
+University of Indiana,Hogan Denny,12,C/OF,Fr.,72,215,R/R,Mooresville
+University of Indiana,Andrew Wiggins,13,OF,So.,76,225,L/R,Heritage Christian
+University of Indiana,Brayton Thomas,14,LHP,Fr.,77,220,L/L,Bishop Dwenger
+University of Indiana,Cooper Malamazian,15,INF,Fr.,74,185,R/R,Nazareth Academy
+University of Indiana,Anthony Gubitosi,16,LHP,Jr.,71,192,L/L,Colts Neck
+University of Indiana,Ben Grable,17,RHP,Gr.,76,215,R/R,Flintridge Prep
+University of Indiana,Grant Holderfield,18,LHP,R-Jr.,75,220,L/L,Oak Park & River Forest
+University of Indiana,Cole Decker,19,OF,Fr.,71,185,L/R,Evansville North
+University of Indiana,Korbyn Dickerson,20,OF,R-So.,73,205,R/R,Trinity (Ky.)
+University of Indiana,Jacob Vogel,21,RHP,R-So.,79,250,R/R,Jennings County
+University of Indiana,Joey Brenczewski,23,INF,R-So.,75,195,S/R,Fishers
+University of Indiana,Drew Buhr,24,RHP,Gr.+,73,205,L/R,Austin
+University of Indiana,Seth Benes,26,RHP,So.,74,210,R/R,Liberty-Wentzville
+University of Indiana,Clayton Weisheit,27,RHP,So.,78,235,R/R,Forest Park
+University of Indiana,Matthew Bohnert,28,LHP,R-Sr.,68,187,L/L,Cactus Shadows
+University of Indiana,Ryan Kraft,29,LHP,Sr.,76,220,L/L,Lincoln-Way Central
+University of Indiana,Ryan Rushing,30,LHP,So.,70,190,L/L,IMG Academy
+University of Indiana,Henry Brummel,31,RHP,Fr.,77,210,R/R,Pontiac
+University of Indiana,Cole Gilley,32,RHP,R-Sr.,73,205,R/R,Columbus East
+University of Indiana,Trey Telfer,33,RHP,Fr.,73,185,R/R,Cathedral Catholic
+University of Indiana,Jake Hanley,34,INF,Fr.,78,235,L/R,Mason
+University of Indiana,Evan O'Neill,35,RHP,R-Fr.,76,220,R/R,Blessed Trinity Catholic
+University of Indiana,Micah Vessely,36,RHP,Fr.,73,185,R/R,Greenwood
+University of Indiana,Ryan Gilbert,37,OF,R-So.,77,235,R/R,Kenston
+University of Indiana,Jackson Yarberry,38,RHP,So.,75,225,R/R,Timberland
+University of Indiana,Michael Lorenzetti,39,RHP,Jr.,80,225,R/R,Taft School
+University of Indiana,Gavin Seebold,40,RHP,R-Sr.,74,205,R/R,Jeffersonville
+University of Indiana,Deron Swanson,41,LHP,Sr.,75,195,L/L,Snider
+University of Indiana,Brayden Ricketts,42,C,Fr.,74,205,L/R,Jean Augustine Secondary
+University of Indiana,Caleb Koskie,43,LHP/OF,Fr.,72,185,R/L,Benilde-St.Margaret's
+University of Indiana,Will Eldridge,44,RHP,Jr.,76,210,R/R,Carroll (Flora)
+University of Indiana,Pete Haas,51,RHP,R-Jr.,72,195,R/R,Keene
+University of Indiana,Aydan Decker-Petty,55,RHP,Jr.,77,205,R/R,New Castle
+University of Minnesota,Jake Larson,1,INF,Sr.,72,200,R/R,Kentlake
+University of Minnesota,Easton Richter,2,INF/RHP,Jr.,74,N/A,L/R,Rosemount
+University of Minnesota,Preston Leon,3,OF,R-Jr.,71,N/A,S/R,Dakota High School (Macomb)
+University of Minnesota,Jack Mosh,4,INF,Jr.,70,180,L/R,St. Pius X
+University of Minnesota,Kris Hokenson,6,OF/LHP,Jr.,72,180,L/L,St. Louis Park
+University of Minnesota,Jack Spanier,7,INF,So.,72,180,R/R,Rocori
+University of Minnesota,Jameson Martin,8,INF,Fr.,71,180,R/R,St. Lawrence
+University of Minnesota,Parker Knoll,9,OF,Sr.,72,220,R/R,Fox Valley Lutheran
+University of Minnesota,Sam Hunt,10,C,R-Jr.,74,205,S/R,IMG Academy
+University of Minnesota,Landen Lozier,12,INF,So.,70,170,L/R,Notre Dame Academy
+University of Minnesota,Cole Selvig,13,RHP,So.,72,205,R/R,Regis Catholic
+University of Minnesota,Drew Berkland,15,OF/C,Jr.,72,190,R/R,Wayzata
+University of Minnesota,Josh Fitzgerald,16,OF,R-Sr.,72,190,R/R,Newman Catholic
+University of Minnesota,Luke Ryerse,17,RHP,Fr.,73,218,R/R,East Ridge High School
+University of Minnesota,Jack Taxdahl,19,C,So.,70,190,R/R,Cretin-Derham Hall
+University of Minnesota,Kyle Remington,20,RHP/INF,So.,72,165,L/R,Grand Rapids Christian
+University of Minnesota,Jonathan Dobis,21,RHP/OF,Fr.,72,180,R/R,St. Thomas Academy
+University of Minnesota,Weber Neels,22,C/INF,Jr.,73,210,R/R,East Ridge
+University of Minnesota,Jake Quinn,23,OF,Fr.,75,190,L/R,Cretin Derham-Hall
+University of Minnesota,Jake Perry,27,INF,Sr.,76,205,L/R,Hopkins
+University of Minnesota,Caden Capomaccio,28,RHP,Jr.,73,185,R/R,Notre Dame Academy
+University of Minnesota,Brayden Hellum,29,OF,So.,68,190,L/L,Stillwater
+University of Minnesota,Seth Clausen,30,RHP,Sr.,73,210,R/R,Pleasant Valley
+University of Minnesota,Joe Sperry,33,RHP/DH,Jr.,74,N/A,R/R,Rochester Lourdes
+University of Minnesota,Jake Elbeery,35,INF,Sr.,76,225,L/R,Austin Prep
+University of Minnesota,Parker Lewin,37,RHP/OF,So.,73,175,L/R,Orono
+University of Minnesota,Adam Urban,38,RHP,Fr.,72,N/A,N/A,Wauwatosa West
+University of Minnesota,Nick Argento,39,RHP,R-So.,78,225,R/R,Wayzata HS
+University of Minnesota,Tyler Hemmesch,40,RHP,So.,73,195,R/R,Sartell
+University of Minnesota,Charlie Sutherland,41,INF/OF,So.,74,200,L/R,Duluth East
+University of Minnesota,Eli Sundquist,43,RHP,Gr.,73,N/A,N/A,Utah Valley State
+University of Minnesota,Hunter Cook,44,RHP,Fr.,74,180,R/R,North Polk
+University of Minnesota,Noah Rooney,46,LHP,R-Jr.,72,170,L/L,Perham
+University of Minnesota,Simon Skroch,47,LHP,Fr.,73,175,L/L,Yorkville High School
+University of Minnesota,Justin Thorsteinson,51,LHP,R-Sr.,76,233,N/A,Langley Secondary School
+University of Minnesota,Will Whelan,54,LHP,So.,74,195,L/L,Centennial
+Texas A&M University,Jamal George,1,UTIL,Jr.,71,185,R/R,International Baseball Academy
+Texas A&M University,Jacob Galloway,2,C,Jr.,69,180,L/R,Harvard Westlake
+Texas A&M University,Terrence Kiel II,3,INF/OF,Fr.,73,185,R/R,Pace Academy
+Texas A&M University,Gavin Kash,4,INF/OF,Sr.,75,215,L/R,Monsignor Kelly Catholic
+Texas A&M University,Sawyer Farr,5,INF,Fr.,76,190,S/R,Boswell
+Texas A&M University,Kaeden Kent,6,INF,Jr.,74,200,L/R,Lake Travis
+Texas A&M University,Wyatt Henseler,8,INF,Gr.,73,215,R/R,Emmaus
+Texas A&M University,Gavin Grahovac,9,INF/OF,So.,74,220,R/R,Villa Park
+Texas A&M University,Ben Royo,10,INF,Jr.,74,200,R/R,Veterans
+Texas A&M University,Hayden Schott,12,OF,Gr.,74,220,L/R,Culver Military Academy
+Texas A&M University,Caden Sorrell,13,OF,So.,75,205,L/L,Marcus
+Texas A&M University,Isaac Morton,14,RHP,So.,75,190,R/R,Spring Lake Park
+Texas A&M University,Matt Bergevin,15,INF,Gr.,76,250,R/R,Marcos De Niza
+Texas A&M University,Bear Harrison,16,C,So.,75,230,R/R,De La Salle
+Texas A&M University,Jace LaViolette,17,OF,Jr.,78,230,L/L,Tompkins
+Texas A&M University,Ryan Prager,18,LHP,R-Jr.,75,200,L/L,Hillcrest
+Texas A&M University,Troy Wansing,19,LHP,Sr.,76,225,L/L,Staley
+Texas A&M University,Aiden Sims,20,RHP,Fr.,74,180,L/R,Forney
+Texas A&M University,Weston Moss,21,RHP,So.,76,190,R/R,Montgomery Lake Creek
+Texas A&M University,Myles Patton,23,LHP,Jr.,75,205,L/L,Millikan
+Texas A&M University,Clayton Freshcorn,25,RHP,So.,72,180,R/R,Waller
+Texas A&M University,Gavin Lyons,27,RHP,Fr.,75,200,R/R,Hamden Hall
+Texas A&M University,Caden McCoy,28,LHP,Fr.,75,220,R/L,Bloomington North
+Texas A&M University,Kaiden Wilson,30,LHP,So.,74,200,L/L,Raymore-Peculiar
+Texas A&M University,Grant Cunningham,31,RHP,Jr.,75,225,R/R,Seattle Prep
+Texas A&M University,Brad Rudis,32,RHP,Sr.,72,195,R/R,Madisonville
+Texas A&M University,Justin Lamkin,33,LHP,Jr.,76,210,R/L,Calallen
+Texas A&M University,Josh Stewart,34,RHP,Sr.,74,195,R/R,St. Dominic Savio Catholic
+Texas A&M University,Sam Erickson,35,OF,Fr.,73,215,R/L,Flower Mound
+Texas A&M University,Ty Baker,37,RHP,R-Fr.,76,230,R/R,Second Baptist Academy
+Texas A&M University,Shane Sdao,38,LHP,Jr.,74,170,L/L,Lake Creek
+Texas A&M University,Houston Tomlinson,39,RHP,Fr.,73,180,R/R,Grand Oaks
+Texas A&M University,Blayne Lyne,40,RHP,Fr.,78,205,R/R,London
+Texas A&M University,Jackson Brasseux,41,LHP,R-Fr.,73,190,L/L,North Lamar
+Texas A&M University,Luke Jackson,44,RHP,R-So.,74,190,R/R,Lake Travis
+Texas A&M University,Nathan Tobin,45,OF,Fr.,71,190,L/R,VR Eaton
+Texas A&M University,Blake Binderup,46,INF,R-So.,78,230,R/R,College Station
+Texas A&M University,Hayden Crites,47,C,Fr.,72,200,S/R,Paradise
+Texas A&M University,Marco Jones,48,INF/OF,Fr.,77,245,R/R,San Ramon Valley
+Texas A&M University,Austin Vargas,49,LHP,R-Fr.,80,235,L/L,Fulshear
+Texas A&M University,Rylan Hill,51,LHP,Fr.,75,200,L/L,Bryan
+Texas A&M University,Peyton Smith,62,RHP,Jr.,76,225,R/R,East Robertson
+Texas A&M University,Kyrin LeBlanc,99,RHP,Jr.,75,215,R/R,St. Martinville Senior
+University of Southern Mississippi,Joey Urban,1,OF,Jr.,72,193,R/R,Jupiter Community HS
+University of Southern Mississippi,Jake Cook,2,OF/LHP,R-So.,75,185,L/L,Madison Central HS
+University of Southern Mississippi,Seth Smith,3,INF,So.,74,194,L/R,Mobile Christian HS
+University of Southern Mississippi,Ozzie Pratt,4,INF,Sr.,71,170,R/R,Magnolia Heights HS
+University of Southern Mississippi,Ty Long,5,INF/RHP,Fr.,72,186,R/R,Ripley HS
+University of Southern Mississippi,Colby Allen,6,RHP,Jr.,71,190,R/R,Starkville Academy
+University of Southern Mississippi,Ben Higdon,7,OF,R-Jr.,74,201,L/R,McCracken County HS
+University of Southern Mississippi,Nick Monistere,8,INF,Jr.,72,192,R/R,Northwest Rankin HS
+University of Southern Mississippi,Lawson Odom,10,C/INF,So.,70,190,R/R,West Jones HS
+University of Southern Mississippi,Davis Gillespie,11,OF,R-So.,73,225,R/R,Oak Mountain HS
+University of Southern Mississippi,Kros Sivley,12,LHP,Jr.,71,188,L/L,Sumrall HS
+University of Southern Mississippi,Matthew Adams,13,RHP,Gr.,71,190,R/R,Pearland HS
+University of Southern Mississippi,Camden Sunstrom,14,RHP,Fr.,74,200,R/R,University Lab HS
+University of Southern Mississippi,Drey Barrett,15,INF,Fr.,75,214,R/R,Holtville HS
+University of Southern Mississippi,Grayden Harris,16,LHP,Fr.,73,210,L/L,Central HS
+University of Southern Mississippi,JB Middleton,18,RHP,Jr.,72,178,R/R,Benton Academy
+University of Southern Mississippi,Matthew Russo,19,INF,Jr.,74,255,L/R,Saint Paul's School
+University of Southern Mississippi,Michael Fowler,21,RHP,Gr.,75,210,R/R,Hewitt-Trussville HS
+University of Southern Mississippi,Cal Culpepper,22,RHP,R-Fr.,75,196,R/R,Clarkdale HS
+University of Southern Mississippi,Coy Clements,23,C,Fr.,76,208,R/R,Oak Grove HS
+University of Southern Mississippi,Jackson Parker,24,LHP,R-So.,72,230,L/L,Stringer HS
+University of Southern Mississippi,Braden Luke,25,INF,Sr.,70,230,L/R,West Lauderdale HS
+University of Southern Mississippi,Jace Norton,26,INF,R-Fr.,75,196,R/R,Auburn HS
+University of Southern Mississippi,Micah Wascom,27,RHP,Fr.,72,202,R/R,Franklinton HS
+University of Southern Mississippi,Caleb Hughes,28,RHP,Fr.,73,205,R/R,Etowah HS
+University of Southern Mississippi,Chandler Best,29,LHP,Sr.,72,222,L/L,McGill-Toolen HS
+University of Southern Mississippi,Cole Richardson,30,RHP,Fr.,77,186,R/R,South Jones HS
+University of Southern Mississippi,Josh Och,32,RHP,So.,71,192,R/R,Chanhassen HS
+University of Southern Mississippi,Logan Pratt,35,RHP,Fr.,77,218,R/R,Kirk Academy
+University of Southern Mississippi,Tucker Stockman,36,C,R-So.,76,230,R/R,Athens HS
+University of Southern Mississippi,Carson Paetow,37,OF,Sr.,75,226,L/L,Vancleave HS
+University of Southern Mississippi,Drake Meeks,38,RHP,So.,76,210,R/R,Briarwood Christian HS
+University of Southern Mississippi,JW Armistead,39,RHP,Jr.,77,226,R/R,Mooreville HS
+University of Southern Mississippi,Teague Broadhead,41,RHP,Fr.,74,196,R/R,Bayside Academy
+University of Southern Mississippi,Ben Riley Flowers,42,LHP,Sr.,74,222,L/L,Saraland HS
+University of Southern Mississippi,Landen Payne,43,RHP,Sr.,74,226,R/R,Saint Martin HS
+University of Southern Mississippi,Brooks Willoughby,45,LHP,Fr.,77,220,L/L,Warren Central HS
+University of Southern Mississippi,McCarty English,47,RHP,So.,73,180,R/R,Ocean Springs HS
+University of Southern Mississippi,Chase Adams,48,LHP,Jr.,74,210,L/L,Normal University HS
+Troy University,Cason Eubanks,1,INF,So.,69,175,R/R,Pike Liberal Arts School
+Troy University,Shane Lewis,2,OF,Sr.,74,193,B/R,Warren Central HS
+Troy University,Tyler LeJeune,3,INF/OF,Jr.,70,172,L/R,Iota HS
+Troy University,Peyton Watts,4,INF,So.,73,175,L/R,Oxford HS
+Troy University,Jimmy Janicki,5,C/INF,Fr.,76,231,R/R,Downers Grove North HS
+Troy University,Reid Broussard,6,OF,So.,72,200,R/R,Live Oak HS
+Troy University,Gavin Schrader,7,OF/INF,Jr.,76,215,L/L,Notre Dame HS
+Troy University,Cooper Smith,8,OF/INF,So.,71,193,R/R,Saint Xavier HS
+Troy University,Brock Tapper,10,LHP/OF,Jr.,74,196,L/L,DeSoto Central HS
+Troy University,Colby Frieda,11,RHP,Sr.,75,226,R/R,Creekside HS
+Troy University,Steven Meier,12,OF,Sr.,73,195,L/L,Southridge HS
+Troy University,Peryn Bland,13,INF,Fr.,73,183,R/R,Thompson HS
+Troy University,Dillon Kuehl,14,OF,Jr.,72,213,L/L,Urbandale HS
+Troy University,Jakob Wax,15,INF,Sr.,73,175,R/R,Catholic HS
+Troy University,Jason Hawkins,16,C,Sr.,74,210,R/R,Plano Senior HS
+Troy University,Brooks Bryan,17,C,Jr.,74,222,L/R,Opelika HS
+Troy University,Noah Edders,18,RHP,Jr.,76,232,R/R,Downers Grove South HS
+Troy University,Kelly Crumpton,19,RHP,Sr.,75,182,R/R,Oxford HS
+Troy University,Josh Dima,21,LHP,Sr.,74,196,L/L,Belleville Township HS
+Troy University,Drew Nelson,22,LHP/INF,Jr.,71,210,L/L,Pike Liberal Arts School
+Troy University,Houston Markham,23,OF,Fr.,71,201,L/R,Pike Road HS
+Troy University,Adam Falinski,26,RHP,Sr.,75,221,R/R,Detroit Catholic Central HS
+Troy University,Grayson Stewart,27,RHP,Sr.,71,197,R/R,Providence Christian School
+Troy University,Harrison Bowman,28,OF,So.,73,205,R/R,Apollo HS
+Troy University,Dylan King,29,RHP,R-Jr.,76,198,R/R,Manheim Township HS
+Troy University,Connor Burt,30,LHP,Sr.,75,204,L/L,Gulf Breeze HS
+Troy University,Mike Bello,31,OF,Sr.,74,211,L/L,Pope John XXIII
+Troy University,Tyler Cook,32,C,Fr.,71,188,R/R,Holy Trinity HS
+Troy University,Ty McGraw,33,INF,Fr.,75,215,L/R,Gardendale HS
+Troy University,Blake Cavill,34,INF,Sr.,73,225,L/R,Holsworthy HS
+Troy University,Jay Dill,35,RHP,Sr.,78,240,R/R,Baylor School
+Troy University,Chase Cartron,36,LHP,Fr.,80,233,L/L,Huntsville HS
+Troy University,Sean Darnell,37,INF,Jr.,73,206,L/R,Elmore County HS
+Troy University,Zak Szabo,38,RHP,R-So.,75,220,R/R,Sinclair Secondary School
+Troy University,Jacob Roettgen,40,LHP,Sr.,74,253,L/L,Jefferson City HS
+Troy University,Luke Lyon,42,RHP,Sr.,74,240,R/R,Oak Grove HS
+Troy University,Nolan Decker,43,LHP,Fr.,72,210,L/L,Noblesville HS
+Troy University,Garrett Gainous,44,RHP,Sr.,76,220,R/R,Cairo HS
+Troy University,Colton Walls,45,RHP/INF,So.,76,232,L/R,Stanhope Elmore HS
+Troy University,Chase Nelson,46,LHP,Sr.,72,215,L/L,Hendersonville HS
+Troy University,Noah Thigpen,47,RHP,Fr.,74,218,R/R,Lowndes HS
+Troy University,Grady Gorgen,48,LHP,Sr.,75,193,R/L,Mineral Point HS
+Troy University,George Welch,49,LHP,Gr.,75,212,L/L,Pinkerton Academy
+Troy University,Pavlos Piperakis,55,LHP,So.,73,185,L/L,Saint Thomas Aquinas HS
+University of Louisiana at Lafayette,Maddox Mandino,1,OF/LHP,So.,69,175,L/L,Glenbrook
+University of Louisiana at Lafayette,Sam Ardoin,4,IF,So.,74,170,R/R,Sam Houston
+University of Louisiana at Lafayette,Trip Dobson,5,IF/RHP,Fr.,73,190,R/R,Catholic
+University of Louisiana at Lafayette,Mark Collins,6,OF,Fr.,74,200,R/R,Opelousas Catholic
+University of Louisiana at Lafayette,Griffin Hebert,7,IF/RHP,Fr.,71,200,L/R,Sam Houston
+University of Louisiana at Lafayette,Lee Amedee,8,IF,Jr.,72,205,L/R,St. Amant
+University of Louisiana at Lafayette,Drew Markle,9,IF,So.,76,185,R/R,Tompkins
+University of Louisiana at Lafayette,Connor Cuff,10,IF,So.,76,215,R/R,Carthage
+University of Louisiana at Lafayette,Brooks Wright,11,OF,Fr.,75,185,L/R,Catholic
+University of Louisiana at Lafayette,Caleb Stelly,12,OF,Jr.,73,205,R/R,Parkview Baptist School
+University of Louisiana at Lafayette,Casey Artigues,13,IF,Jr.,70,180,L/R,St. Thomas Aquinas
+University of Louisiana at Lafayette,Blaine Lucas,14,IF,Fr.,72,185,L/R,Tomball
+University of Louisiana at Lafayette,Clayton Pourciau,15,C,R-Fr.,72,195,R/R,Catholic
+University of Louisiana at Lafayette,Carson Hepworth,16,OF,Jr.,74,195,R/R,Gulf Breeze
+University of Louisiana at Lafayette,Chase Morgan,18,LHP,So.,75,195,L/L,Cy Woods
+University of Louisiana at Lafayette,Dylan Theut,19,LHP,R-Sr.,71,185,R/L,Fulshear
+University of Louisiana at Lafayette,JR Tollett,20,RHP,So.,74,190,R/R,Ruston
+University of Louisiana at Lafayette,Kasen Bellard,21,IF/RHP,Fr.,72,180,R/R,Barbe
+University of Louisiana at Lafayette,Owen Galt,22,IF,Fr.,70,190,R/R,Barbe
+University of Louisiana at Lafayette,Tate Hess,23,RHP,So.,74,220,R/R,Singer
+University of Louisiana at Lafayette,Riley Marcotte,25,LHP,So.,74,180,L/L,Loreauville
+University of Louisiana at Lafayette,Parker Smith,26,C/RHP,Fr.,74,195,R/R,Lake Creek
+University of Louisiana at Lafayette,Matthew Holzhammer,27,RHP,Sr.,76,210,R/R,Wister
+University of Louisiana at Lafayette,Blake McGehee,29,RHP,R-Jr.,72,190,R/R,Tioga
+University of Louisiana at Lafayette,Will Taylor,30,RHP,Fr.,75,185,R/R,St. Thomas More
+University of Louisiana at Lafayette,Conor Higgs,33,OF,R-Sr.,74,195,L/L,Texas City
+University of Louisiana at Lafayette,Luke Yuhasz,34,OF,Jr.,76,205,R/R,Sam Houston
+University of Louisiana at Lafayette,Andrew Herrmann,39,LHP,Sr.,75,215,L/L,Campbell
+University of Louisiana at Lafayette,James Trimble,40,RHP,R-So.,72,185,R/R,Ball
+University of Louisiana at Lafayette,Jose Torres,47,C,Sr.,68,195,R/R,Miami Christian School (Fla.)
+University of Louisiana at Lafayette,Murphy Brooks,53,RHP,R-So.,75,230,R/R,Bridgeland
+Rice University,Maddox Keo,1,LHP,Fr.,69,160,L-L,Willis
+Rice University,Cole Green,2,INF,Fr.,72,175,R-R,Sun Valley
+Rice University,Max Johnson,3,INF,Sr.,73,192,R-R,Mason
+Rice University,Blaine Brown,4,LHP/OF,Fr.,75,180,L-L,Shadow Creek
+Rice University,Treyton Rank,6,INF/OF,Sr.,72,210,R-R,Buford/
+Rice University,Michael Zito,7,INF,Fr.,73,192,R-R,Blessed Trinity Academy
+Rice University,Trey Duffield,9,OF,Jr.,75,229,R-R,Strake Jesuit
+Rice University,Colin Robson,10,OF,R-Fr.,74,185,L-R,Southlake Carroll
+Rice University,Austin Eppley,11,RHP/UT,Jr.,73,207,L-R,Episcopal
+Rice University,Jack Ben-Shoshan,12,RHP,Sr.,72,200,R-R,St. John's
+Rice University,Reed Gallant,13,RHP,Gr.,73,193,R-R,Marcus H.S.
+Rice University,Paul Smith,14,C,Jr.,71,218,S-R,Episcopal
+Rice University,Luke Smith,15,INF,Jr.,69,188,R-R,Callallen
+Rice University,Garrett Stratton,16,RHP,Jr.,74,198,R-R,Strake Jesuit
+Rice University,Graiden West,17,INF,Sr.,75,185,R-R,Tompkins
+Rice University,Aric Anderson,19,C,Jr.,72,205,L-R,Palo Verde
+Rice University,Gunnett Carlson,20,INF,Jr.,70,208,L-R,Berkely Prep
+Rice University,Tobias Motley,21,INF/OF,So.,74,201,R-R,Cy Ranch
+Rice University,Javier Vazquez,23,INF,R-Fr.,73,195,R-R,IMG Academy
+Rice University,Jacob Devenny,24,OF,Jr.,71,200,L-R,Prosper
+Rice University,Ethan Atchley,26,RHP,Fr.,72,180,R-R,Rockwall
+Rice University,Barrett Eldridge,27,INF,Jr.,75,212,R-R,Walton
+Rice University,Landon West,28,C,So.,75,213,R-R,Tompkins
+Rice University,J.D. McCracken,29,LHP,Sr.,75,211,L-L,Tennessee
+Rice University,Marco Fuentes,31,RHP,R-Jr.,74,210,R-R,Belen Jesuit
+Rice University,Mark Perkins,32,RHP,Sr.,73,207,R-R,Stratford
+Rice University,Nolan Roycraft,33,LHP,Fr.,77,226,L-L,The Woodlands
+Rice University,Micah Davis,34,RHP,Sr.,75,226,R-R,home school
+Rice University,Tom Vincent,36,LHP,R-Sr.,75,237,L-L,Memorial
+Rice University,Davion Hickson,38,RHP,Jr.,74,208,R-R,IMG Academy
+Rice University,Matthew Rheaume,39,RHP,R-Jr.,77,221,R-R,Memorial
+Rice University,Von Baker,40,RHP,Gr.,78,232,R-R,OESJ
+Rice University,Lorenzo Rios,44,C,Jr.,74,205,R-R,Yorkville
+Rice University,Tucker Alch,47,RHP,Gr.,77,217,R-R,St. Thomas
+Rice University,Hiram Bocachica Jr.,48,INF,Fr.,67,155,R-R,Puerto Rico Baseball Academy
+Rice University,Robert Fernandez,53,RHP,Sr.,72,214,R-R,Belen Jesuit
+Rice University,Caleb Williams,54,RHP,R-Fr.,74,208,R-R,Alexander Central
+Rice University,Jackson Blank,55,RHP,So.,74,208,R-R,West
+Rice University,Matt Zatopek,99,RHP,Fr.,75,210,R-R,Houston Christian
+University of Memphis,Creek Robertson,1,INF,R-Jr.,72,190,R/R,Madison Central HS
+University of Memphis,Shane Cox,2,INF,R-Jr.,75,215,R/R,Munford HS
+University of Memphis,Will Vasseur,3,INF,Jr.,76,215,R/R,Rocky Mountain HS
+University of Memphis,Logan Stelling,4,RHP,R-Jr.,72,200,R/R,Christopher HS
+University of Memphis,Eli Curtis,6,LHP,R-So.,75,180,L/L,Chatham Glenwood HS
+University of Memphis,Kylan Stepter,7,RHP,R-Sr.,73,195,R/R,Hernando HS
+University of Memphis,Cy Turner,9,INF/OF,Jr.,75,185,L/R,Pacific Grove HS
+University of Memphis,Justin Fogel,11,C/OF,R-Sr.,72,210,L/R,Pennsbury HS
+University of Memphis,Daniel Perez,13,INF,R-Jr.,70,185,L/R,Greenwich HS / Cheshire Academy
+University of Memphis,Brayden Sanders,14,RHP,Sr.,70,215,L/R,Lewisburg HS
+University of Memphis,Logan Rushing,15,LHP,R-Jr.,72,180,R/L,Brighton HS
+University of Memphis,Seth Cox,16,OF/RHP,Sr.,77,220,R/R,McKinney HS
+University of Memphis,Seth Garner,18,RHP,Jr.,75,225,R/R,Hardin County HS
+University of Memphis,Davis Oswalt,19,RHP,Sr.,70,190,R/R,Nettleton HS
+University of Memphis,Chase Nixon,20,OF,Sr.,73,205,L/R,New Hanover HS / Pro5 Baseball Academy
+University of Memphis,Charlie Smith,21,RHP,Jr.,74,180,R/R,Powell HS
+University of Memphis,Cade Tucker,22,INF/OF,Sr.,75,210,L/R,Krum HS
+University of Memphis,Isaac Lucas,23,LHP,R-So.,72,200,L/L,Oakland Technical HS
+University of Memphis,Michael Dallas,24,RHP,Sr.,71,185,R/R,Briarcrest Christian HS
+University of Memphis,David Case,26,LHP,Sr.,72,180,L/L,Loyola HS
+University of Memphis,Luke Ellis,27,LHP,R-Jr.,73,190,L/L,St. Benedict at Auburndale
+University of Memphis,Malik Harris,29,RHP,So.,78,235,R/R,Juan Diego Catholic HS
+University of Memphis,Will Howell,30,RHP,R-Fr.,76,240,R/R,Pine Bluff HS
+University of Memphis,Michael Politte,31,INF,Fr.,74,195,R/R,Lindbergh HS
+University of Memphis,Cade Mattison,32,RHP,R-Jr.,75,195,R/R,Lamar Christian HS
+University of Memphis,Carter McKay,34,INF/OF,Fr.,75,250,L/R,Arlington HS
+University of Memphis,Jonah Sutton,35,C,Sr.,69,200,R/R,Briarcrest Christian HS
+University of Memphis,Connor Pittman,36,RHP,Jr.,80,225,R/R,Wayne County HS
+University of Memphis,Hayden Donahue,37,RHP,R-Jr.,72,180,R/R,Booneville HS
+University of Memphis,Brandon Chorzelewski,38,LHP,Sr.,73,175,L/L,Cherry Hill West
+University of Memphis,Jack Pitts,39,C,Fr.,72,210,R/R,Arlington HS
+University of Memphis,Seth Giamportone,40,C,Fr.,75,215,R/R,Northpoint Christian School
+University of Memphis,Caden Robinson,41,RHP,Jr.,72,175,R/R,New Albany HS
+University of Memphis,Shane Thorson,42,LHP,Jr.,70,190,L/L,Cary HS
+University of Memphis,CJ Willis,44,INF/OF,R-So.,75,225,L/R,Bartlett HS
+University of Memphis,Michael Bright,47,RHP,R-Fr.,75,180,R/R,New Manchester HS
+University of Memphis,Cade Greer,48,OF,Jr.,71,170,R/L,Lewisburg HS
+University of Memphis,Webb Watson,49,INF/OF,Fr.,72,205,L/L,Central Arkansas Christian HS
+University of Memphis,James Smith IV,50,OF/RHP,Jr.,77,185,R/R,Northpoint Christian School
+University of North Carolina at Charlotte,Carson Bayne,1,OF,Sr.,71,185,R/R,Sandalwood HS
+University of North Carolina at Charlotte,Thad Ector,2,OF,Sr.,74,215,S/R,Stars Mill HS
+University of North Carolina at Charlotte,Dante DeFranco,3,INF,Gr.,70,185,R/R,Orange HS
+University of North Carolina at Charlotte,Johnny Sutryk,6,OF,So.,73,215,R/R,IMG Academy
+University of North Carolina at Charlotte,Noah Furcht,8,OF,Sr.,74,215,R/R,Esko HS
+University of North Carolina at Charlotte,Logan Poteet,9,C,R-So.,74,215,R/R,Powell HS
+University of North Carolina at Charlotte,Connor Maryniak,11,INF/RHP,Sr.,73,200,R/R,Governor Mifflin
+University of North Carolina at Charlotte,Chase Carson,12,LHP,Sr.,76,210,L/L,Shawnee Heights HS
+University of North Carolina at Charlotte,Caleb Estes,13,INF,Jr.,76,205,R/R,Archbishop Spalding HS
+University of North Carolina at Charlotte,Chandler Riley,14,INF,Gr.,72,185,L/R,Cox Mill HS
+University of North Carolina at Charlotte,Wesley Jones,17,RHP,So.,76,225,R/R,Charlotte Christian
+University of North Carolina at Charlotte,Dawson Bryce,18,INF,So.,75,200,R/R,Taunton HS
+University of North Carolina at Charlotte,Blake Martin,19,OF,Jr.,72,200,L/R,Dutch Fork HS
+University of North Carolina at Charlotte,Ed Wagner,20,RHP,R-Jr.,77,220,R/R,Highland School
+University of North Carolina at Charlotte,Adam Stanton,21,RHP,Sr.,75,230,R/R,Eagan HS
+University of North Carolina at Charlotte,Cody Gunderson,22,C/1B,Jr.,76,220,R/R,Institute College St. Pierre
+University of North Carolina at Charlotte,Spencer Nolan,23,UTL,Jr.,77,190,R/R,Hoggard HS
+University of North Carolina at Charlotte,Reid Haire,24,OF,So.,72,195,L/L,Pro 5 Baseball Academy
+University of North Carolina at Charlotte,Trey Baker,25,RHP,R-Sr.,75,215,R/R,Blessed Trinity Catholic HS
+University of North Carolina at Charlotte,Juan Rivera,26,INF,Jr.,67,165,L/R,Sharyland Pioneer
+University of North Carolina at Charlotte,Joseph Taylor,29,RHP,So.,71,180,R/R,Pro 5 Baseball Academy
+University of North Carolina at Charlotte,Blake Gillespie,32,RHP,Jr.,74,205,S/R,Medway HS
+University of North Carolina at Charlotte,Tanner Kaler,34,LHP,So.,73,195,L/L,Northwest Cabarrus HS
+University of North Carolina at Charlotte,Andrew Kribbs,35,RHP,Jr.,72,210,R/R,CAK HS
+University of North Carolina at Charlotte,Chase Allen,37,RHP,Gr.,78,215,R/R,Regis Jesuit
+University of North Carolina at Charlotte,Trip DoVale,38,RHP,Jr.,73,190,R/R,Roswell HS
+University of North Carolina at Charlotte,Mike Szturma,40,RHP,Gr.,75,220,R/R,Woodland Regional HS
+University of North Carolina at Charlotte,Joel Sarver,41,RHP,R-Sr.,73,210,R/R,Champaign Central HS
+University of North Carolina at Charlotte,Ben Craig,43,LHP,Jr.,75,210,L/L,Spotswood HS
+University of North Carolina at Charlotte,Cameron Turner,44,INF,Fr.,75,215,R/R,P27
+University of North Carolina at Charlotte,Sebastian Perez,45,RHP,Jr.,77,245,R/R,West Broward HS
+University of North Carolina at Charlotte,Hunter Sloop,47,RHP,R-So.,79,235,R/R,P27
+University of North Carolina at Charlotte,Logan Ponnett,50,C/INF,Fr.,72,190,R/R,Hoggard HS
+University of North Carolina at Charlotte,Matt Garcia,54,LHP,Gr.,74,195,L/L,Monarch HS
+University of North Carolina at Charlotte,AJ Camp,55,LHP,R-Fr.,73,205,S/L,Combine Academy
+Oregon State University,Gavin Turley,1,OF,Jr.,73,196,R/R,Hamilton
+Oregon State University,Dallas Macias,4,OF,Jr.,72,203,L/R,Regis Jesuit
+Oregon State University,Easton Talt,6,OF,Jr.,70,178,L/R,Sunrise Mountain (AZ)
+Oregon State University,AJ Singer,7,INF,Jr.,70,170,R/R,Mountain Ridge
+Oregon State University,Carson McEntire,9,OF,R-Fr.,73,192,R/R,Mountain Ridge
+Oregon State University,Chase Reynolds,12,RHP,Sr.,73,211,R/R,West Albany
+Oregon State University,Aiva Arquette,13,INF,Jr.,77,220,R/R,Saint Louis
+Oregon State University,Bryce Hubbard,14,C,Jr.,72,215,L/R,Wesleyan
+Oregon State University,Ryan VandenBrink,15,C/INF,Fr.,73,225,R/R,West Linn
+Oregon State University,Eric Segura,16,RHP,So.,74,203,R/R,Soledad
+Oregon State University,Adam Haight,17,RHP/OF,Fr.,74,192,R/R,Cedar Park Christian
+Oregon State University,Wilson Weber,18,C,Sr.,73,222,R/R,Sam Barlow
+Oregon State University,Wyatt Queen,19,RHP,So.,74,200,R/R,Lake Stevens
+Oregon State University,Kellan Oakes,20,RHP,Jr.,74,201,R/R,Canby
+Oregon State University,James DeCremer,21,RHP,R-Fr.,74,205,R/R,Brophy College Prep
+Oregon State University,Jacob Krieg,22,INF,Jr.,77,241,R/R,Clayton Valley
+Oregon State University,Canon Reeder,23,OF,Jr.,72,188,R/R,Summit
+Oregon State University,Ethan Kleinschmit,24,LHP,So.,75,200,L/L,John F. Kennedy
+Oregon State University,Joey Mundt,25,RHP,R-Sr.,76,224,R/R,Central Catholic
+Oregon State University,Noah Ferguson,26,RHP,R-Sr.,70,188,R/R,South Salem
+Oregon State University,Dawson Santana,28,INF,So.,66,151,R/R,Lakeridge
+Oregon State University,Bryce Johnson,29,RHP,R-Fr.,75,212,R/R,Eastlake
+Oregon State University,Dax Whitney,30,RHP,Fr.,77,204,R/R,Blackfoot
+Oregon State University,AJ Hutcheson,32,RHP,Jr.,71,187,L/R,Elk Grove
+Oregon State University,Laif Palmer,33,RHP,So.,78,207,R/R,Golden
+Oregon State University,Max Fraser,34,LHP,So.,73,185,L/L,Camas
+Oregon State University,Zach Kmatz,35,RHP,Fr.,75,215,R/R,Sandia
+Oregon State University,Nelson Keljo,36,LHP,Jr.,76,228,L/L,Jesuit
+Oregon State University,Paul Vazquez,40,INF,Fr.,75,208,R/R,South Hills
+Oregon State University,Martin Serrano,43,C,Fr.,75,205,L/R,Pocatello
+Oregon State University,Trent Caraway,44,INF,So.,74,203,R/R,JSerra Catholic
+Oregon State University,Tanner Douglas,48,LHP,Jr.,74,205,L/L,South Medford
+Oregon State University,Zach Edwards,50,RHP,Fr.,74,215,R/R,Riverton
+Oregon State University,Tyce Peterson,54,INF,Jr.,70,197,R/R,Juanita
+Texas Tech University,Coleman Ryan,1,SS,Fr.,72,156,R/R,Tomball
+Texas Tech University,Kyeler Thompson,2,CF,So.,72,183,R/R,Santa Fe HS
+Texas Tech University,Tracer Lopez,3,SS/2B,Jr.,70,155,L/R,C.H. Yoe
+Texas Tech University,Kendyl Johnson,4,CF,Fr.,68,157,L/R,Little Elm HS
+Texas Tech University,TJ Pompey,5,SS,So.,76,200,R/R,Coppell
+Texas Tech University,Garet Boehm,7,3B,So.,75,215,R/R,Hutto
+Texas Tech University,Hudson Parker,8,C,Sr.,72,200,R/R,Rowlett
+Texas Tech University,Jace Souza,9,CF,Fr.,74,185,L/L,Kamehameha School (Kapalama)
+Texas Tech University,Logan Hughes,10,OF,So.,71,197,L/L,Winter Springs HS
+Texas Tech University,Davis Rivers,11,C,So.,72,195,L/R,Waller
+Texas Tech University,Peyton Schulze,13,3B/1B,Sr.,73,210,R/R,Rancho Benardo HS
+Texas Tech University,Tyler Boudreau,14,RHP,Jr.,73,169,R/R,Vauxhall Academy
+Texas Tech University,JT Drake,15,RHP,Jr.,75,194,R/R,Los Alamos HS
+Texas Tech University,Will Jordan,16,RHP,Fr.,77,215,R/R,Weatherford HS
+Texas Tech University,Parker Hutyra,17,RHP,So.,76,195,R/R,Birdville
+Texas Tech University,Lukas Pirko,18,RHP,So.,73,208,R/R,Vista Murrietta HS
+Texas Tech University,Jonny Lowe,19,RHP,Jr.,74,205,R/R,Rockwall-Heath HS
+Texas Tech University,Antonelli Savattere,20,2B,Jr.,68,165,L/R,Rowlett HS
+Texas Tech University,Jackson Burns,21,RHP,Fr.,76,215,R/R,Southwest Christian HS
+Texas Tech University,Zachary Fetchel,25,RHP,So.,75,173,R/R,Vista Ridge HS
+Texas Tech University,Dylan Maxcey,26,C,Jr.,69,165,R/R,Friendswood HS
+Texas Tech University,Robin Villeneuve,28,1B/OF,Sr.,74,208,R/L,Polyvante Nicolas-Gatineau
+Texas Tech University,Jorden Espinoza,29,LHP,Fr.,74,162,L/L,Aptos HS
+Texas Tech University,Damian Bravo,31,OF,Jr.,74,195,R/R,Haltom HS
+Texas Tech University,Trendan Parish,32,RHP,Sr.,72,175,R/R,Southwest Christian
+Texas Tech University,Zach Crotchfelt,33,LHP,Jr.,75,220,L/L,Jackson Memorial High School
+Texas Tech University,Zane Petty,34,RHP,Jr.,73,165,R/R,Corsicana
+Texas Tech University,Dylan Blakey,35,LHP,Jr.,73,215,L/L,Woodbridge HS
+Texas Tech University,Connor Mohan,36,RHP,Fr.,75,165,R/R,Burleson Centennial HS
+Texas Tech University,Carson Baugh,37,LHP,Sr.,73,175,L/L,Denison
+Texas Tech University,Jacob Rogers,38,RHP,Jr.,74,200,R/R,Friendswood
+Texas Tech University,Ryan Jones,39,3B/OF,Fr.,75,200,R/R,Aledo High School
+Texas Tech University,Dominic Archila,40,C,Jr.,70,185,L/R,Vandebilt Catholic
+Texas Tech University,Brady Trombello,41,RHP,R-Fr.,74,180,R/R,Prairie
+Texas Tech University,Daniel Bass,42,RHP,Jr.,76,216,R/R,Melissa HS
+Texas Tech University,Logan Bevis,44,RHP,So.,79,215,R/R,Montverde Academy
+Texas Tech University,Jack Cebert,45,RHP,Sr.,75,209,R/R,Calvary Christian HS
+Texas Tech University,Logan Addison,47,RHP,Fr.,73,208,R/R,New Home HS
+Texas Tech University,Mac Heuer,48,RHP,So.,77,265,R/R,Homeschooled
+Texas Tech University,Zach Erdman,51,LHP,Jr.,74,185,L/L,Keller
+Oklahoma State University,Brock Thompson,1,INF,Fr.,72,189,L/R,Liberty HS
+Oklahoma State University,Aidan Meola,2,INF,Sr.,74,212,R/R,Palm Beach Gardens HS
+Oklahoma State University,Donovan LaSalle,3,OF,So.,74,198,R/R,Barbe HS
+Oklahoma State University,Brayden Smith,4,INF/OF,Jr.,72,190,L/R,Millard South HS
+Oklahoma State University,Garrett Shull,5,OF,Fr.,74,200,S/R,Enid HS
+Oklahoma State University,Drew Culbertson,6,INF,So.,72,174,R/R,Center Grove HS
+Oklahoma State University,Avery Ortiz,7,INF,So.,71,192,N/A,Union HS
+Oklahoma State University,Ian Daugherty,8,C,Sr.,74,214,R/R,Kingfisher HS
+Oklahoma State University,Nolan Schubart,10,OF/1B,Jr.,77,234,L/R,Orchard Lake Saint Mary's Prep
+Oklahoma State University,Colin Brueggemann,12,1B,Sr.,78,229,L/R,Freeburg HS
+Oklahoma State University,Kollin Ritchie,13,INF/OF,So.,74,215,L/R,Atoka HS
+Oklahoma State University,Alex Conover,14,INF/OF,So.,76,195,L/R,Tuttle HS
+Oklahoma State University,Harrison Bodendorf,15,LHP,Jr.,77,200,R/L,Temecula Valley HS
+Oklahoma State University,Ethan Lund,16,LHP,Fr.,78,214,R/L,Hamilton Southeastern HS
+Oklahoma State University,Elijah Alexander,17,INF/OF,Jr.,74,195,R/R,Westmoore HS
+Oklahoma State University,Beau Sylvester,18,C/1B/OF,So.,72,196,R/R,Kamehameha Kapalama HS
+Oklahoma State University,Stormy Rhodes,19,RHP,Fr.,76,185,R/R,Tivy HS
+Oklahoma State University,Gabe Davis,22,RHP,Jr.,81,234,R/R,Choctaw HS
+Oklahoma State University,Jayson Jones,23,INF/OF,Jr.,74,213,R/R,Braswell HS
+Oklahoma State University,Ryan Ure,24,LHP,Jr.,80,235,R/L,Eaton HS
+Oklahoma State University,Ben Reiland,25,INF/OF,Fr.,71,170,L/R,Orange Lutheran HS
+Oklahoma State University,Noah Wech,26,RHP,Fr.,73,200,R/R,Lincoln HS
+Oklahoma State University,Matthew Brown,27,RHP,Fr.,77,227,R/R,Waterdown
+Oklahoma State University,Brennan Phillips,28,LHP,Jr.,73,189,N/A,Owasso HS
+Oklahoma State University,Braylon Brooks,30,INF/RHP,Fr.,69,188,R/R,Tuttle HS
+Oklahoma State University,Drew Blake,32,LHP,Jr.,74,203,L/L,Stillwater HS
+Oklahoma State University,Sean Youngerman,33,RHP,Jr.,75,230,R/R,Chaminade College Prep
+Oklahoma State University,Charlie Carter,34,C,So.,75,206,R/R,Little Rock Christian
+Oklahoma State University,Jake Kennedy,35,RHP,So.,74,190,N/A,Enid HS
+Oklahoma State University,Thomas Lieb,38,C,Fr.,71,188,R/R,Maranatha HS
+Oklahoma State University,Brex Caldwell,39,RHP,Fr.,74,230,L/R,Panama HS
+Oklahoma State University,Cale Sudderth,40,LHP,Fr.,75,229,L/L,Lone Grove HS
+Oklahoma State University,Kash Ferris,41,RHP,Fr.,74,200,R/R,Carl Albert HS
+Oklahoma State University,Jett Hope,42,RHP,Fr.,76,223,R/R,Bixby HS
+Oklahoma State University,Tommy Allman,44,RHP,Sr.,74,203,R/R,Orchard Lake Saint Mary's Prep
+Oklahoma State University,Landry Kyle,45,RHP,Sr.,75,207,R/R,Heritage Hall HS
+Oklahoma State University,Aaron Weber,48,RHP,Sr.,77,214,N/A,Memorial HS
+Oklahoma State University,Blake Julius,52,RHP,R-Fr.,78,225,N/A,Legacy HS
+Oklahoma State University,Bowen Bridges,53,RHP,Jr.,73,201,R/R,Heritage Hall HS
+Oklahoma State University,Kyle Bade,56,LHP,So.,70,190,N/A,Plano Senior HS
+Oklahoma State University,Mario Pesca,66,RHP,Jr.,80,273,R/R,Cardinal Spellman HS
+Oklahoma State University,Hunter Watkins,77,RHP,So.,81,231,R/R,Grace Brethren HS
+Fresno State University,Victor Arreola,5,RHP,R-Jr.,72,195,R/R,Madison HS
+Fresno State University,Lee Trevi??o,6,Infield,Sr.,71,185,R/R,Redwood HS
+Fresno State University,Eddie Saldivar,7,Infield,Sr.,71,175,L/R,San Joaquin Memorial HS
+Fresno State University,Jett Ruby,9,Infield,R-So.,72,180,L/R,Buchanan HS
+Fresno State University,Griffen Sotomayor,10,Catcher/Infield,Jr.,72,200,R/R,Turlock HS
+Fresno State University,Justin Stransky,11,Catcher,Sr.,73,180,R/R,Emerald Ridge HS
+Fresno State University,Ryan De La Maza,12,Catcher,Fr.,72,185,R/R,Hart HS
+Fresno State University,Max Shor,13,Catcher,R-Jr.,70,205,R/R,Palm Desert HS
+Fresno State University,Cam Schneider,14,Infield/Outfield,So.,75,195,R/R,Bullard HS
+Fresno State University,Murf Gray,15,Infield,Jr.,76,230,R/R,Madera South HS
+Fresno State University,Aidan Cremarosa,16,RHP,Jr.,75,190,R/R,IMG Academy
+Fresno State University,BJ Rodriguez,19,Outfield,Jr.,71,170,L/L,Tulare Western HS
+Fresno State University,Matt Gonsalves,20,Catcher,R-So.,72,190,R/R,Doughtery Valley HS
+Fresno State University,Owen Faust,21,INF,Fr.,72,185,R/R,Tesoro HS
+Fresno State University,Tyler Antwine,25,Outfield,Fr.,74,210,R/R,Santa Paula HS
+Fresno State University,Sky Collins,30,Outfield,Sr.,73,180,R/R,Buchanan HS
+Fresno State University,Barclay Ovalle,31,Outfield,Fr.,72,190,R/R,Sacred Heart HS
+Fresno State University,Jacob Pappas,32,Outfield,R-So.,72,190,R/R,Santa Cruz HS
+Fresno State University,Bryce Armstrong,34,LHP,R-Sr.,76,210,L/L,Corning HS
+Fresno State University,Bobby Blandford,35,Outfield,Sr.,74,205,L/L,Pleasant Grove HS
+Fresno State University,Adrian Garcia,37,RHP,Fr.,74,200,R/R,Central Catholic HS
+Fresno State University,Tyler Patrick,38,RHP,Fr.,73,215,R/R,Clovis West HS
+Fresno State University,Jack Anker,39,RHP,Jr.,74,200,R/R,Tulare Western HS
+Fresno State University,Cayden Munster,40,Infield,R-Fr.,75,240,L/R,Clovis West HS
+Fresno State University,Vance Haskins,41,RHP,Fr.,73,185,R/R,Lodi HS
+Fresno State University,Jake Riding,42,RHP,Sr.,74,215,R/R,Pahrump Valley HS
+Fresno State University,Jared Galang,43,RHP,Fr.,72,170,R/R,Torrance HS
+Fresno State University,Drew Townson,46,RHP,R-Jr.,72,190,R/R,Centennial HS
+Fresno State University,Hayden Crews,47,RHP,R-Jr.,76,220,R/R,River City HS
+Fresno State University,Wyatt Thornbury,48,RHP,R-So.,75,205,R/R,Carlsbad HS
+Fresno State University,Gio Groppetti,49,RHP,R-So.,76,200,R/R,Kerman HS
+Fresno State University,Ismael Castanon,50,RHP,Fr.,74,245,R/R,Bonita HS
+Fresno State University,Cooper Bergman,51,RHP,R-Sr.,74,200,R/R,Buchanan HS
+Fresno State University,JT Guerrero,52,RHP,So.,73,185,R/R,Mt. Whitney HS
+Fresno State University,Garrett Sinfield,53,LHP,So.,73,190,L/L,Damien HS
+Fresno State University,Caleb Anderson,55,RHP,Sr.,77,220,R/R,Paloma Valley HS
+Fresno State University,Kaleb Hay,58,RHP,R-Jr.,72,200,R/R,Liberty HS
+Air Force Academy,Brooks Ward,1,OF,Fr.,73,200,R/L,Catholic
+Air Force Academy,T.J. Oster,2,IF,Jr.,69,170,R/R,Valley Christian
+Air Force Academy,Zach Peters,4,UT/RHP,Sr.,69,170,R/R,Los Alamitos
+Air Force Academy,Alex Adams,5,IF,Fr.,72,190,R/R,Mount Paran
+Air Force Academy,Cooper Winchester,6,C,Fr.,71,187,S/R,Saint Paul School
+Air Force Academy,Dawson Thrush,7,IF,Fr.,72,190,R/R,William T. Dwyer
+Air Force Academy,Dylan Rogers,9,RHP,Sr.,75,190,R/R,McKinney North
+Air Force Academy,Tripp Garrish,10,OF,Jr.,73,210,L/L,Carlmont
+Air Force Academy,Tyler Russ,11,RHP,Fr.,72,195,R/R,St. Paul VI Catholic
+Air Force Academy,Christian Taylor,12,UT,So.,71,180,R/R,Green Hill
+Air Force Academy,Cam Anstey,13,UT,So.,73,185,R/R,Monteverde Academy
+Air Force Academy,Ben Niednagel,16,IF,Jr.,69,160,L/R,Hart
+Air Force Academy,Joey Collier,19,LHP,Jr.,72,195,L/L,Paradise Honors
+Air Force Academy,Chase Spencer,20,OF/RHP,Sr.,73,180,R/R,Plano West
+Air Force Academy,Jaxson Crump,21,RHP,Sr.,72,175,R/R,Sarasota
+Air Force Academy,J.D. Wolff,22,UT,Fr.,68,170,R/L,IMG Academy
+Air Force Academy,Walker Zapp,24,C,Jr.,71,200,R/R,Auburn
+Air Force Academy,Aaron Reyes,25,OF,Sr.,71,186,R/R,St. John Bosco
+Air Force Academy,Josh Shropshire,26,RHP,Fr.,73,185,R/R,Mount St. Mary's
+Air Force Academy,Sam Hentges,27,LHP,So.,74,205,L/L,St. John Bosco
+Air Force Academy,Luke Elmore,29,OF,So.,72,195,R/R,Mosley
+Air Force Academy,Cranz Smelcer,30,RHP,Fr.,78,220,R/R,Apex
+Air Force Academy,Van Klein,31,C,So.,72,180,R/R,Marcus
+Air Force Academy,Easton Miller,32,RHP,Fr.,73,180,R/R,Fossil Ridge
+Air Force Academy,Patrick Davidson,33,RHP,So.,76,210,R/R,Auburn
+Air Force Academy,Landon Boyd,34,C,Sr.,72,195,S/R,Sandra Day O'Connor
+Air Force Academy,Gio Sambito,35,RHP,So.,74,180,L/R,Arnold O. Beckham
+Air Force Academy,Gaines Estridge,36,RHP,So.,75,215,R/R,Covenant Christian Academy
+Air Force Academy,Ethan Dillinger,38,LHP,So.,73,180,L/L,Erie
+Air Force Academy,Charlie Russell,39,RHP,So.,77,205,R/R,Bishop Ready
+Air Force Academy,Kayden Bradshaw,40,OF,Fr.,73,185,R/R,Scurry-Rosser
+Air Force Academy,Marcus Downing,41,RHP,Fr.,75,190,R/R,Pinnacle
+Air Force Academy,Gunner Gilmore,42,RHP,Fr.,74,190,R/R,Lewisburg
+Air Force Academy,Cole Jenkins,43,IF,Fr.,70,170,R/R,Chaparral
+Air Force Academy,Davis Rhyne,44,RHP,So.,77,195,R/R,Hickory Ridge
+Air Force Academy,Bowen Brantingham,45,RHP,So.,77,215,R/R,John Burroughs
