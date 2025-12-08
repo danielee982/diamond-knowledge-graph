@@ -1,9 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
-import time
 import pandas as pd
-from process_data import dedup_coaches, dedup_last_schools, standardize_positions
 
 def scrape_school(school_name, url):
     players, coaches = [], []
@@ -142,6 +140,9 @@ def parse_sidearm(school_name, soup):
                     title = title_div.text.strip() if title_div else 'N/A'
                 else:
                     title = 'N/A'
+
+                if 'coach' not in title.lower():
+                    continue
                 
                 coaches.append({
                     'College': school_name,
@@ -193,15 +194,6 @@ def parse_sidearm_classic(school_name, soup):
             bt_tag = item.find("span", class_="sidearm-roster-player-bats-throws")
             bt_text = bt_tag.get_text(strip=True) if bt_tag else "N/A"
 
-            # # Split into batting + throwing if possible
-            # if "/" in bt_text:
-            #     batting, throwing = bt_text.split("/", 1)
-            #     batting = batting.strip()
-            #     throwing = throwing.strip()
-            # else:
-            #     batting = bt_text
-            #     throwing = "N/A"
-
             # High School
             last_school_tag = item.find("span", class_="sidearm-roster-player-highschool")
             last_school = last_school_tag.get_text(strip=True) if last_school_tag else "N/A"
@@ -235,6 +227,9 @@ def parse_sidearm_classic(school_name, soup):
 
             title_tag = item.find("div", class_="sidearm-roster-coach-title")
             title = title_tag.get_text(strip=True) if title_tag else "N/A"
+
+            if 'coach' not in title.lower():
+                continue
 
             coaches.append({
                 "College": school_name,
