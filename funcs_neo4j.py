@@ -29,8 +29,10 @@ class GraphDBManager:
                 FOR (c:Coach) REQUIRE (c.name, c.schoolName) IS UNIQUE;""",
             """CREATE CONSTRAINT team_name_unique IF NOT EXISTS
                 FOR (t:Team) REQUIRE t.name IS UNIQUE;""",
-            """CREATE CONSTRAINT school_name_unique IF NOT EXISTS
-                FOR (s:School) REQUIRE s.name IS UNIQUE;""",
+            """CREATE CONSTRAINT college_name_unique IF NOT EXISTS
+                FOR (c:College) REQUIRE c.name IS UNIQUE;""",
+            """CREATE CONSTRAINT last_school_name_unique IF NOT EXISTS
+                FOR (ls:LastSchool) REQUIRE ls.name IS UNIQUE;""",
             """CREATE CONSTRAINT conference_name_unique IF NOT EXISTS   
                 FOR (c:Conference) REQUIRE c.name IS UNIQUE;"""
         ]
@@ -44,23 +46,32 @@ class GraphDBManager:
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MERGE (p:Player {name: row.Name, jerseyNumber: row.Jersey, schoolName: row.School})
-            SET p.position = CASE WHEN row.Position = 'N/A' THEN NULL ELSE row.Position END,
-                p.height = toInteger(row.Height),
+            MERGE (p:Player {name: row.Name, jerseyNumber: row.Jersey, schoolName: row.College})
+            SET p.height = toInteger(row.Height),
                 p.weight = toInteger(row.Weight),
-                p.year = row.`Class Year`,
-                p.highSchool = CASE WHEN row.`High School` = 'N/A' THEN NULL ELSE row.`High School` END;
+                p.year = row.`Class Year`;
         """
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
         print("Players added successfully.")
+
+    def add_positions(self):
+        url = f"{RAW_BASE}/positions.csv"
+
+        query = """
+            LOAD CSV WITH HEADERS FROM $url AS row
+            MERGE (p:Position {name: row.name})
+        """
+        self.driver.execute_query(query, url=url, database_=self.DATABASE)
+        print("Positions added successfully.")
 
     def add_coaches(self):
         url = f"{RAW_BASE}/coaches.csv"
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MERGE (c:Coach {name: row.Name, schoolName: row.School})
-            SET c.position = row.Title;
+            MERGE (c:Coach {name: row.Name, schoolName: row.College})
+            SET c.rawPosition = row.Title,
+            SET c.roleList = row.`Role List`;
         """
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
         print("Coaches added successfully.")
@@ -70,7 +81,7 @@ class GraphDBManager:
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MERGE (t:Team {name: row.name});
+            MERGE (t:Team {name: row.team});
         """
 
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
@@ -92,29 +103,48 @@ class GraphDBManager:
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
         print("Conferences added successfully.")
 
-    def add_schools(self):
-        url = f"{RAW_BASE}/schools.csv"
+    def add_lastschools(self):
+        url = f"{RAW_BASE}/lastschools.csv"
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MERGE (s:School {name: row.name})
-            SET s.schoolType = row.`school type`;
+            MERGE (ls:LastSchool {name: row.name})
         """
 
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
-        print("Schools added successfully.")
+        print("Last Schools added successfully.")
+    
+    def add_colleges(self):
+        url = f"{RAW_BASE}/colleges.csv"
+
+        query = """
+            LOAD CSV WITH HEADERS FROM $url AS row
+            MERGE (c:College {name: row.name})
+        """
+
+        self.driver.execute_query(query, url=url, database_=self.DATABASE)
+        print("Colleges added successfully.")
 
     def add_player_relationships(self):
         url = f"{RAW_BASE}/players.csv"
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MATCH (p:Player {name: row.Name, jerseyNumber: row.Jersey, schoolName: row.School}), (t:Team {name: row.School})
+            MATCH (p:Player {name: row.Name, jerseyNumber: row.Jersey, schoolName: row.College}), (t:Team {name: row.Team})
             MERGE (p)-[:PLAYS_FOR]->(t)
 
             WITH p, row
-            MATCH (hs:School {name: row.`High School`})
-            MERGE (p)-[:ATTENDED]->(hs)
+            MATCH (ls:LastSchool {name: row.`Last School`})
+            MERGE (p)-[:ATTENDED]->(ls)
+
+            WITH p, [row.position1, row.position2, row.position3] AS positions
+            UNWIND positions as pos
+
+            WITH p, pos
+            WHERE pos IS NOT NULL AND pos <> ""
+
+            MATCH (ps: Position {name: pos})
+            MERGE (p)-[:HAS_POSITION]->(ps);
         """
 
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
@@ -125,12 +155,12 @@ class GraphDBManager:
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MATCH (t:Team {name: row.name}), (c:Conference {abbreviation: row.`member of`})
+            MATCH (t:Team {name: row.team}), (c:Conference {abbreviation: row.`member of`})
             MERGE (t)-[:MEMBER_OF]->(c)
 
             WITH t, row
-            MATCH (s:School {name: row.name})
-            MERGE (t)-[:REPRESENTS]->(s)
+            MATCH (c:College {name: row.college})
+            MERGE (t)-[:REPRESENTS]->(c)
         """
 
         self.driver.execute_query(query, url=url, database_=self.DATABASE)
@@ -141,7 +171,7 @@ class GraphDBManager:
 
         query = """
             LOAD CSV WITH HEADERS FROM $url AS row
-            MATCH (c:Coach {name: row.Name, schoolName: row.School}), (t:Team {name: row.School})
+            MATCH (c:Coach {name: row.Name, schoolName: row.College}), (t:Team {name: row.Team})
             MERGE (c)-[:COACHES]->(t)
         """
 
@@ -157,10 +187,11 @@ class GraphDBManager:
         self.delete_all()
         self.create_constraints()
         self.add_conferences()
-        self.add_schools()
+        self.add_lastschools()
         self.add_teams()
         self.add_players()
         self.add_coaches()
+        self.add_colleges()
 
         self.add_player_relationships()
         self.add_team_relationships()
