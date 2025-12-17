@@ -1,94 +1,187 @@
-College,Name,Title
-University of Florida,Kevin O'Sullivan,Head Coach
-University of Florida,Chuck Jeroloman,Associate Head Coach
-University of Florida,Taylor Black,Assistant Coach
-University of Florida,David Kopp,Pitching Coach
-University of Florida,Michael Byrne,Student Assistant Coach
-University of Missouri,Kerrick Jackson,Head Coach
-University of Missouri,Jabari Brown,Assistant Coach
-University of Missouri,Tim Jamieson,Assistant Coach
-University of Missouri,Bryson  LeBlanc,Assistant Coach
-University of Oklahoma,Skip Johnson,Head Coach
-University of Oklahoma,Reggie Willits,Associate Head Coach
-University of Oklahoma,Todd Butler,Assistant Coach
-University of Oklahoma,Russell Raley,Assistant Coach
-University of Oklahoma,Bryce Madron,Student Coach
-University of Oklahoma,Scott Mudler,Student Coach
-University of Alabama,Rob Vaughn,Head Coach
-University of Alabama,Jason Jackson,Associate Head Coach
-University of Alabama,Mike Morrison,Assistant Coach
-University of Alabama,Anthony Papio,Assistant Coach
-University of Alabama,Brett Price,Associate Strength and Conditioning Coach (Baseball)
-University of Washington,Eddie Smith,Head Coach
-University of Washington,Connor Lambert,Pitching Coach
-University of Washington,Joe Murray,Strength & Conditioning Coach
-University of Oregon,Mark Wasikowski,Head Coach
-University of Oregon,Blake  Hawksworth,Assistant Coach
-University of Oregon,Jack Marder,Assistant Coach
-University of Oregon,Marcus Hinkle,Assistant Coach
-University of Oregon,Darrell Hunter,Head Strength Coach & Video Analytics Coordinator
-University of Indiana,Jeff Mercer,Head Coach
-University of Indiana,Dustin Glant,Associate Coach/Pitching
-University of Indiana,Zach Weatherford,Assistant Coach/Hitting & Recruiting Coordinator
-University of Indiana,Blake Allen,Assistant Coach/Infield
-University of Indiana,Denton Sagerman,Assistant Coach/Pitching & Catching
-University of Indiana,Scott  Rolen,Special Assistant to the Head Coach
-University of Minnesota,Ty McDevitt,Head Coach
-University of Minnesota,Alec Crawford,Pitching Coach
-University of Minnesota,Connor Gandossy,Assistant Coach
-University of Minnesota,Sean Moore,Assistant Coach
-Texas A&M University,Michael Earley,Head Coach
-Texas A&M University,Jason Kelly,Associate Head Coach
-Texas A&M University,Caleb Longley,Assistant Coach
-Texas A&M University,Will Fox,Assistant Coach
-Texas A&M University,Jeremy McMillan,Head Strength & Conditioning Coach
-Texas A&M University,Roman Gomez,Assistant Strength & Conditioning Coach
-University of Southern Mississippi,Christian Ostrander,Head Coach
-University of Southern Mississippi,Travis Creel,Assistant Coach
-University of Southern Mississippi,Ladd Rhodes,Assistant Coach
-University of Southern Mississippi,Ben Brewer,Assistant Coach
-University of Southern Mississippi,Keller Bradford,Assistant Coach
-University of Southern Mississippi,Todd Makovicka,Head Strength and Conditioning Coach for Olympic Sports
-Troy University,Skylar Meade,Head Coach
-Troy University,Ben Wolgamot,Associate Head Coach
-Troy University,Ryan Fineman,Assistant Coach / Recruiting Coordinator
-Troy University,Adam Godwin,Assistant Coach / Outfield & Base Running Coordinator
-University of Louisiana at Lafayette,Matt Deggs,Head Coach
-University of Louisiana at Lafayette,Seth Thibodeaux,Associate Head Coach
-University of Louisiana at Lafayette,Zach LaFleur,Assistant Coach/Recruiting Coordinator
-University of Louisiana at Lafayette,Gunner Leger,Assistant Coach/Pitching Coach
-Rice University,David Pierce,Bixby Family Head Baseball Coach
-Rice University,Parker Bangs,Pitching Coach
-Rice University,DC  Arendas,Assistant Coach
-Rice University,Justin  Aspegren,Assistant Coach
-Rice University,Lance  Berkman,Volunteer Coach
-Rice University,Ryan  McNerlin,Assistant Strength and Conditioning Coach--Baseball
-University of Memphis,Matt Riser,Head Coach
-University of Memphis,Ford Pemberton,"Assistant Coach (Hitting, Infield), Recruiting Coordinator"
-University of Memphis,Cory Barton,Pitching Coach
-University of Memphis,Connor Manola,Assistant Coach
-University of North Carolina at Charlotte,Robert Woodard,Head CoachPitching Coach
-University of North Carolina at Charlotte,Toby Bicknell,Associate Head CoachRecruiting Coordinator
-University of North Carolina at Charlotte,Phillip Cebuhar,Assistant CoachHitting Coach
-Oregon State University,Mitch Canham,Pat Casey Head Baseball Coach
-Oregon State University,Rich Dorman,Assistant Coach
-Oregon State University,Ryan Gipson,Assistant Coach
-Oregon State University,Joey Wong,Assistant Coach
-Oregon State University,Brady Kasper,Undergraduate Assistant Coach
-Texas Tech University,Tim Tadlock,Head Coach
-Texas Tech University,J-Bob Thomas,Assistant Coach
-Texas Tech University,Eric Gutierrez,Assistant Coach
-Texas Tech University,Steve Foster,Pitching Coach
-Oklahoma State University,Josh Holliday,Head Coach
-Oklahoma State University,Rob Walton,Assistant Coach/Pitching
-Oklahoma State University,Mark Ginther,Assistant Coach/Recruiting Coordinator
-Oklahoma State University,Victor Romero,Assistant Coach
-Fresno State University,Ryan Overland,Head Coach
-Fresno State University,Troy Buckley,Assistant Coach
-Fresno State University,Ritchie Price,Assistant Coach
-Fresno State University,Jack Karraker,Assistant Coach
-Fresno State University,Ryan Reyes,Sports Performance Coaching Assistant
-Air Force Academy,Mike Kazlausky,Head Coach
-Air Force Academy,Drew LaComb,Assistant Coach
-Air Force Academy,Kyle Winkler,Assistant Coach
-Air Force Academy,Tyler Dawson,Assistant Coach
+College,Name,Title,Season
+University of Florida,Kevin O'Sullivan,Head Coach,2025
+University of Florida,Chuck Jeroloman,Associate Head Coach,2025
+University of Florida,Taylor Black,Assistant Coach,2025
+University of Florida,David Kopp,Pitching Coach,2025
+University of Florida,Michael Byrne,Student Assistant Coach,2025
+University of Missouri,Kerrick Jackson,Head Coach,2025
+University of Missouri,Jabari Brown,Assistant Coach,2025
+University of Missouri,Tim Jamieson,Assistant Coach,2025
+University of Missouri,Bryson  LeBlanc,Assistant Coach,2025
+University of Oklahoma,Skip Johnson,Head Coach,2025
+University of Oklahoma,Reggie Willits,Associate Head Coach,2025
+University of Oklahoma,Todd Butler,Assistant Coach,2025
+University of Oklahoma,Russell Raley,Assistant Coach,2025
+University of Alabama,Rob Vaughn,Head Coach,2025
+University of Alabama,Jason Jackson,Associate Head Coach,2025
+University of Alabama,Mike Morrison,Assistant Coach,2025
+University of Alabama,Anthony Papio,Assistant Coach,2025
+University of Alabama,Brett Price,Associate Strength and Conditioning Coach (Baseball),2025
+University of Washington,Eddie Smith,Head Coach,2025
+University of Washington,Connor Lambert,Pitching Coach,2025
+University of Washington,Joe Murray,Strength & Conditioning Coach,2025
+University of Oregon,Mark Wasikowski,Head Coach,2025
+University of Oregon,Blake  Hawksworth,Assistant Coach,2025
+University of Oregon,Jack Marder,Assistant Coach,2025
+University of Oregon,Marcus Hinkle,Assistant Coach,2025
+University of Oregon,Darrell Hunter,Head Strength Coach & Video Analytics Coordinator,2025
+University of Indiana,Jeff Mercer,Head Coach,2025
+University of Indiana,Dustin Glant,Associate Coach/Pitching,2025
+University of Indiana,Zach Weatherford,Assistant Coach/Hitting & Recruiting Coordinator,2025
+University of Indiana,Blake Allen,Assistant Coach/Infield,2025
+University of Indiana,Denton Sagerman,Assistant Coach/Pitching & Catching,2025
+University of Indiana,Scott  Rolen,Special Assistant to the Head Coach,2025
+University of Minnesota,Ty McDevitt,Head Coach,2025
+University of Minnesota,Alec Crawford,Pitching Coach,2025
+University of Minnesota,Connor Gandossy,Assistant Coach,2025
+University of Minnesota,Sean Moore,Assistant Coach,2025
+Texas A&M University,Michael Earley,Head Coach,2025
+Texas A&M University,Jason Kelly,Associate Head Coach,2025
+Texas A&M University,Caleb Longley,Assistant Coach,2025
+Texas A&M University,Will Fox,Assistant Coach,2025
+Texas A&M University,Jeremy McMillan,Head Strength & Conditioning Coach,2025
+Texas A&M University,Roman Gomez,Assistant Strength & Conditioning Coach,2025
+University of Southern Mississippi,Christian Ostrander,Head Coach,2025
+University of Southern Mississippi,Travis Creel,Assistant Coach,2025
+University of Southern Mississippi,Ladd Rhodes,Assistant Coach,2025
+University of Southern Mississippi,Ben Brewer,Assistant Coach,2025
+University of Southern Mississippi,Keller Bradford,Assistant Coach,2025
+University of Southern Mississippi,Todd Makovicka,Head Strength and Conditioning Coach for Olympic Sports,2025
+Troy University,Skylar Meade,Head Coach,2025
+Troy University,Ben Wolgamot,Associate Head Coach,2025
+Troy University,Ryan Fineman,Assistant Coach / Recruiting Coordinator,2025
+Troy University,Adam Godwin,Assistant Coach / Outfield & Base Running Coordinator,2025
+University of Louisiana at Lafayette,Matt Deggs,Head Coach,2025
+University of Louisiana at Lafayette,Seth Thibodeaux,Associate Head Coach,2025
+University of Louisiana at Lafayette,Zach LaFleur,Assistant Coach/Recruiting Coordinator,2025
+University of Louisiana at Lafayette,Gunner Leger,Assistant Coach/Pitching Coach,2025
+Rice University,David Pierce,Bixby Family Head Baseball Coach,2025
+Rice University,Parker Bangs,Pitching Coach,2025
+Rice University,DC  Arendas,Assistant Coach,2025
+Rice University,Justin  Aspegren,Assistant Coach,2025
+Rice University,Lance  Berkman,Volunteer Coach,2025
+Rice University,Ryan  McNerlin,Assistant Strength and Conditioning Coach--Baseball,2025
+University of Memphis,Matt Riser,Head Coach,2025
+University of Memphis,Ford Pemberton,"Assistant Coach (Hitting, Infield), Recruiting Coordinator",2025
+University of Memphis,Cory Barton,Pitching Coach,2025
+University of Memphis,Connor Manola,Assistant Coach,2025
+University of North Carolina at Charlotte,Robert Woodard,Head CoachPitching Coach,2025
+University of North Carolina at Charlotte,Toby Bicknell,Associate Head CoachRecruiting Coordinator,2025
+University of North Carolina at Charlotte,Phillip Cebuhar,Assistant CoachHitting Coach,2025
+Oregon State University,Mitch Canham,Pat Casey Head Baseball Coach,2025
+Oregon State University,Rich Dorman,Assistant Coach,2025
+Oregon State University,Ryan Gipson,Assistant Coach,2025
+Oregon State University,Joey Wong,Assistant Coach,2025
+Oregon State University,Brady Kasper,Undergraduate Assistant Coach,2025
+Texas Tech University,Tim Tadlock,Head Coach,2025
+Texas Tech University,J-Bob Thomas,Assistant Coach,2025
+Texas Tech University,Eric Gutierrez,Assistant Coach,2025
+Texas Tech University,Steve Foster,Pitching Coach,2025
+Oklahoma State University,Josh Holliday,Head Coach,2025
+Oklahoma State University,Rob Walton,Assistant Coach/Pitching,2025
+Oklahoma State University,Mark Ginther,Assistant Coach/Recruiting Coordinator,2025
+Oklahoma State University,Victor Romero,Assistant Coach,2025
+Fresno State University,Ryan Overland,Head Coach,2025
+Fresno State University,Troy Buckley,Assistant Coach,2025
+Fresno State University,Ritchie Price,Assistant Coach,2025
+Fresno State University,Jack Karraker,Assistant Coach,2025
+Fresno State University,Ryan Reyes,Sports Performance Coaching Assistant,2025
+Air Force Academy,Mike Kazlausky,Head Coach,2025
+Air Force Academy,Drew LaComb,Assistant Coach,2025
+Air Force Academy,Kyle Winkler,Assistant Coach,2025
+Air Force Academy,Tyler Dawson,Assistant Coach,2025
+University of Florida,Kevin O'Sullivan,Head Coach,2024
+University of Florida,Chuck Jeroloman,Assistant Coach,2024
+University of Florida,Taylor Black,Assistant Coach,2024
+University of Florida,David Kopp,Assistant Coach,2024
+University of Florida,Mike Rivera,Student Assistant Coach,2024
+University of Missouri,Kerrick Jackson,Head Coach,2024
+University of Missouri,Jabari Brown,Assistant Coach,2024
+University of Missouri,Tim Jamieson,Assistant Coach,2024
+University of Missouri,Bryson  LeBlanc,Assistant Coach,2024
+University of Oklahoma,Skip Johnson,Head Coach,2024
+University of Oklahoma,Reggie Willits,Associate Head Coach,2024
+University of Oklahoma,Todd Butler,Assistant Coach,2024
+University of Oklahoma,Russell Raley,Assistant Coach,2024
+University of Alabama,Rob Vaughn,Head Coach,2024
+University of Alabama,Jason Jackson,Associate Head Coach,2024
+University of Alabama,Mike Morrison,Assistant Coach,2024
+University of Alabama,Anthony Papio,Assistant Coach,2024
+University of Alabama,Brett Price,Associate Strength & Conditioning Coach,2024
+University of Washington,Jason Kelly,Head Coach,2024
+University of Washington,Jake Silverman,Associate Head Coach,2024
+University of Washington,Joe Murray,Strength & Conditioning Coach,2024
+University of Oregon,Mark Wasikowski,Head Coach,2024
+University of Oregon,Blake  Hawksworth,Assistant Coach,2024
+University of Oregon,Jack Marder,Assistant Coach,2024
+University of Oregon,Marcus Hinkle,Assistant Coach,2024
+University of Oregon,Darrell Hunter,Head Strength Coach & Video Analytics Coordinator,2024
+University of Indiana,Jeff Mercer,Head Coach,2024
+University of Indiana,Dustin Glant,Assistant Coach/Pitching,2024
+University of Indiana,Derek Simmons,Assistant Coach/Recruiting Coordinator,2024
+University of Indiana,Zach Weatherford,Assistant Coach,2024
+University of Indiana,Scott  Rolen,Special Assistant to the Head Coach,2024
+University of Indiana,Chris Virtue,Athletic Performance Coach,2024
+University of Minnesota,Ty McDevitt,Head Coach,2024
+University of Minnesota,Alec Crawford,Pitching Coach,2024
+University of Minnesota,Connor Gandossy,Hitting Coach & Recruiting Coordinator,2024
+University of Minnesota,Sean Moore,Assistant Coach,2024
+Texas A&M University,Jim Schlossnagle,Head Coach,2024
+Texas A&M University,Nolan Cain,Associate Head Coach,2024
+Texas A&M University,Michael Earley,Assistant Coach,2024
+Texas A&M University,Max Weiner,Assistant Coach,2024
+Texas A&M University,Josh Kesel,Head Strength & Conditioning Coach,2024
+Texas A&M University,Roman Gomez,Assistant Strength & Conditioning Coach,2024
+University of Southern Mississippi,Christian Ostrander,Head Coach,2024
+University of Southern Mississippi,Travis Creel,Assistant Coach,2024
+University of Southern Mississippi,Ladd Rhodes,Assistant Coach,2024
+University of Southern Mississippi,Ben Brewer,Assistant Coach,2024
+University of Southern Mississippi,Keller Bradford,Assistant Coach,2024
+University of Southern Mississippi,Danny Lynch,Graduate Assistant Coach,2024
+University of Southern Mississippi,Todd Makovicka,Head Strength and Conditioning Coach for Olympic Sports,2024
+Troy University,Skylar Meade,Head Coach,2024
+Troy University,Ben Wolgamot,Assistant Coach - Recruiting Coordinator,2024
+Troy University,Adam Godwin,Assistant Coach,2024
+Troy University,Ethan Landon,Assistant Coach,2024
+University of Louisiana at Lafayette,Matt Deggs,Head Coach,2024
+University of Louisiana at Lafayette,Seth Thibodeaux,Associate Head Coach,2024
+University of Louisiana at Lafayette,Zach LaFleur,Assistant Coach/Recruiting Coordinator,2024
+University of Louisiana at Lafayette,Gunner Leger,Assistant Coach/Pitching Coach,2024
+Rice University,José Cruz  Jr.,Bixby Family Head Baseball Coach,2024
+Rice University,Parker Bangs,Pitching Coach,2024
+Rice University,DC  Arendas,Assistant Coach,2024
+Rice University,Justin  Aspegren,Assistant Coach,2024
+Rice University,Rick Karasch,Assistant Strength & Conditioning Coach,2024
+Rice University,Hannah  Todd,Special Assistant to the Head Coach,2024
+University of Memphis,Matt Riser,Head Coach,2024
+University of Memphis,Ford Pemberton,"Assistant Coach (Hitting, Infield), Recruiting Coordinator",2024
+University of Memphis,Cory Barton,Pitching Coach,2024
+University of Memphis,Connor Manola,Assistant Coach,2024
+University of North Carolina at Charlotte,Robert Woodard,Head Coach,2024
+University of North Carolina at Charlotte,Toby Bicknell,Associate Head Coach / Recruiting Coordinator,2024
+University of North Carolina at Charlotte,Phillip Cebuhar,Assistant Coach / Hitting Coach,2024
+University of North Carolina at Charlotte,Michael Oh,Pitching Coach,2024
+Oregon State University,Mitch Canham,Pat Casey Head Baseball Coach,2024
+Oregon State University,Rich Dorman,Assistant Coach,2024
+Oregon State University,Ryan Gipson,Assistant Coach,2024
+Oregon State University,Joey Wong,Assistant Coach,2024
+Oregon State University,Nate Esposito,Undergraduate Assistant Coach,2024
+Oregon State University,Kyle Froemke,Undergraduate Assistant Coach,2024
+Texas Tech University,Tim Tadlock,Head Coach,2024
+Texas Tech University,J-Bob Thomas,Assistant Coach,2024
+Texas Tech University,Matt Gardner,Assistant Coach,2024
+Texas Tech University,Joe Hughes,Assistant Coach,2024
+Texas Tech University,Tyler Cook,Assistant Strength & Conditioning Coach,2024
+Oklahoma State University,Josh Holliday,Head Coach,2024
+Oklahoma State University,Rob Walton,Assistant Coach/Pitching,2024
+Oklahoma State University,Mark Ginther,Assistant Coach/Recruiting Coordinator,2024
+Oklahoma State University,Victor Romero,Assistant Coach,2024
+Fresno State University,Ryan Overland,Head Coach,2024
+Fresno State University,Troy Buckley,Assistant Coach,2024
+Fresno State University,Ritchie Price,Assistant Coach,2024
+Fresno State University,Jack Karraker,Assistant Coach,2024
+Fresno State University,Ryan Reyes,Sports Performance Coaching Assistant,2024
+Air Force Academy,Mike Kazlausky,Head Coach,2024
+Air Force Academy,Drew LaComb,Assistant Coach,2024
+Air Force Academy,Kyle Winkler,Assistant Coach,2024
+Air Force Academy,Tyler Dawson,Assistant Coach,2024
