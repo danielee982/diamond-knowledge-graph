@@ -3,7 +3,7 @@ import requests
 import csv
 import pandas as pd
 
-def scrape_school(school_name, url):
+def scrape_school(school_name, url, season):
     players, coaches = [], []
     try:
         headers = {
@@ -19,10 +19,10 @@ def scrape_school(school_name, url):
         # Detect structure automatically
         if soup.find('div', class_='s-person-card__content'):
             print(f"Detected Sidearm layout for {school_name}")
-            players, coaches = parse_sidearm(school_name, soup)
+            players, coaches = parse_sidearm(school_name, soup, season)
         elif soup.find('li', class_='sidearm-roster-player'):
             print(f"Detected Classic Sidearm layout for {school_name}")
-            players, coaches = parse_sidearm_classic(school_name, soup)
+            players, coaches = parse_sidearm_classic(school_name, soup, season)
         else:
             print(f"Unknown structure for {school_name}, skipping.")
 
@@ -31,7 +31,7 @@ def scrape_school(school_name, url):
 
     return players, coaches
 
-def parse_sidearm(school_name, soup):
+def parse_sidearm(school_name, soup, season):
     players = []
     coaches = []
     
@@ -108,17 +108,23 @@ def parse_sidearm(school_name, soup):
                 else:
                     batting_throwing = 'N/A'
                 
-                # batting = batting_throwing.split('/')[0].strip() if '/' in batting_throwing else 'N/A'
-                # throwing = batting_throwing.split('/')[1].strip() if '/' in batting_throwing else 'N/A'
-                
-                last_school_elem = person.find('span', attrs={'data-test-id': 's-person-card-list__content-location-person-high-school'})
-                if last_school_elem:
-                    sr_only = last_school_elem.find('span', class_='sr-only')
+                high_school_elem = person.find('span', attrs={'data-test-id': 's-person-card-list__content-location-person-high-school'})
+                if high_school_elem:
+                    sr_only = high_school_elem.find('span', class_='sr-only')
                     if sr_only:
                         sr_only.decompose()
-                    last_school = last_school_elem.text.strip()
+                    high_school = high_school_elem.text.strip()
                 else:
-                    last_school = 'N/A'
+                    high_school = 'N/A'
+                
+                hometown_elem = person.find('span', attrs={'data-test-id': 's-person-card-list__content-location-person-hometown'})
+                if hometown_elem:
+                    sr_only = hometown_elem.find('span', class_='sr-only')
+                    if sr_only:
+                        sr_only.decompose()
+                    hometown = hometown_elem.text.strip()
+                else:
+                    hometown = 'N/A'
                 
                 players.append({
                     'College': school_name,
@@ -129,7 +135,9 @@ def parse_sidearm(school_name, soup):
                     'Height': height,
                     'Weight': weight,
                     'B/T': batting_throwing,
-                    'Last School': last_school
+                    'High School': high_school,
+                    'Hometown': hometown,
+                    "Season": season
                 })
             
             # Coach
@@ -147,7 +155,8 @@ def parse_sidearm(school_name, soup):
                 coaches.append({
                     'College': school_name,
                     'Name': name.text.strip(),
-                    'Title': title
+                    'Title': title,
+                    "Season": season
                 })
         
         print(f'{school_name.upper()} scraped successfully')
@@ -157,7 +166,7 @@ def parse_sidearm(school_name, soup):
         print(f'*** Error scraping {school_name.upper()}: {str(e)}')
         return [], []
     
-def parse_sidearm_classic(school_name, soup):
+def parse_sidearm_classic(school_name, soup, season):
     """
     Parse the older/classic Sidearm Sports roster layout.
     Extracts players and coaches in the SAME FORMAT as existing CSV output.
@@ -195,12 +204,16 @@ def parse_sidearm_classic(school_name, soup):
             bt_text = bt_tag.get_text(strip=True) if bt_tag else "N/A"
 
             # High School
-            last_school_tag = item.find("span", class_="sidearm-roster-player-highschool")
-            last_school = last_school_tag.get_text(strip=True) if last_school_tag else "N/A"
+            high_school_tag = item.find("span", class_="sidearm-roster-player-highschool")
+            high_school = high_school_tag.get_text(strip=True) if high_school_tag else "N/A"
 
             # Class year
             class_tag = item.find("span", class_="sidearm-roster-player-academic-year")
             class_year = class_tag.get_text(strip=True) if class_tag else "N/A"
+
+            # Hometown
+            hometown_tag = item.find("span", class_="sidearm-roster-player-hometown")
+            hometown = hometown_tag.get_text(strip=True) if hometown_tag else "N/A"
 
             players.append({
                 "College": school_name,
@@ -211,7 +224,9 @@ def parse_sidearm_classic(school_name, soup):
                 "Height": height,
                 "Weight": weight,
                 "B/T": bt_text,
-                "Last School": last_school,
+                "High School": high_school,
+                "Hometown": hometown,
+                "Season": season
             })
 
         except Exception as e:
@@ -235,6 +250,7 @@ def parse_sidearm_classic(school_name, soup):
                 "College": school_name,
                 "Name": name,
                 "Title": title,
+                "Season": season
             })
 
         except Exception as e:
@@ -253,8 +269,8 @@ def write_to_csv(filename, data, fieldnames):
 # Schools to scrape
 SCHOOLS = {
     'University of Florida': 'https://floridagators.com/sports/baseball/roster',
-    'University of Missouri': 'https://mutigers.com/sports/baseball/roster',
-    'University of Oklahoma': 'https://soonersports.com/sports/baseball/roster',
+    'University of Missouri': 'https://mutigers.com/sports/baseball/roster/2025',
+    'University of Oklahoma': 'https://soonersports.com/sports/baseball/roster/2025',
     'University of Alabama': 'https://rolltide.com/sports/baseball/roster/2025',
     'University of Washington': 'https://gohuskies.com/sports/baseball/roster/2025',
     'University of Oregon': 'https://goducks.com/sports/baseball/roster/2025',
@@ -274,39 +290,73 @@ SCHOOLS = {
     'Air Force Academy': 'https://goairforcefalcons.com/sports/baseball/roster/2025',
 }
 
+SCHOOLS_2024 = {
+    'University of Florida': 'https://floridagators.com/sports/baseball/roster/2024',
+    'University of Missouri': 'https://mutigers.com/sports/baseball/roster/2024',
+    'University of Oklahoma': 'https://soonersports.com/sports/baseball/roster/2024',
+    'University of Alabama': 'https://rolltide.com/sports/baseball/roster/2024',
+    'University of Washington': 'https://gohuskies.com/sports/baseball/roster/2024',
+    'University of Oregon': 'https://goducks.com/sports/baseball/roster/2024',
+    'University of Indiana': 'https://iuhoosiers.com/sports/baseball/roster/2024',
+    'University of Minnesota': 'https://gophersports.com/sports/baseball/roster/2024',
+    'Texas A&M University': 'https://12thman.com/sports/baseball/roster/2024',
+    'University of Southern Mississippi': 'https://southernmiss.com/sports/baseball/roster/2024',
+    'Troy University': 'https://troytrojans.com/sports/baseball/roster/2024?path=baseball',
+    'University of Louisiana at Lafayette': 'https://ragincajuns.com/sports/baseball/roster/2024',
+    'Rice University': 'https://riceowls.com/sports/baseball/roster/2024',
+    'University of Memphis': 'https://gotigersgo.com/sports/baseball/roster/2024',
+    'University of North Carolina at Charlotte': 'https://charlotte49ers.com/sports/baseball/roster/2024',
+    'Oregon State University': 'https://osubeavers.com/sports/baseball/roster/2024',
+    'Texas Tech University': 'https://texastech.com/sports/baseball/roster/2024',
+    'Oklahoma State University': 'https://okstate.com/sports/baseball/roster/2024',
+    'Fresno State University': 'https://gobulldogs.com/sports/baseball/roster/2024',
+    'Air Force Academy': 'https://goairforcefalcons.com/sports/baseball/roster/2024',
+}
+
 if __name__ == '__main__':
     all_players_data = []
     all_coaches_data = []
-    last_schools = set()
+    high_schools = set()
 
     for i, (school_name, url) in enumerate(SCHOOLS.items()):
-        print(f'\nScraping {school_name.upper()}...')
+        print(f'\nScraping {school_name.upper()} 2025...')
 
-        players, coaches = scrape_school(school_name, url)
+        players, coaches = scrape_school(school_name, url, season=2025)
         all_players_data.extend(players)
         all_coaches_data.extend(coaches)
 
         for player in players:
-            if player["Last School"] != 'N/A':
-                last_schools.add(player["Last School"].replace("/", "").strip())
+            if player["High School"] != 'N/A':
+                high_schools.add(player["High School"].replace("/", "").strip())
+
+    for i, (school_name, url) in enumerate(SCHOOLS_2024.items()):
+        print(f'\nScraping {school_name.upper()} 2024...')
+
+        players, coaches = scrape_school(school_name, url, season=2024)
+        all_players_data.extend(players)
+        all_coaches_data.extend(coaches)
+
+        for player in players:
+            if player["High School"] != 'N/A':
+                high_schools.add(player["High School"].replace("/", "").strip())
 
     # Write players data to CSV
-    write_to_csv('data/raw/players.csv', all_players_data, ['College', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'B/T', 'Last School'])
+    write_to_csv('data/raw/players.csv', all_players_data, ['College', 'Name', 'Jersey', 'Position', 'Class Year', 'Height', 'Weight', 'B/T', 'High School', 'Hometown', 'Season'])
     print(f'{len(all_players_data)} total player records written to players.csv')
 
     # Write coaches data to CSV
-    write_to_csv('data/raw/coaches.csv', all_coaches_data, ['College', 'Name', 'Title'])
+    write_to_csv('data/raw/coaches.csv', all_coaches_data, ['College', 'Name', 'Title', 'Season'])
     print(f'{len(all_coaches_data)} total coach records written to coaches.csv')
 
     # Write schools data to CSV
-    with open('data/raw/lastschools.csv', 'w', newline='', encoding='utf-8') as file:
+    with open('data/raw/highschools.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow(['name'])  # Header
         
-        # Write last schools
-        for ls in sorted(last_schools):
-            writer.writerow([ls])
-    print(f'{len(last_schools)} total last schools written to lastschools.csv')
+        # Write high schools
+        for hs in sorted(high_schools):
+            writer.writerow([hs])
+    print(f'{len(high_schools)} total high schools written to highschools.csv')
 
     with open('data/processed/colleges.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
